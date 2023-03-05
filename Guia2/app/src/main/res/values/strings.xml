@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practica2 Esteban Gamez</string>
+    <string name="resultado">Resultado:</string>
+    <string name="nombre">Digitar Nombre:</string>
+    <string name="numero1">Digitar Numero 1:</string>
+    <string name="numero2">Digitar Numero 2:</string>
+    <string name="enviar">Enviar</string>
+</resources>
