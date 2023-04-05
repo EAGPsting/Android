@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Prueba Practica 2</string>
+    <string name="hintemail">Correo Electronico</string>
+    <string name="hintpass">Contraseña</string>
+    <string name="textbtnLogin">Autenticar</string>
+    <string name="texttextView">¿No tienes una cuenta?</string>
+    <string name="texttextViewRegister">Registrar</string>
+    <string name="texttextViewReg">¿Ya posees una cuenta?</string>
+    <string name="textViewLogin">Ingresar</string>
+    <string name="textCarrito">Carrito</string>
+    <string name="hintnombreProd">Nombre de producto</string>
+    <string name="hintprecio">Digite Precio</string>
+    <string name="textguardar">Guardar</string>
+    <string name="textcancelar">Cancelar</string>
+    <string name="textcomprar">Comprar</string>
+    <string name="textProducto">Producto</string>
+    <string name="hintIndicaciones">Indicaciones del producto</string>
+    <string name="hintContraIndicaciones">Contraindicaciones del producto</string>
+</resources>
