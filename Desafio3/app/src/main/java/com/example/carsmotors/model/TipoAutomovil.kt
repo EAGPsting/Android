@@ -24,8 +24,8 @@ class TipoAutomovil(context: Context) {
 
         val CREATE_TABLE_TIPO_AUTOMOVIL = (
                 "CREATE TABLE IF NOT EXISTS " + TABLE_NAME_TIPO_AUTOMOVIL + "("
-                        + COL_ID + "integer primary key autoincrement,"
-                        + COL_DESCRIPCION + "varchar(45) NOT NULL);"
+                        + COL_ID + " integer primary key autoincrement,"
+                        + COL_DESCRIPCION + " varchar(45) NOT NULL);"
                 )
     }
 
@@ -64,7 +64,7 @@ class TipoAutomovil(context: Context) {
     fun showAlltiposVehiculos(): Cursor? {
         val columns = arrayOf(COL_ID, COL_DESCRIPCION)
         return db!!.query(
-            TABLE_NAME_TIPO_AUTOMOVIL, columns , null, null, null, null, "$COL_DESCRIPCION MRC"
+            TABLE_NAME_TIPO_AUTOMOVIL, columns , null, null, null, null, "$COL_DESCRIPCION ASC"
         )
     }
 

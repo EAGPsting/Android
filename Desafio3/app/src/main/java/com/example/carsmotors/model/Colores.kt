@@ -25,8 +25,8 @@ class Colores(context: Context) {
 
         val CREATE_TABLE_COLORES = (
                 "CREATE TABLE IF NOT EXISTS " + TABLE_NAME_COLORES + "("
-                        + COL_ID + "integer primary key autoincrement,"
-                        + COL_DESCRIPCION + "varchar(45) NOT NULL);"
+                        + COL_ID + " integer primary key autoincrement,"
+                        + COL_DESCRIPCION + " varchar(45) NOT NULL);"
                 )
     }
 
@@ -68,7 +68,7 @@ class Colores(context: Context) {
     fun showAllColores(): Cursor? {
         val columns = arrayOf(COL_ID, COL_DESCRIPCION)
         return db!!.query(
-            TABLE_NAME_COLORES, columns , null, null, null, null, "$COL_DESCRIPCION MRC"
+            TABLE_NAME_COLORES, columns , null, null, null, null, "$COL_DESCRIPCION ASC"
         )
     }
 

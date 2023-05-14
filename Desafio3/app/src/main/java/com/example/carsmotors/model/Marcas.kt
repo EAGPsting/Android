@@ -25,8 +25,8 @@ class Marcas(context: Context) {
 
         val CREATE_TABLE_MARCAS = (
                 "CREATE TABLE IF NOT EXISTS " + TABLE_NAME_MARCAS + "("
-                + COL_ID + "integer primary key autoincrement,"
-                + COL_NOMBRE + "varchar(45) NOT NULL);"
+                + COL_ID + " integer primary key autoincrement,"
+                + COL_NOMBRE + " varchar(45) NOT NULL);"
                 )
     }
 
@@ -67,7 +67,7 @@ class Marcas(context: Context) {
     fun showAllMarcas(): Cursor? {
         val columns = arrayOf(COL_ID, COL_NOMBRE)
         return db!!.query(
-            TABLE_NAME_MARCAS, columns , null, null, null, null, "$COL_NOMBRE MRC"
+            TABLE_NAME_MARCAS, columns , null, null, null, null, "$COL_NOMBRE ASC"
         )
     }
 

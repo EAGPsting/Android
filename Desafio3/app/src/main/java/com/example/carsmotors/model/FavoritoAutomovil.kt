@@ -28,12 +28,12 @@ class FavoritoAutomovil(context: Context) {
 
         val CREATE_TABLE_FAVORITOS_AUTOMOVIL = (
                 "CREATE TABLE IF NOT EXISTS " + TABLE_NAME_FAVORITO_AUTOMOVIL + "("
-                        + COL_ID + "integer primary key autoincrement,"
-                        + COL_IDUSUARIO + "integer NOT NULL,"
-                        + COL_IDAUTOMOVIL + "integer NOT NULL,"
-                        + COL_FECHA_AGREGADO + "timestamp NOT NULL,"
-                        + "FOREIGN KEY (idautomovil) REFERENCES automovil(idautomovil)"
-                        + "FOREIGN KEY (idusuario) REFERENCES usuario(idusuario));"
+                        + COL_ID + " integer primary key autoincrement,"
+                        + COL_IDUSUARIO + " integer NOT NULL,"
+                        + COL_IDAUTOMOVIL + " integer NOT NULL,"
+                        + COL_FECHA_AGREGADO + " timestamp NOT NULL,"
+                        + " FOREIGN KEY (idautomovil) REFERENCES automovil(idautomovil)"
+                        + " FOREIGN KEY (idusuario) REFERENCES usuario(idusuario));"
 
                 )
     }
@@ -83,7 +83,7 @@ class FavoritoAutomovil(context: Context) {
     fun searchAutomovilAll(): Cursor? {
         val columns = arrayOf(COL_ID, COL_IDUSUARIO, COL_IDAUTOMOVIL, COL_FECHA_AGREGADO)
         return db!!.query(
-            TABLE_NAME_FAVORITO_AUTOMOVIL, columns, null, null, null, null,"${FavoritoAutomovil.COL_FECHA_AGREGADO} MRC"
+            TABLE_NAME_FAVORITO_AUTOMOVIL, columns, null, null, null, null,"${FavoritoAutomovil.COL_FECHA_AGREGADO} ASC"
         )
     }
 

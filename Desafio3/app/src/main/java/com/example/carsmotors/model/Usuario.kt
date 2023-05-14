@@ -31,13 +31,13 @@ class Usuario(context: Context) {
 
         val CREATE_TABLE_USUARIO = (
                 "CREATE TABLE IF NOT EXISTS " + TABLE_NAME_USUARIO + "("
-                        + COL_ID + "integer primary key autoincrement,"
-                        + COL_NOMBRE + "varchar(45) NOT NULL,"
-                        + COL_APELLIDOS + "varchar(45) NOT NULL,"
-                        + COL_EMAIL + "varchar(45) NOT NULL,"
-                        + COL_USER + "varchar(45) NOT NULL,"
-                        + COL_PASSWORD + "varchar(45) NOT NULL,"
-                        + COL_TIPO + "varchar(45) NOT NULL);"
+                        + COL_ID + " integer primary key autoincrement,"
+                        + COL_NOMBRE + " varchar(45) NOT NULL,"
+                        + COL_APELLIDOS + " varchar(45) NOT NULL,"
+                        + COL_EMAIL + " varchar(45) NOT NULL,"
+                        + COL_USER + " varchar(45) NOT NULL,"
+                        + COL_PASSWORD + " varchar(45) NOT NULL,"
+                        + COL_TIPO + " varchar(45) NOT NULL);"
                 )
     }
 
@@ -95,7 +95,7 @@ class Usuario(context: Context) {
     fun searchUsuarioAll(): Cursor? {
         val columns = arrayOf(COL_ID, COL_NOMBRE, COL_APELLIDOS, COL_EMAIL, COL_USER, COL_PASSWORD, COL_TIPO)
         return db!!.query(
-            TABLE_NAME_USUARIO, columns, null, null, null, null,"${Usuario.COL_USER} MRC"
+            TABLE_NAME_USUARIO, columns, null, null, null, null,"${Usuario.COL_USER} ASC"
         )
     }
 }

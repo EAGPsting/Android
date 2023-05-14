@@ -39,23 +39,23 @@ class Automovil(context: Context) {
 
         val CREATE_TABLE_AUTOMOVIL = (
                 "CREATE TABLE IF NOT EXISTS " + TABLE_NAME_AUTOMOVIL + "("
-                        + COL_ID + "integer primary key autoincrement,"
-                        + COL_IDMARCAS + "integer NOT NULL,"
-                        + COL_IDTIPOAUTOMOVIL + "integer NOT NULL,"
-                        + COL_IDCOLORES + "integer NOT NULL,"
-                        + COL_MODELO + "varchar(45) NOT NULL,"
-                        + COL_NUMERO_VIN + "varchar(45) NOT NULL),"
-                        + COL_NUMERO_CHASIS + "varchar(45) NOT NULL),"
-                        + COL_NUMERO_MOTOR + "varchar(45) NOT NULL),"
-                        + COL_NUMERO_ASIENTOS + "integer,"
-                        + COL_ANIO + "year,"
-                        + COL_CAPACIDAD_ASIENTOS + "integer,"
-                        + COL_PRECIO + "decimal(10,2) NOT NULL,"
-                        + URI_IMG + "varchar(45) NOT NULL,"
-                        + COL_DESCRIPCION + "varchar(45) NOT NULL,"
-                        + "FOREIGN KEY (idmarcas) REFERENCES marcas(idmarcas)"
-                        + "FOREIGN KEY (idtipoautomovil) REFERENCES tipo_automovil(idtipoautomovil)"
-                        + "FOREIGN KEY (idcolores) REFERENCES colores(idcolores));"
+                        + COL_ID + " integer primary key autoincrement,"
+                        + COL_IDMARCAS + " integer NOT NULL,"
+                        + COL_IDTIPOAUTOMOVIL + " integer NOT NULL,"
+                        + COL_IDCOLORES + " integer NOT NULL,"
+                        + COL_MODELO + " varchar(45) NOT NULL,"
+                        + COL_NUMERO_VIN + " varchar(45) NOT NULL,"
+                        + COL_NUMERO_CHASIS + " varchar(45) NOT NULL,"
+                        + COL_NUMERO_MOTOR + " varchar(45) NOT NULL,"
+                        + COL_NUMERO_ASIENTOS + " integer,"
+                        + COL_ANIO + " year,"
+                        + COL_CAPACIDAD_ASIENTOS + " integer,"
+                        + COL_PRECIO + " decimal(10,2) NOT NULL,"
+                        + URI_IMG + " varchar(45) NOT NULL,"
+                        + COL_DESCRIPCION + " varchar(45) NOT NULL,"
+                        + " FOREIGN KEY (idmarcas) REFERENCES marcas(idmarcas)"
+                        + " FOREIGN KEY (idtipoautomovil) REFERENCES tipo_automovil(idtipoautomovil)"
+                        + " FOREIGN KEY (idcolores) REFERENCES colores(idcolores));"
                 )
     }
 
@@ -137,7 +137,7 @@ class Automovil(context: Context) {
         val columns = arrayOf(COL_ID, COL_IDMARCAS, COL_IDTIPOAUTOMOVIL, COL_IDCOLORES, COL_MODELO, COL_NUMERO_VIN, COL_NUMERO_CHASIS,
             COL_NUMERO_MOTOR, COL_NUMERO_ASIENTOS, COL_ANIO, COL_CAPACIDAD_ASIENTOS, COL_PRECIO, URI_IMG, COL_DESCRIPCION)
         return db!!.query(
-            TABLE_NAME_AUTOMOVIL, columns, null, null, null, null,"${Automovil.COL_DESCRIPCION} MRC"
+            TABLE_NAME_AUTOMOVIL, columns, null, null, null, null,"${Automovil.COL_DESCRIPCION} ASC"
         )
     }
 }
