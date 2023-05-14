@@ -2457,6 +2457,9 @@ drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
 drawable icon
+drawable img1
+drawable img2
+drawable img3
 drawable m3_appbar_background
 drawable m3_popupmenu_background_overlay
 drawable m3_radiobutton_ripple
@@ -2514,6 +2517,11 @@ id SHOW_ALL
 id SHOW_PATH
 id SHOW_PROGRESS
 id SYM
+id SignInBtn
+id SignInText
+id SignUpBtn
+id SignUpProgress
+id SignUpText
 id TOP_END
 id TOP_START
 id accelerate
@@ -2879,6 +2887,17 @@ id shortcut
 id showCustom
 id showHome
 id showTitle
+id signInEmail
+id signInPassword
+id signInPasswordLayout
+id signInProgressBar
+id signUpApellido
+id signUpEmail
+id signUpName
+id signUpPassword
+id signUpPasswordLayout
+id signUpTipo
+id signUpUser
 id sin
 id skipCollapsed
 id skipped
@@ -3097,7 +3116,9 @@ layout activity_colores
 layout activity_login
 layout activity_main
 layout activity_marcas
+layout activity_sign_up
 layout activity_tipos
+layout activity_usuario
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
@@ -3631,6 +3652,7 @@ style Platform_V21_AppCompat_Light
 style Platform_V25_AppCompat
 style Platform_V25_AppCompat_Light
 style Platform_Widget_AppCompat_Spinner
+style Progressbar
 style RtlOverlay_DialogWindowTitle_AppCompat
 style RtlOverlay_Widget_AppCompat_ActionBar_TitleItem
 style RtlOverlay_Widget_AppCompat_DialogTitle_Icon

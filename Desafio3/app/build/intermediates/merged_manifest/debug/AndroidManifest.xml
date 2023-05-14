@@ -31,6 +31,9 @@
             android:name="com.example.carsmotors.UsuarioActivity"
             android:exported="false" />
         <activity
+            android:name="com.example.carsmotors.SignUpActivity"
+            android:exported="false" />
+        <activity
             android:name="com.example.carsmotors.TiposActivity"
             android:exported="false" />
         <activity
@@ -41,9 +44,6 @@
             android:exported="false" />
         <activity
             android:name="com.example.carsmotors.LoginActivity"
-            android:exported="false" />
-        <activity
-            android:name="com.example.carsmotors.MainActivity"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -51,6 +51,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="com.example.carsmotors.MainActivity"
+            android:exported="false" />
 
         <provider
             android:name="androidx.startup.InitializationProvider"

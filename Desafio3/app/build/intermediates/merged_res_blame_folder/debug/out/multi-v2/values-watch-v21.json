@@ -4,7 +4,7 @@
             "outputFile": "com.example.carsmotors.app-mergeDebugResources-26:/values-watch-v21/values-watch-v21.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\esteban.gamez\\.gradle\\caches\\transforms-3\\678ac082474fe5fe1e0e16889c26f38f\\transformed\\appcompat-1.6.1\\res\\values-watch-v21\\values-watch-v21.xml",
+                    "source": "/Users/gerardojavireyes97gmail.com/.gradle/caches/transforms-3/678ac082474fe5fe1e0e16889c26f38f/transformed/appcompat-1.6.1/res/values-watch-v21/values-watch-v21.xml",
                     "from": {
                         "startLines": "2,6,10",
                         "startColumns": "4,4,4",
