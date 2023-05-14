@@ -2625,6 +2625,10 @@ id btnEliminar
 id btnMarcas
 id btnTipo
 id buttonPanel
+id button_add
+id button_delete
+id button_search
+id button_update
 id cache_measures
 id callMeasure
 id cancel_button
@@ -2702,6 +2706,11 @@ id easeInOut
 id easeOut
 id east
 id edit_query
+id edit_text_apellidos
+id edit_text_email
+id edit_text_nombre
+id edit_text_password
+id edit_text_user
 id elastic
 id end
 id endToStart
@@ -2762,6 +2771,7 @@ id line3
 id linear
 id listMode
 id list_item
+id list_view_usuarios
 id masked
 id match_constraint
 id match_parent
@@ -2859,6 +2869,9 @@ id postLayout
 id progress_circular
 id progress_horizontal
 id radio
+id radio_button_admin
+id radio_button_user
+id radio_group_tipo
 id ratio
 id rectangles
 id reverseSawtooth

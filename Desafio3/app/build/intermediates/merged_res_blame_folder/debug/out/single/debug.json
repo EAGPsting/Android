@@ -1,5 +1,6 @@
 [
     {
+<<<<<<< Updated upstream
         "merged": "C:\\Program Files\\Java\\jdk-19\\daemon\\8.0\\com.example.carsmotors.app-merged_res-28:\\menu_menu.xml.flat",
         "source": "C:\\Program Files\\Java\\jdk-19\\daemon\\8.0\\com.example.carsmotors.app-main-30:\\menu\\menu.xml"
     },
@@ -118,5 +119,117 @@
     {
         "merged": "C:\\Program Files\\Java\\jdk-19\\daemon\\8.0\\com.example.carsmotors.app-merged_res-28:\\drawable_img3.png.flat",
         "source": "C:\\Program Files\\Java\\jdk-19\\daemon\\8.0\\com.example.carsmotors.app-main-30:\\drawable\\img3.png"
+=======
+        "merged": "/Users/gerardojavireyes97gmail.com/.gradle/daemon/8.0/com.example.carsmotors.app-merged_res-28:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/gerardojavireyes97gmail.com/.gradle/daemon/8.0/com.example.carsmotors.app-main-30:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/gerardojavireyes97gmail.com/.gradle/daemon/8.0/com.example.carsmotors.app-merged_res-28:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/gerardojavireyes97gmail.com/.gradle/daemon/8.0/com.example.carsmotors.app-main-30:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/gerardojavireyes97gmail.com/.gradle/daemon/8.0/com.example.carsmotors.app-merged_res-28:/layout_activity_colores.xml.flat",
+        "source": "/Users/gerardojavireyes97gmail.com/.gradle/daemon/8.0/com.example.carsmotors.app-main-30:/layout/activity_colores.xml"
+    },
+    {
+        "merged": "/Users/gerardojavireyes97gmail.com/.gradle/daemon/8.0/com.example.carsmotors.app-merged_res-28:/layout_activity_marcas.xml.flat",
+        "source": "/Users/gerardojavireyes97gmail.com/.gradle/daemon/8.0/com.example.carsmotors.app-main-30:/layout/activity_marcas.xml"
+    },
+    {
+        "merged": "/Users/gerardojavireyes97gmail.com/.gradle/daemon/8.0/com.example.carsmotors.app-merged_res-28:/layout_activity_sign_up.xml.flat",
+        "source": "/Users/gerardojavireyes97gmail.com/.gradle/daemon/8.0/com.example.carsmotors.app-main-30:/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "/Users/gerardojavireyes97gmail.com/.gradle/daemon/8.0/com.example.carsmotors.app-merged_res-28:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/gerardojavireyes97gmail.com/.gradle/daemon/8.0/com.example.carsmotors.app-main-30:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/gerardojavireyes97gmail.com/.gradle/daemon/8.0/com.example.carsmotors.app-merged_res-28:/drawable_img3.png.flat",
+        "source": "/Users/gerardojavireyes97gmail.com/.gradle/daemon/8.0/com.example.carsmotors.app-main-30:/drawable/img3.png"
+    },
+    {
+        "merged": "/Users/gerardojavireyes97gmail.com/.gradle/daemon/8.0/com.example.carsmotors.app-merged_res-28:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/gerardojavireyes97gmail.com/.gradle/daemon/8.0/com.example.carsmotors.app-main-30:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/gerardojavireyes97gmail.com/.gradle/daemon/8.0/com.example.carsmotors.app-merged_res-28:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/gerardojavireyes97gmail.com/.gradle/daemon/8.0/com.example.carsmotors.app-main-30:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/gerardojavireyes97gmail.com/.gradle/daemon/8.0/com.example.carsmotors.app-merged_res-28:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/gerardojavireyes97gmail.com/.gradle/daemon/8.0/com.example.carsmotors.app-main-30:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/gerardojavireyes97gmail.com/.gradle/daemon/8.0/com.example.carsmotors.app-merged_res-28:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/gerardojavireyes97gmail.com/.gradle/daemon/8.0/com.example.carsmotors.app-main-30:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/gerardojavireyes97gmail.com/.gradle/daemon/8.0/com.example.carsmotors.app-merged_res-28:/drawable_img1.png.flat",
+        "source": "/Users/gerardojavireyes97gmail.com/.gradle/daemon/8.0/com.example.carsmotors.app-main-30:/drawable/img1.png"
+    },
+    {
+        "merged": "/Users/gerardojavireyes97gmail.com/.gradle/daemon/8.0/com.example.carsmotors.app-merged_res-28:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/gerardojavireyes97gmail.com/.gradle/daemon/8.0/com.example.carsmotors.app-main-30:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/gerardojavireyes97gmail.com/.gradle/daemon/8.0/com.example.carsmotors.app-merged_res-28:/xml_backup_rules.xml.flat",
+        "source": "/Users/gerardojavireyes97gmail.com/.gradle/daemon/8.0/com.example.carsmotors.app-main-30:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/gerardojavireyes97gmail.com/.gradle/daemon/8.0/com.example.carsmotors.app-merged_res-28:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/gerardojavireyes97gmail.com/.gradle/daemon/8.0/com.example.carsmotors.app-main-30:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/gerardojavireyes97gmail.com/.gradle/daemon/8.0/com.example.carsmotors.app-merged_res-28:/layout_activity_main.xml.flat",
+        "source": "/Users/gerardojavireyes97gmail.com/.gradle/daemon/8.0/com.example.carsmotors.app-main-30:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.carsmotors.app-merged_res-28:/layout_activity_usuario.xml.flat",
+        "source": "com.example.carsmotors.app-main-30:/layout/activity_usuario.xml"
+    },
+    {
+        "merged": "/Users/gerardojavireyes97gmail.com/.gradle/daemon/8.0/com.example.carsmotors.app-merged_res-28:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/gerardojavireyes97gmail.com/.gradle/daemon/8.0/com.example.carsmotors.app-main-30:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/gerardojavireyes97gmail.com/.gradle/daemon/8.0/com.example.carsmotors.app-merged_res-28:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/gerardojavireyes97gmail.com/.gradle/daemon/8.0/com.example.carsmotors.app-main-30:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/gerardojavireyes97gmail.com/.gradle/daemon/8.0/com.example.carsmotors.app-merged_res-28:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/gerardojavireyes97gmail.com/.gradle/daemon/8.0/com.example.carsmotors.app-main-30:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/gerardojavireyes97gmail.com/.gradle/daemon/8.0/com.example.carsmotors.app-merged_res-28:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/gerardojavireyes97gmail.com/.gradle/daemon/8.0/com.example.carsmotors.app-main-30:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/gerardojavireyes97gmail.com/.gradle/daemon/8.0/com.example.carsmotors.app-merged_res-28:/drawable_img2.png.flat",
+        "source": "/Users/gerardojavireyes97gmail.com/.gradle/daemon/8.0/com.example.carsmotors.app-main-30:/drawable/img2.png"
+    },
+    {
+        "merged": "/Users/gerardojavireyes97gmail.com/.gradle/daemon/8.0/com.example.carsmotors.app-merged_res-28:/drawable_icon.png.flat",
+        "source": "/Users/gerardojavireyes97gmail.com/.gradle/daemon/8.0/com.example.carsmotors.app-main-30:/drawable/icon.png"
+    },
+    {
+        "merged": "/Users/gerardojavireyes97gmail.com/.gradle/daemon/8.0/com.example.carsmotors.app-merged_res-28:/layout_activity_login.xml.flat",
+        "source": "/Users/gerardojavireyes97gmail.com/.gradle/daemon/8.0/com.example.carsmotors.app-main-30:/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/gerardojavireyes97gmail.com/.gradle/daemon/8.0/com.example.carsmotors.app-merged_res-28:/layout_activity_usuario.xml.flat",
+        "source": "/Users/gerardojavireyes97gmail.com/.gradle/daemon/8.0/com.example.carsmotors.app-main-30:/layout/activity_usuario.xml"
+    },
+    {
+        "merged": "/Users/gerardojavireyes97gmail.com/.gradle/daemon/8.0/com.example.carsmotors.app-merged_res-28:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/gerardojavireyes97gmail.com/.gradle/daemon/8.0/com.example.carsmotors.app-main-30:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/gerardojavireyes97gmail.com/.gradle/daemon/8.0/com.example.carsmotors.app-merged_res-28:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/gerardojavireyes97gmail.com/.gradle/daemon/8.0/com.example.carsmotors.app-main-30:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/gerardojavireyes97gmail.com/.gradle/daemon/8.0/com.example.carsmotors.app-merged_res-28:/layout_activity_tipos.xml.flat",
+        "source": "/Users/gerardojavireyes97gmail.com/.gradle/daemon/8.0/com.example.carsmotors.app-main-30:/layout/activity_tipos.xml"
+>>>>>>> Stashed changes
     }
 ]

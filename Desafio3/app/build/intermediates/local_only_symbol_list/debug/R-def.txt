@@ -27,11 +27,27 @@ id btnBuscar
 id btnBuscar2
 id btnColor
 id btnEliminar
+<<<<<<< Updated upstream
 id btnMarcas
 id btnTipo
+=======
+id button_add
+id button_delete
+id button_search
+id button_update
+>>>>>>> Stashed changes
 id cmbColor
 id cmbMarca
 id cmbTipo
+id edit_text_apellidos
+id edit_text_email
+id edit_text_nombre
+id edit_text_password
+id edit_text_user
+id list_view_usuarios
+id radio_button_admin
+id radio_button_user
+id radio_group_tipo
 id signInEmail
 id signInPassword
 id signInPasswordLayout
