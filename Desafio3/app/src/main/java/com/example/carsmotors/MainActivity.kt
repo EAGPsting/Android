@@ -148,6 +148,7 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
         val tipo: String = cmbTipoAutomovil!!.selectedItem.toString().trim()
         val marca: String = cmbMarcas!!.selectedItem.toString().trim()
         val color: String = cmbColores!!.selectedItem.toString().trim()
+        val foto: String = "SIN IMAGEN"
         val idvehiculo: String = txtId!!.text.toString().trim()
         if (db != null) {
             if (view === btnAgregar) {
@@ -164,7 +165,7 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
                         año.toInt(),
                         asientos.toInt(),
                         precio.toDouble(),
-                       "",
+                        foto,
                         descripcion
                     )
                     Toast.makeText(this, "Automovil agregado",
@@ -185,7 +186,7 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
                         año.toInt(),
                         asientos.toInt(),
                         precio.toDouble(),
-                        "",
+                        "SIN IMAGEN",
                         descripcion
                     )
                     Toast.makeText(this, "Automovil actualizado",
@@ -253,7 +254,7 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
             if (asientos.isEmpty()) {
                 txtAsientos!!.error = "Ingrese la cantidad de asientos"
                 txtAsientos!!.requestFocus()
-                motor_v = false
+                asientos_v = false
             }
             if (precio.isEmpty()) {
                 txtPrecio!!.error = "Ingrese el precio del vehiculo"
@@ -275,9 +276,9 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
                     idautomovil_v = false
                     notificacion = "No se ha seleccionado un vehiculo"
                 }
-                response = !(modelo_v == false || precio_v == false || motor_v == false || año_v == false || chasis_v == false || vin_v == false || idautomovil_v == false)
+                response = !(modelo_v == false || precio_v == false || motor_v == false || año_v == false || chasis_v == false || vin_v == false || asientos_v==false || idautomovil_v == false)
             } else {
-                response = !(modelo_v == false || precio_v == false || motor_v == false || año_v == false || chasis_v == false || vin_v == false )
+                response = !(modelo_v == false || precio_v == false || motor_v == false || año_v == false || chasis_v == false  || asientos_v==false || vin_v == false )
             }
         } else if (opc === "eliminar"||opc=="buscar") {
             if (idvehiculo.isEmpty()) {
