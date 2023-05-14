@@ -42,20 +42,12 @@ class Marcas(context: Context) {
     }
     fun insertarValuesDefault(){
         val marcas = arrayOf(
-            "Toyota",
-            "Ford",
-            "Honda",
-            "Chevrolet",
-            "Nissan",
-            "Volkswagen",
-            "BMW",
-            "Mercedes-Benz",
-            "Audi",
-            "Hyundai"
+            "No definido"
         )
 
         val columns = arrayOf(COL_ID, COL_NOMBRE)
-        var cursor: Cursor? = db!!.query(TABLE_NAME_MARCAS, columns,null,null,null,null,null)
+        var cursor: Cursor? =
+            db!!.query(TABLE_NAME_MARCAS, columns,null,null,null,null,null)
 
         if (cursor == null || cursor!!.count <= 0){
             for (item in marcas){

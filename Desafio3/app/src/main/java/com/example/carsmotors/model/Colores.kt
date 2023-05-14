@@ -38,16 +38,7 @@ class Colores(context: Context) {
 
     fun insertarValuesDefault() {
         val colores = arrayOf(
-            "Rojo fuego: un rojo vibrante y llamativo.",
-            "Blanco perla: un blanco con un brillo nacarado y sofisticado.",
-            "Azul eléctrico: un azul intenso y brillante.",
-            "Gris carbón: un gris oscuro y elegante que se asemeja al color del carbón.",
-            "Gris plata: un gris metálico y sofisticado.",
-            "Verde esmeralda: un verde brillante y lujoso.",
-            "Amarillo sol: un amarillo brillante y alegre.",
-            "Naranja cálido: un naranja brillante y acogedor.",
-            "Morado profundo: un morado oscuro y misterioso.",
-            "Gris grafito: un gris oscuro y moderno."
+            "No definido"
         )
 
         val columns = arrayOf(COL_ID, COL_DESCRIPCION)
@@ -72,7 +63,7 @@ class Colores(context: Context) {
         )
     }
 
-    fun searchID(descripcion: String): Int?{
+    fun searchDescription(descripcion: String): Int?{
         val columns = arrayOf(COL_ID, COL_DESCRIPCION)
         var cursor: Cursor? = db!!.query(
             TABLE_NAME_COLORES, columns, "$COL_DESCRIPCION=?", arrayOf(descripcion.toString()), null,null,null
@@ -82,7 +73,7 @@ class Colores(context: Context) {
         return cursor!!.getInt(0)
     }
 
-    fun searchDescripcion(id: Int): String?{
+    fun searchID(id: Int): String?{
         val columns = arrayOf(COL_ID, COL_DESCRIPCION)
         var cursor: Cursor? = db!!.query(
             TABLE_NAME_COLORES, columns, "$COL_ID=?", arrayOf(id.toString()),null, null, null

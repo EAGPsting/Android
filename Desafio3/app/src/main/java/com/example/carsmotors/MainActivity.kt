@@ -1,9 +1,12 @@
 package com.example.carsmotors
 
+import android.content.Intent
 import android.database.Cursor
 import android.database.sqlite.SQLiteDatabase
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.view.Menu
+import android.view.MenuItem
 import android.widget.ArrayAdapter
 import android.widget.Button
 import android.widget.EditText
@@ -291,5 +294,44 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
             ).show()
         }
         return response
+    }
+    override fun onOptionsItemSelected(item: MenuItem): Boolean {
+        when(item.itemId){
+            R.id.action_sign_out->{
+                    val intent = Intent(this, LoginActivity::class.java)
+                    startActivity(intent)
+                    finish()
+            }
+            R.id.action_option1->{
+                val intent = Intent(this, ColoresActivity::class.java)
+                startActivity(intent)
+                finish()
+            }
+            R.id.action_option2->{
+                val intent = Intent(this, MarcasActivity::class.java)
+                startActivity(intent)
+                finish()
+            }
+            R.id.action_option3->{
+                val intent = Intent(this, TiposActivity::class.java)
+                startActivity(intent)
+                finish()
+            }
+            R.id.action_option4->{
+                val intent = Intent(this, UsuarioActivity::class.java)
+                startActivity(intent)
+                finish()
+            }
+            R.id.action_option5->{
+                val intent = Intent(this, MainActivity::class.java)
+                startActivity(intent)
+                finish()
+            }
+        }
+        return super.onOptionsItemSelected(item)
+    }
+    override fun onCreateOptionsMenu(menu: Menu?): Boolean {
+        menuInflater.inflate(R.menu.menu,menu)
+        return super.onCreateOptionsMenu(menu)
     }
 }

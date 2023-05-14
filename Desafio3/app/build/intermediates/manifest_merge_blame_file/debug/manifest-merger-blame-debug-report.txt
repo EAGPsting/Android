@@ -6,119 +6,125 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="24"
-8-->/Users/gerardojavireyes97gmail.com/Desktop/Desafio3/app/src/main/AndroidManifest.xml
+8-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="33" />
-9-->/Users/gerardojavireyes97gmail.com/Desktop/Desafio3/app/src/main/AndroidManifest.xml
+9-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml
 10
 11    <permission
-11-->[androidx.core:core:1.9.0] /Users/gerardojavireyes97gmail.com/.gradle/caches/transforms-3/55ce0eebbe8a55033be81d4b525a86a7/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+11-->[androidx.core:core:1.9.0] C:\Program Files\Java\jdk-19\caches\transforms-3\55ce0eebbe8a55033be81d4b525a86a7\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
 12        android:name="com.example.carsmotors.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
-12-->[androidx.core:core:1.9.0] /Users/gerardojavireyes97gmail.com/.gradle/caches/transforms-3/55ce0eebbe8a55033be81d4b525a86a7/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+12-->[androidx.core:core:1.9.0] C:\Program Files\Java\jdk-19\caches\transforms-3\55ce0eebbe8a55033be81d4b525a86a7\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
 13        android:protectionLevel="signature" />
-13-->[androidx.core:core:1.9.0] /Users/gerardojavireyes97gmail.com/.gradle/caches/transforms-3/55ce0eebbe8a55033be81d4b525a86a7/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+13-->[androidx.core:core:1.9.0] C:\Program Files\Java\jdk-19\caches\transforms-3\55ce0eebbe8a55033be81d4b525a86a7\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
 14
 15    <uses-permission android:name="com.example.carsmotors.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
-15-->[androidx.core:core:1.9.0] /Users/gerardojavireyes97gmail.com/.gradle/caches/transforms-3/55ce0eebbe8a55033be81d4b525a86a7/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
-15-->[androidx.core:core:1.9.0] /Users/gerardojavireyes97gmail.com/.gradle/caches/transforms-3/55ce0eebbe8a55033be81d4b525a86a7/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+15-->[androidx.core:core:1.9.0] C:\Program Files\Java\jdk-19\caches\transforms-3\55ce0eebbe8a55033be81d4b525a86a7\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+15-->[androidx.core:core:1.9.0] C:\Program Files\Java\jdk-19\caches\transforms-3\55ce0eebbe8a55033be81d4b525a86a7\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
 16
 17    <application
-17-->/Users/gerardojavireyes97gmail.com/Desktop/Desafio3/app/src/main/AndroidManifest.xml:5:5-44:19
+17-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:5:5-45:19
 18        android:allowBackup="true"
-18-->/Users/gerardojavireyes97gmail.com/Desktop/Desafio3/app/src/main/AndroidManifest.xml:6:9-35
+18-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:6:9-35
 19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-19-->[androidx.core:core:1.9.0] /Users/gerardojavireyes97gmail.com/.gradle/caches/transforms-3/55ce0eebbe8a55033be81d4b525a86a7/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+19-->[androidx.core:core:1.9.0] C:\Program Files\Java\jdk-19\caches\transforms-3\55ce0eebbe8a55033be81d4b525a86a7\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
 20        android:dataExtractionRules="@xml/data_extraction_rules"
-20-->/Users/gerardojavireyes97gmail.com/Desktop/Desafio3/app/src/main/AndroidManifest.xml:7:9-65
+20-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:7:9-65
 21        android:debuggable="true"
 22        android:extractNativeLibs="false"
 23        android:fullBackupContent="@xml/backup_rules"
-23-->/Users/gerardojavireyes97gmail.com/Desktop/Desafio3/app/src/main/AndroidManifest.xml:8:9-54
+23-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:8:9-54
 24        android:icon="@mipmap/ic_launcher"
-24-->/Users/gerardojavireyes97gmail.com/Desktop/Desafio3/app/src/main/AndroidManifest.xml:9:9-43
+24-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:9:9-43
 25        android:label="@string/app_name"
-25-->/Users/gerardojavireyes97gmail.com/Desktop/Desafio3/app/src/main/AndroidManifest.xml:10:9-41
+25-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:10:9-41
 26        android:roundIcon="@mipmap/ic_launcher_round"
-26-->/Users/gerardojavireyes97gmail.com/Desktop/Desafio3/app/src/main/AndroidManifest.xml:11:9-54
+26-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:11:9-54
 27        android:supportsRtl="true"
-27-->/Users/gerardojavireyes97gmail.com/Desktop/Desafio3/app/src/main/AndroidManifest.xml:12:9-35
+27-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:12:9-35
 28        android:testOnly="true"
 29        android:theme="@style/Theme.CarsMotors" >
-29-->/Users/gerardojavireyes97gmail.com/Desktop/Desafio3/app/src/main/AndroidManifest.xml:13:9-48
+29-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:13:9-48
 30        <activity
-30-->/Users/gerardojavireyes97gmail.com/Desktop/Desafio3/app/src/main/AndroidManifest.xml:15:9-17:40
-31            android:name="com.example.carsmotors.UsuarioActivity"
-31-->/Users/gerardojavireyes97gmail.com/Desktop/Desafio3/app/src/main/AndroidManifest.xml:16:13-44
+30-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:15:9-17:40
+31            android:name="com.example.carsmotors.PrincipalActivity"
+31-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:16:13-46
 32            android:exported="false" />
-32-->/Users/gerardojavireyes97gmail.com/Desktop/Desafio3/app/src/main/AndroidManifest.xml:17:13-37
+32-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:17:13-37
 33        <activity
-33-->/Users/gerardojavireyes97gmail.com/Desktop/Desafio3/app/src/main/AndroidManifest.xml:18:9-20:40
-34            android:name="com.example.carsmotors.SignUpActivity"
-34-->/Users/gerardojavireyes97gmail.com/Desktop/Desafio3/app/src/main/AndroidManifest.xml:19:13-43
+33-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:18:9-20:40
+34            android:name="com.example.carsmotors.UsuarioActivity"
+34-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:19:13-44
 35            android:exported="false" />
-35-->/Users/gerardojavireyes97gmail.com/Desktop/Desafio3/app/src/main/AndroidManifest.xml:20:13-37
+35-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:20:13-37
 36        <activity
-36-->/Users/gerardojavireyes97gmail.com/Desktop/Desafio3/app/src/main/AndroidManifest.xml:22:9-24:40
-37            android:name="com.example.carsmotors.TiposActivity"
-37-->/Users/gerardojavireyes97gmail.com/Desktop/Desafio3/app/src/main/AndroidManifest.xml:23:13-42
+36-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:21:9-23:40
+37            android:name="com.example.carsmotors.SignUpActivity"
+37-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:22:13-43
 38            android:exported="false" />
-38-->/Users/gerardojavireyes97gmail.com/Desktop/Desafio3/app/src/main/AndroidManifest.xml:24:13-37
+38-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:23:13-37
 39        <activity
-39-->/Users/gerardojavireyes97gmail.com/Desktop/Desafio3/app/src/main/AndroidManifest.xml:25:9-27:40
-40            android:name="com.example.carsmotors.MarcasActivity"
-40-->/Users/gerardojavireyes97gmail.com/Desktop/Desafio3/app/src/main/AndroidManifest.xml:26:13-43
+39-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:24:9-26:40
+40            android:name="com.example.carsmotors.TiposActivity"
+40-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:25:13-42
 41            android:exported="false" />
-41-->/Users/gerardojavireyes97gmail.com/Desktop/Desafio3/app/src/main/AndroidManifest.xml:27:13-37
+41-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:26:13-37
 42        <activity
-42-->/Users/gerardojavireyes97gmail.com/Desktop/Desafio3/app/src/main/AndroidManifest.xml:28:9-30:40
-43            android:name="com.example.carsmotors.ColoresActivity"
-43-->/Users/gerardojavireyes97gmail.com/Desktop/Desafio3/app/src/main/AndroidManifest.xml:29:13-44
+42-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:27:9-29:40
+43            android:name="com.example.carsmotors.MarcasActivity"
+43-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:28:13-43
 44            android:exported="false" />
-44-->/Users/gerardojavireyes97gmail.com/Desktop/Desafio3/app/src/main/AndroidManifest.xml:30:13-37
+44-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:29:13-37
 45        <activity
-45-->/Users/gerardojavireyes97gmail.com/Desktop/Desafio3/app/src/main/AndroidManifest.xml:31:9-39:20
-46            android:name="com.example.carsmotors.LoginActivity"
-46-->/Users/gerardojavireyes97gmail.com/Desktop/Desafio3/app/src/main/AndroidManifest.xml:32:13-42
-47            android:exported="true" >
-47-->/Users/gerardojavireyes97gmail.com/Desktop/Desafio3/app/src/main/AndroidManifest.xml:33:13-36
-48            <intent-filter>
-48-->/Users/gerardojavireyes97gmail.com/Desktop/Desafio3/app/src/main/AndroidManifest.xml:34:13-38:29
-49                <action android:name="android.intent.action.MAIN" />
-49-->/Users/gerardojavireyes97gmail.com/Desktop/Desafio3/app/src/main/AndroidManifest.xml:35:17-69
-49-->/Users/gerardojavireyes97gmail.com/Desktop/Desafio3/app/src/main/AndroidManifest.xml:35:25-66
-50
-51                <category android:name="android.intent.category.LAUNCHER" />
-51-->/Users/gerardojavireyes97gmail.com/Desktop/Desafio3/app/src/main/AndroidManifest.xml:37:17-77
-51-->/Users/gerardojavireyes97gmail.com/Desktop/Desafio3/app/src/main/AndroidManifest.xml:37:27-74
-52            </intent-filter>
-53        </activity>
-54        <activity
-54-->/Users/gerardojavireyes97gmail.com/Desktop/Desafio3/app/src/main/AndroidManifest.xml:40:9-42:39
-55            android:name="com.example.carsmotors.MainActivity"
-55-->/Users/gerardojavireyes97gmail.com/Desktop/Desafio3/app/src/main/AndroidManifest.xml:41:13-41
-56            android:exported="false" />
-56-->/Users/gerardojavireyes97gmail.com/Desktop/Desafio3/app/src/main/AndroidManifest.xml:42:13-37
-57
-58        <provider
-58-->[androidx.emoji2:emoji2:1.2.0] /Users/gerardojavireyes97gmail.com/.gradle/caches/transforms-3/4489033787a152d1ed2ed20b0293b2cb/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
-59            android:name="androidx.startup.InitializationProvider"
-59-->[androidx.emoji2:emoji2:1.2.0] /Users/gerardojavireyes97gmail.com/.gradle/caches/transforms-3/4489033787a152d1ed2ed20b0293b2cb/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
-60            android:authorities="com.example.carsmotors.androidx-startup"
-60-->[androidx.emoji2:emoji2:1.2.0] /Users/gerardojavireyes97gmail.com/.gradle/caches/transforms-3/4489033787a152d1ed2ed20b0293b2cb/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
-61            android:exported="false" >
-61-->[androidx.emoji2:emoji2:1.2.0] /Users/gerardojavireyes97gmail.com/.gradle/caches/transforms-3/4489033787a152d1ed2ed20b0293b2cb/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
-62            <meta-data
-62-->[androidx.emoji2:emoji2:1.2.0] /Users/gerardojavireyes97gmail.com/.gradle/caches/transforms-3/4489033787a152d1ed2ed20b0293b2cb/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
-63                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-63-->[androidx.emoji2:emoji2:1.2.0] /Users/gerardojavireyes97gmail.com/.gradle/caches/transforms-3/4489033787a152d1ed2ed20b0293b2cb/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
-64                android:value="androidx.startup" />
-64-->[androidx.emoji2:emoji2:1.2.0] /Users/gerardojavireyes97gmail.com/.gradle/caches/transforms-3/4489033787a152d1ed2ed20b0293b2cb/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+45-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:30:9-32:40
+46            android:name="com.example.carsmotors.ColoresActivity"
+46-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:31:13-44
+47            android:exported="false" />
+47-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:32:13-37
+48        <activity
+48-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:33:9-41:20
+49            android:name="com.example.carsmotors.LoginActivity"
+49-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:34:13-42
+50            android:exported="true" >
+50-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:35:13-36
+51            <intent-filter>
+51-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:36:13-40:29
+52                <action android:name="android.intent.action.MAIN" />
+52-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:37:17-69
+52-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:37:25-66
+53
+54                <category android:name="android.intent.category.LAUNCHER" />
+54-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:39:17-77
+54-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:39:27-74
+55            </intent-filter>
+56        </activity>
+57        <activity
+57-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:42:9-44:40
+58            android:name="com.example.carsmotors.MainActivity"
+58-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:43:13-41
+59            android:exported="false" />
+59-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:44:13-37
+60
+61        <provider
+61-->[androidx.emoji2:emoji2:1.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\4489033787a152d1ed2ed20b0293b2cb\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+62            android:name="androidx.startup.InitializationProvider"
+62-->[androidx.emoji2:emoji2:1.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\4489033787a152d1ed2ed20b0293b2cb\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+63            android:authorities="com.example.carsmotors.androidx-startup"
+63-->[androidx.emoji2:emoji2:1.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\4489033787a152d1ed2ed20b0293b2cb\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+64            android:exported="false" >
+64-->[androidx.emoji2:emoji2:1.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\4489033787a152d1ed2ed20b0293b2cb\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
 65            <meta-data
-65-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/gerardojavireyes97gmail.com/.gradle/caches/transforms-3/0521f07717581cdc27f649543e97f3ce/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
-66                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-66-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/gerardojavireyes97gmail.com/.gradle/caches/transforms-3/0521f07717581cdc27f649543e97f3ce/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+65-->[androidx.emoji2:emoji2:1.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\4489033787a152d1ed2ed20b0293b2cb\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+66                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+66-->[androidx.emoji2:emoji2:1.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\4489033787a152d1ed2ed20b0293b2cb\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
 67                android:value="androidx.startup" />
-67-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/gerardojavireyes97gmail.com/.gradle/caches/transforms-3/0521f07717581cdc27f649543e97f3ce/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
-68        </provider>
-69    </application>
-70
-71</manifest>
+67-->[androidx.emoji2:emoji2:1.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\4489033787a152d1ed2ed20b0293b2cb\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+68            <meta-data
+68-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Program Files\Java\jdk-19\caches\transforms-3\0521f07717581cdc27f649543e97f3ce\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+69                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+69-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Program Files\Java\jdk-19\caches\transforms-3\0521f07717581cdc27f649543e97f3ce\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+70                android:value="androidx.startup" />
+70-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Program Files\Java\jdk-19\caches\transforms-3\0521f07717581cdc27f649543e97f3ce\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+71        </provider>
+72    </application>
+73
+74</manifest>

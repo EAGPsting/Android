@@ -2577,6 +2577,12 @@ id action_menu_presenter
 id action_mode_bar
 id action_mode_bar_stub
 id action_mode_close_button
+id action_option1
+id action_option2
+id action_option3
+id action_option4
+id action_option5
+id action_sign_out
 id action_text
 id actions
 id activity_chooser_view_content
@@ -2611,9 +2617,13 @@ id bounceEnd
 id bounceStart
 id btnActualizar
 id btnAgregar
+id btnAutomovil
 id btnBuscar
 id btnBuscar2
+id btnColor
 id btnEliminar
+id btnMarcas
+id btnTipo
 id buttonPanel
 id cache_measures
 id callMeasure
@@ -3116,6 +3126,7 @@ layout activity_colores
 layout activity_login
 layout activity_main
 layout activity_marcas
+layout activity_principal
 layout activity_sign_up
 layout activity_tipos
 layout activity_usuario
@@ -3206,6 +3217,7 @@ layout text_view_with_line_height_from_layout
 layout text_view_with_line_height_from_style
 layout text_view_with_theme_line_height
 layout text_view_without_line_height
+menu menu
 mipmap ic_launcher
 mipmap ic_launcher_round
 plurals mtrl_badge_content_description

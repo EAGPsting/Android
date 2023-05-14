@@ -82,7 +82,7 @@ class LoginActivity : AppCompatActivity() {
             val tipoUsuario = cursor.getString(cursor.getColumnIndex(Usuario.COL_TIPO))
 
             if (pass == cursor.getString(cursor.getColumnIndex(Usuario.COL_PASSWORD))) {
-                val intent = Intent(this, MainActivity::class.java)
+                val intent = Intent(this, PrincipalActivity::class.java)
                 intent.putExtra("tipoUsuario", tipoUsuario)
                 startActivity(intent)
                 finish()
