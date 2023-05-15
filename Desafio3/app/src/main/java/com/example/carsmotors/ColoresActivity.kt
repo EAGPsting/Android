@@ -110,15 +110,13 @@ class ColoresActivity : AppCompatActivity() , View.OnClickListener {
                         Toast.LENGTH_LONG).show()
                 }
             } else if (view === btnBuscar) {
-<<<<<<< Updated upstream
+
                 if (vericarFormulario("buscar")) {
                     val descripcion = managerColores!!.searchID(idcolores)
                     Toast.makeText(this, "Color " + descripcion,
                         Toast.LENGTH_LONG).show()
                 }
-=======
                 /*IMPLEMENTE LA BUSQUEDA*/
->>>>>>> Stashed changes
             } else {
                 Toast.makeText(this, "No se puede conectar a la Base de Datos",
                     Toast.LENGTH_LONG)

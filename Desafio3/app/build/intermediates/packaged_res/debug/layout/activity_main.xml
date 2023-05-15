@@ -4,11 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-<<<<<<< Updated upstream
-    android:background="@drawable/img2"
-=======
     android:background="@drawable/img7"
->>>>>>> Stashed changes
     tools:context=".MainActivity">
 
     <TextView
@@ -21,8 +17,6 @@
         android:text="ADMINISTRACION DE AUTOMOVILES"
         android:textColor="@color/white"
         android:textSize="20sp"
-        android:textColor="@color/white"
-        android:backgroundTint="@color/white"
         android:textStyle="bold"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
@@ -34,11 +28,7 @@
         android:backgroundTint="@color/white"
         android:text="Codigo"
         android:textColor="@color/white"
-<<<<<<< Updated upstream
         app:layout_constraintBaseline_toBaselineOf="@+id/txtId"
-=======
-        android:backgroundTint="@color/white"
->>>>>>> Stashed changes
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
 
@@ -52,8 +42,6 @@
         android:layout_marginBottom="13dp"
         android:backgroundTint="@color/white"
         android:ems="10"
-        android:textColor="@color/white"
-        android:backgroundTint="@color/white"
         android:inputType="numberSigned"
         android:textColor="@color/white"
         app:layout_constraintBottom_toTopOf="@+id/cmbTipo"
@@ -63,7 +51,6 @@
 
     <Spinner
         android:id="@+id/cmbTipo"
-<<<<<<< Updated upstream
         android:layout_width="0dp"
         android:layout_height="40dp"
         android:layout_marginStart="15dp"
@@ -91,54 +78,22 @@
         app:layout_constraintEnd_toEndOf="@+id/txtAnio"
         app:layout_constraintStart_toEndOf="@+id/btnBuscar"
         app:layout_constraintTop_toTopOf="@+id/textView3" />
-=======
-        android:layout_width="269dp"
-        android:layout_height="0dp"
-        android:textColor="@color/white"
-        android:backgroundTint="@color/white"
-        app:layout_constraintBottom_toTopOf="@+id/cmbMarca"
-        app:layout_constraintStart_toStartOf="@+id/cmbMarca"
-        app:layout_constraintTop_toTopOf="@+id/barrier2" />
->>>>>>> Stashed changes
 
     <TextView
         android:id="@+id/textView3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-<<<<<<< Updated upstream
         android:layout_marginStart="43dp"
         android:backgroundTint="@color/white"
         android:text="VIN"
         android:textColor="@color/white"
         app:layout_constraintBaseline_toBaselineOf="@+id/txtVIN"
         app:layout_constraintStart_toStartOf="parent" />
-=======
-        android:layout_marginTop="9dp"
-        android:text="Tipo"
-        android:textColor="@color/white"
-        android:backgroundTint="@color/white"
-        app:layout_constraintEnd_toEndOf="@+id/textView12"
-        app:layout_constraintStart_toStartOf="@+id/textView3"
-        app:layout_constraintTop_toTopOf="@+id/barrier2" />
-
-    <Spinner
-        android:id="@+id/cmbMarca"
-        android:layout_width="268dp"
-        android:layout_height="48dp"
-        android:textColor="@color/white"
-        android:backgroundTint="@color/white"
-        android:layout_marginTop="92dp"
-        android:layout_marginBottom="92dp"
-        app:layout_constraintBottom_toBottomOf="@+id/txtModelo"
-        app:layout_constraintStart_toStartOf="@+id/cmbColor"
-        app:layout_constraintTop_toTopOf="@+id/textView8" />
->>>>>>> Stashed changes
 
     <TextView
         android:id="@+id/textView11"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-<<<<<<< Updated upstream
         android:layout_marginStart="9dp"
         android:layout_marginEnd="8dp"
         android:backgroundTint="@color/white"
@@ -147,19 +102,11 @@
         app:layout_constraintBaseline_toBaselineOf="@+id/cmbTipo"
         app:layout_constraintEnd_toEndOf="@+id/textView12"
         app:layout_constraintStart_toStartOf="@+id/textView" />
-=======
-        android:text="Color"
-        android:textColor="@color/white"
-        android:backgroundTint="@color/white"
-        app:layout_constraintBaseline_toBaselineOf="@+id/cmbColor"
-        app:layout_constraintStart_toStartOf="@+id/textView2" />
->>>>>>> Stashed changes
 
     <EditText
         android:id="@+id/txtAnio"
         android:layout_width="0dp"
         android:layout_height="0dp"
-<<<<<<< Updated upstream
         android:layout_marginStart="1dp"
         android:layout_marginEnd="1dp"
         android:ems="10"
@@ -169,19 +116,11 @@
         app:layout_constraintEnd_toEndOf="@+id/cmbColor"
         app:layout_constraintStart_toStartOf="@+id/textView7"
         app:layout_constraintTop_toTopOf="@+id/txtAsientos" />
-=======
-        android:textColor="@color/white"
-        android:backgroundTint="@color/white"
-        app:layout_constraintBottom_toTopOf="@+id/txtModelo"
-        app:layout_constraintStart_toStartOf="@+id/txtModelo"
-        app:layout_constraintTop_toBottomOf="@+id/cmbMarca" />
->>>>>>> Stashed changes
 
     <TextView
         android:id="@+id/textView2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-<<<<<<< Updated upstream
         android:backgroundTint="@color/white"
         android:text="Modelo"
         android:textColor="@color/white"
@@ -195,22 +134,6 @@
         android:layout_height="44dp"
         android:layout_marginTop="104dp"
         android:layout_marginBottom="103dp"
-=======
-        android:layout_marginEnd="18dp"
-        android:text="Marca"
-        android:textColor="@color/white"
-        android:backgroundTint="@color/white"
-        app:layout_constraintBaseline_toBaselineOf="@+id/cmbMarca"
-        app:layout_constraintEnd_toStartOf="@+id/cmbMarca" />
-
-    <EditText
-        android:id="@+id/txtVIN"
-        android:layout_width="266dp"
-        android:layout_height="47dp"
-        android:layout_marginTop="55dp"
-        android:layout_marginBottom="53dp"
-        android:textColor="@color/white"
->>>>>>> Stashed changes
         android:backgroundTint="@color/white"
         android:ems="10"
         android:singleLine="true"
@@ -224,7 +147,6 @@
         android:id="@+id/textView6"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-<<<<<<< Updated upstream
         android:layout_marginEnd="1dp"
         android:layout_marginBottom="239dp"
         android:backgroundTint="@color/white"
@@ -232,15 +154,6 @@
         android:textColor="@color/white"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="@+id/txtAsientos" />
-=======
-        android:layout_marginStart="6dp"
-        android:layout_marginTop="21dp"
-        android:text="VIN"
-        android:textColor="@color/white"
-        android:backgroundTint="@color/white"
-        app:layout_constraintStart_toStartOf="@+id/textView2"
-        app:layout_constraintTop_toBottomOf="@+id/textView2" />
->>>>>>> Stashed changes
 
     <EditText
         android:id="@+id/txtAsientos"
@@ -253,7 +166,6 @@
         android:inputType="numberSigned"
         android:singleLine="true"
         android:textColor="@color/white"
-<<<<<<< Updated upstream
         app:layout_constraintBottom_toBottomOf="@+id/txtPrecio"
         app:layout_constraintEnd_toEndOf="@+id/txtPrecio"
         app:layout_constraintStart_toStartOf="@+id/txtPrecio"
@@ -281,31 +193,6 @@
         android:layout_marginTop="3dp"
         android:layout_marginEnd="44dp"
         android:layout_marginBottom="3dp"
-=======
-        android:backgroundTint="@color/white"
-        app:layout_constraintBottom_toTopOf="@+id/textView6"
-        app:layout_constraintStart_toStartOf="@+id/txtMotor"
-        app:layout_constraintTop_toTopOf="@+id/textView3" />
-
-    <TextView
-        android:id="@+id/textView4"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginEnd="17dp"
-        android:text="Chasis"
-        android:textColor="@color/white"
-        android:backgroundTint="@color/white"
-        app:layout_constraintBaseline_toBaselineOf="@+id/txtChasis"
-        app:layout_constraintEnd_toStartOf="@+id/txtChasis" />
-
-    <EditText
-        android:id="@+id/txtModelo"
-        android:layout_width="266dp"
-        android:layout_height="44dp"
-        android:layout_marginTop="225dp"
-        android:layout_marginBottom="224dp"
-        android:textColor="@color/white"
->>>>>>> Stashed changes
         android:backgroundTint="@color/white"
         android:ems="10"
         android:singleLine="true"
@@ -320,56 +207,22 @@
         android:id="@+id/textView5"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-<<<<<<< Updated upstream
         android:backgroundTint="@color/white"
         android:text="Motor"
         android:textColor="@color/white"
         app:layout_constraintBaseline_toBaselineOf="@+id/txtMotor"
         app:layout_constraintStart_toStartOf="@+id/textView6" />
-=======
-        android:layout_marginTop="248dp"
-        android:layout_marginEnd="15dp"
-        android:text="Modelo"
-        android:textColor="@color/white"
-        android:backgroundTint="@color/white"
-        app:layout_constraintEnd_toStartOf="@+id/txtModelo"
-        app:layout_constraintTop_toTopOf="parent" />
->>>>>>> Stashed changes
 
     <TextView
         android:id="@+id/textView10"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-<<<<<<< Updated upstream
         android:layout_marginEnd="17dp"
         android:backgroundTint="@color/white"
         android:text="Marca"
         android:textColor="@color/white"
         app:layout_constraintBaseline_toBaselineOf="@+id/cmbMarca"
         app:layout_constraintEnd_toStartOf="@+id/cmbMarca" />
-=======
-        android:layout_marginStart="1dp"
-        android:layout_marginBottom="4dp"
-        android:text="Numero de Asientos"
-        android:textColor="@color/white"
-        android:backgroundTint="@color/white"
-        app:layout_constraintBottom_toTopOf="@+id/txtAsientos"
-        app:layout_constraintStart_toStartOf="@+id/txtAsientos" />
-
-    <Button
-        android:id="@+id/btnBuscar2"
-        android:layout_width="0dp"
-        android:layout_height="0dp"
-        android:layout_marginStart="7dp"
-        android:textColor="@color/black"
-        android:backgroundTint="@color/white"
-        android:layout_marginEnd="6dp"
-        android:text="Cargar Imagen"
-        app:layout_constraintBottom_toTopOf="@+id/textView15"
-        app:layout_constraintEnd_toEndOf="@+id/txtAnio"
-        app:layout_constraintStart_toStartOf="@+id/btnActualizar"
-        app:layout_constraintTop_toTopOf="@+id/txtPrecio" />
->>>>>>> Stashed changes
 
     <TextView
         android:id="@+id/textView7"
@@ -380,31 +233,8 @@
         android:backgroundTint="@color/white"
         android:text="Año"
         android:textColor="@color/white"
-<<<<<<< Updated upstream
         app:layout_constraintBottom_toTopOf="@+id/txtAnio"
         app:layout_constraintEnd_toEndOf="parent" />
-=======
-        android:backgroundTint="@color/white"
-        app:layout_constraintEnd_toEndOf="@+id/btnEliminar"
-        app:layout_constraintStart_toStartOf="@+id/txtDescripcion"
-        app:layout_constraintTop_toBottomOf="@+id/txtMotor" />
-
-    <EditText
-        android:id="@+id/txtAsientos"
-        android:layout_width="0dp"
-        android:layout_height="45dp"
-        android:layout_marginTop="177dp"
-        android:layout_marginBottom="177dp"
-        android:ems="10"
-        android:inputType="numberSigned"
-        android:singleLine="true"
-        android:textColor="@color/white"
-        android:backgroundTint="@color/white"
-        app:layout_constraintBottom_toTopOf="@+id/btnBuscar"
-        app:layout_constraintEnd_toEndOf="@+id/txtPrecio"
-        app:layout_constraintStart_toStartOf="@+id/txtPrecio"
-        app:layout_constraintTop_toBottomOf="@+id/textView2" />
->>>>>>> Stashed changes
 
     <EditText
         android:id="@+id/txtPrecio"
@@ -426,7 +256,6 @@
         android:id="@+id/textView4"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-<<<<<<< Updated upstream
         android:layout_marginStart="44dp"
         android:layout_marginTop="390dp"
         android:layout_marginEnd="15dp"
@@ -438,15 +267,6 @@
         app:layout_constraintEnd_toStartOf="@+id/txtChasis"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
-=======
-        android:layout_marginStart="1dp"
-        android:layout_marginBottom="1dp"
-        android:textColor="@color/white"
-        android:backgroundTint="@color/white"
-        android:text="Precio"
-        app:layout_constraintBottom_toTopOf="@+id/txtPrecio"
-        app:layout_constraintStart_toStartOf="@+id/txtAsientos" />
->>>>>>> Stashed changes
 
     <TextView
         android:id="@+id/textView12"
@@ -463,7 +283,6 @@
         android:id="@+id/textView15"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-<<<<<<< Updated upstream
         android:layout_marginBottom="104dp"
         android:backgroundTint="@color/white"
         android:text="Descripcion"
@@ -494,24 +313,6 @@
         android:layout_marginEnd="38dp"
         android:layout_marginBottom="62dp"
         android:backgroundTint="@color/white"
-=======
-        android:layout_marginBottom="8dp"
-        android:text="Motor"
-        android:textColor="@color/white"
-        android:backgroundTint="@color/white"
-        app:layout_constraintBottom_toTopOf="@+id/textView6"
-        app:layout_constraintStart_toStartOf="@+id/textView6" />
-
-    <EditText
-        android:id="@+id/txtDescripcion"
-        android:layout_width="0dp"
-        android:layout_height="35dp"
-        android:textColor="@color/white"
-        android:backgroundTint="@color/white"
-        android:layout_marginStart="41dp"
-        android:layout_marginTop="7dp"
-        android:layout_marginEnd="41dp"
->>>>>>> Stashed changes
         android:ems="10"
         android:singleLine="true"
         android:textColor="@color/white"
@@ -539,7 +340,6 @@
         android:id="@+id/textView9"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-<<<<<<< Updated upstream
         android:layout_marginStart="2dp"
         android:layout_marginTop="48dp"
         android:backgroundTint="@color/white"
@@ -562,14 +362,6 @@
         app:layout_constraintEnd_toEndOf="@+id/textView"
         app:layout_constraintStart_toEndOf="@+id/textView2"
         app:layout_constraintTop_toTopOf="@+id/textView" />
-=======
-        android:layout_marginTop="2dp"
-        android:text="Descripcion"
-        android:textColor="@color/white"
-        android:backgroundTint="@color/white"
-        app:layout_constraintStart_toStartOf="@+id/txtPrecio"
-        app:layout_constraintTop_toBottomOf="@+id/txtPrecio" />
->>>>>>> Stashed changes
 
     <TextView
         android:id="@+id/txtIdDB"
@@ -586,15 +378,9 @@
         android:layout_width="96dp"
         android:layout_height="39dp"
         android:layout_marginEnd="5dp"
-<<<<<<< Updated upstream
         android:backgroundTint="@color/white"
         android:text="Find"
         android:textColor="@color/black"
-=======
-        android:textColor="@color/black"
-        android:backgroundTint="@color/white"
-        android:text="Search"
->>>>>>> Stashed changes
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toStartOf="@+id/btnAgregar"
         app:layout_constraintHorizontal_bias="0.0"
@@ -605,18 +391,11 @@
         android:id="@+id/btnActualizar"
         android:layout_width="95dp"
         android:layout_height="0dp"
-<<<<<<< Updated upstream
         android:layout_marginStart="108dp"
         android:layout_marginTop="13dp"
         android:layout_marginEnd="108dp"
         android:layout_marginBottom="1dp"
         android:backgroundTint="@color/white"
-=======
-        android:layout_marginEnd="111dp"
-        android:textColor="@color/black"
-        android:backgroundTint="@color/white"
-        android:layout_marginBottom="2dp"
->>>>>>> Stashed changes
         android:text="Update"
         android:textColor="@color/black"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -629,14 +408,8 @@
         android:layout_width="97dp"
         android:layout_height="0dp"
         android:layout_marginTop="1dp"
-<<<<<<< Updated upstream
         android:layout_marginEnd="2dp"
         android:backgroundTint="@color/white"
-=======
-        android:textColor="@color/black"
-        android:backgroundTint="@color/white"
-        android:layout_marginEnd="3dp"
->>>>>>> Stashed changes
         android:text="Delete"
         android:textColor="@color/black"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -647,14 +420,8 @@
         android:id="@+id/btnAgregar"
         android:layout_width="90dp"
         android:layout_height="0dp"
-<<<<<<< Updated upstream
         android:layout_marginStart="102dp"
         android:layout_marginEnd="109dp"
-=======
-        android:layout_marginStart="14dp"
-        android:layout_marginEnd="14dp"
-        android:textColor="@color/black"
->>>>>>> Stashed changes
         android:backgroundTint="@color/white"
         android:text="Add"
         android:textColor="@color/black"

@@ -3,6 +3,7 @@ package com.example.carsmotors
 import android.database.Cursor
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.widget.Toast
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.example.carsmotors.db.Datalist2
@@ -17,15 +18,18 @@ class FavActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_fav)
+        val bundle = intent.extras
+        val idUsuario = bundle?.getString("idUsuario")
         recyclerView = findViewById(R.id.listaFavoritos)
 
         dbh = HelperDB(this)
         recyclerView.layoutManager= LinearLayoutManager(this)
         recyclerView.setHasFixedSize(true)
-        displayfavs()
+        Toast.makeText(this, idUsuario, Toast.LENGTH_LONG).show()
+        displayfavs(idUsuario.toString())
     }
-    private fun displayfavs(){
-        var newcursor: Cursor? = dbh!!.gettext()
+    private fun displayfavs(idUsuario: String){
+        var newcursor: Cursor? = dbh!!.gettext2(idUsuario.toString())
         newArry= ArrayList<Datalist2>()
 
         while (newcursor!!.moveToNext()){

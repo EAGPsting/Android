@@ -13,20 +13,18 @@
         android:theme="@style/Theme.CarsMotors"
         tools:targetApi="31">
         <activity
-<<<<<<< Updated upstream
             android:name=".FavActivity"
             android:exported="false" />
         <activity
             android:name=".FavoritosActivity"
             android:exported="false" />
         <activity
+            android:name=".FavoritoAutomovilActivity"
+            android:exported="false" />
+        <activity
             android:name=".PrincipalActivity"
             android:exported="false" />
-=======
-            android:name=".FavoritoAutomovilActivity"
-            android:exported="true" />
 
->>>>>>> Stashed changes
         <activity
             android:name=".UsuarioActivity"
             android:exported="false" />

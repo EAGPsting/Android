@@ -6,6 +6,7 @@ import android.os.Bundle
 import android.view.Menu
 import android.view.MenuItem
 import android.widget.Button
+import android.widget.Toast
 import androidx.core.view.isVisible
 
 class PrincipalActivity : AppCompatActivity() {
@@ -19,6 +20,7 @@ class PrincipalActivity : AppCompatActivity() {
         setContentView(R.layout.activity_principal)
         val bundle = intent.extras
         val tipo = bundle?.getString("tipoUsuario")
+        val idUsuario = bundle?.getString("idUsuario")
 
         val btnMarcas : Button = findViewById(R.id.btnMarcas)
         val btnTipo : Button = findViewById(R.id.btnTipo)
@@ -27,6 +29,8 @@ class PrincipalActivity : AppCompatActivity() {
         val btnUsuario : Button = findViewById(R.id.btnUsuario)
         val btnFavoritos : Button = findViewById(R.id.btnFavoritos)
         val btnFavoritos2 : Button = findViewById(R.id.btnFavoritos2)
+        val btnFavoritos3 : Button = findViewById(R.id.btnFavoritos3)
+        val btnCerrar : Button = findViewById(R.id.btnCerrarSesion)
 
         if (tipo == "client" )
         {
@@ -35,14 +39,23 @@ class PrincipalActivity : AppCompatActivity() {
             btnTipo.isVisible=false
             btnUsuario.isVisible=false
             btnAutomovil.isVisible=false
+            Toast.makeText(this, idUsuario, Toast.LENGTH_LONG).show()
         }
-
+        btnCerrar.setOnClickListener {
+            val intent = Intent(this,LoginActivity::class.java)
+            startActivity(intent)
+        }
+        btnFavoritos3.setOnClickListener {
+            val intent = Intent(this,FavoritoAutomovilActivity::class.java)
+            startActivity(intent)
+        }
         btnFavoritos.setOnClickListener {
             val intent = Intent(this,FavoritosActivity::class.java)
             startActivity(intent)
         }
         btnFavoritos2.setOnClickListener {
             val intent = Intent(this,FavActivity::class.java)
+            intent.putExtra("idUsuario", idUsuario)
             startActivity(intent)
         }
         btnUsuario.setOnClickListener {

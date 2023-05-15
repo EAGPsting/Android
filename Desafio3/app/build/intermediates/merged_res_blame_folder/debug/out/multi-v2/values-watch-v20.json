@@ -4,11 +4,7 @@
             "outputFile": "com.example.carsmotors.app-mergeDebugResources-31:/values-watch-v20/values-watch-v20.xml",
             "map": [
                 {
-<<<<<<< Updated upstream
                     "source": "C:\\Program Files\\Java\\jdk-19\\caches\\transforms-3\\ba3a36a3c7c8e378c5d896f2def38d38\\transformed\\appcompat-1.6.1\\res\\values-watch-v20\\values-watch-v20.xml",
-=======
-                    "source": "/Users/gerardojavireyes97gmail.com/.gradle/caches/transforms-3/678ac082474fe5fe1e0e16889c26f38f/transformed/appcompat-1.6.1/res/values-watch-v20/values-watch-v20.xml",
->>>>>>> Stashed changes
                     "from": {
                         "startLines": "2,5,8",
                         "startColumns": "4,4,4",

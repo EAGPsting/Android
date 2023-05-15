@@ -8,6 +8,8 @@ import android.widget.Button
 import android.widget.EditText
 import android.widget.Toast
 import com.example.carsmotors.model.FavoritoAutomovil
+import java.time.LocalDateTime
+import java.time.format.DateTimeFormatter
 
 class FavoritoAutomovilActivity : AppCompatActivity() {
 
@@ -32,10 +34,10 @@ class FavoritoAutomovilActivity : AppCompatActivity() {
         editTextidUser = findViewById(R.id.editTextUsuarioId)
         editTextidAuto = findViewById(R.id.editTextAutomovilId)
         editTextFecha = findViewById(R.id.textViewFechaAgregado)
-        buttonAgregar = findViewById(R.id.button_add)
-        buttonBuscar = findViewById(R.id.button_search)
-        buttonActualizar = findViewById(R.id.button_update)
-        buttonEliminar = findViewById(R.id.button_delete)
+        buttonAgregar = findViewById(R.id.buttonAgregar)
+        buttonBuscar = findViewById(R.id.buttonBuscar)
+        buttonActualizar = findViewById(R.id.buttonActualizar)
+        buttonEliminar = findViewById(R.id.buttonEliminar)
 
         Favorito = FavoritoAutomovil(this)
 
@@ -43,7 +45,10 @@ class FavoritoAutomovilActivity : AppCompatActivity() {
 
             val iduser = editTextidUser.text.toString()
             val idAuto = editTextidAuto.text.toString()
-            val fecha = editTextFecha.text.toString()
+            val current = LocalDateTime.now()
+
+            val formatter = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss")
+            val fecha = current.format(formatter)
 
 
             if ( iduser.isNotEmpty() && idAuto.isNotEmpty() && fecha.isNotEmpty()) {

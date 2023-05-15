@@ -5,12 +5,11 @@
 5    android:versionName="1.0" >
 6
 7    <uses-sdk
-8        android:minSdkVersion="24"
-8-->/Users/gerardojavireyes97gmail.com/Desktop/Desafio3/app/src/main/AndroidManifest.xml
+8        android:minSdkVersion="26"
+8-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="33" />
-9-->/Users/gerardojavireyes97gmail.com/Desktop/Desafio3/app/src/main/AndroidManifest.xml
+9-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml
 10
-<<<<<<< Updated upstream
 11    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
 12    <!-- <uses-sdk android:minSdkVersion="14"/> -->
 13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
@@ -32,7 +31,7 @@
 20-->[androidx.core:core:1.9.0] C:\Program Files\Java\jdk-19\caches\transforms-3\f2c31b3b107d7f8ef1a32c1395f49773\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
 21
 22    <application
-22-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:5:5-51:19
+22-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:5:5-55:19
 23        android:allowBackup="true"
 23-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:6:9-35
 24        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -68,274 +67,160 @@
 40-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:20:13-37
 41        <activity
 41-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:21:9-23:40
-42            android:name="com.example.carsmotors.PrincipalActivity"
-42-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:22:13-46
+42            android:name="com.example.carsmotors.FavoritoAutomovilActivity"
+42-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:22:13-54
 43            android:exported="false" />
 43-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:23:13-37
 44        <activity
 44-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:24:9-26:40
-45            android:name="com.example.carsmotors.UsuarioActivity"
-45-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:25:13-44
+45            android:name="com.example.carsmotors.PrincipalActivity"
+45-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:25:13-46
 46            android:exported="false" />
 46-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:26:13-37
 47        <activity
-47-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:27:9-29:40
-48            android:name="com.example.carsmotors.SignUpActivity"
-48-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:28:13-43
+47-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:28:9-30:40
+48            android:name="com.example.carsmotors.UsuarioActivity"
+48-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:29:13-44
 49            android:exported="false" />
-49-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:29:13-37
+49-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:30:13-37
 50        <activity
-50-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:30:9-32:40
-51            android:name="com.example.carsmotors.TiposActivity"
-51-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:31:13-42
+50-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:31:9-33:40
+51            android:name="com.example.carsmotors.SignUpActivity"
+51-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:32:13-43
 52            android:exported="false" />
-52-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:32:13-37
+52-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:33:13-37
 53        <activity
-53-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:33:9-35:40
-54            android:name="com.example.carsmotors.MarcasActivity"
-54-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:34:13-43
+53-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:34:9-36:40
+54            android:name="com.example.carsmotors.TiposActivity"
+54-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:35:13-42
 55            android:exported="false" />
-55-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:35:13-37
+55-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:36:13-37
 56        <activity
-56-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:36:9-38:40
-57            android:name="com.example.carsmotors.ColoresActivity"
-57-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:37:13-44
+56-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:37:9-39:40
+57            android:name="com.example.carsmotors.MarcasActivity"
+57-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:38:13-43
 58            android:exported="false" />
-58-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:38:13-37
+58-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:39:13-37
 59        <activity
-59-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:39:9-47:20
-60            android:name="com.example.carsmotors.LoginActivity"
-60-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:40:13-42
-61            android:exported="true" >
-61-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:41:13-36
-62            <intent-filter>
-62-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:42:13-46:29
-63                <action android:name="android.intent.action.MAIN" />
-63-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:43:17-69
-63-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:43:25-66
-64
-65                <category android:name="android.intent.category.LAUNCHER" />
-65-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:45:17-77
-65-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:45:27-74
-66            </intent-filter>
-67        </activity>
-68        <activity
-68-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:48:9-50:40
-69            android:name="com.example.carsmotors.MainActivity"
-69-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:49:13-41
-70            android:exported="false" />
-70-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:50:13-37
-71
-72        <service
-72-->[com.google.firebase:firebase-storage-ktx:20.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\8e5b1401afd6c0adb8ec81e855e3abfb\transformed\firebase-storage-ktx-20.2.0\AndroidManifest.xml:11:9-17:19
-73            android:name="com.google.firebase.components.ComponentDiscoveryService"
-73-->[com.google.firebase:firebase-storage-ktx:20.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\8e5b1401afd6c0adb8ec81e855e3abfb\transformed\firebase-storage-ktx-20.2.0\AndroidManifest.xml:12:13-84
-74            android:directBootAware="true"
-74-->[com.google.firebase:firebase-common:20.3.2] C:\Program Files\Java\jdk-19\caches\transforms-3\5f7d90e10c20b8179d9c3b14508430da\transformed\firebase-common-20.3.2\AndroidManifest.xml:34:13-43
-75            android:exported="false" >
-75-->[com.google.firebase:firebase-storage-ktx:20.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\8e5b1401afd6c0adb8ec81e855e3abfb\transformed\firebase-storage-ktx-20.2.0\AndroidManifest.xml:13:13-37
-76            <meta-data
-76-->[com.google.firebase:firebase-storage-ktx:20.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\8e5b1401afd6c0adb8ec81e855e3abfb\transformed\firebase-storage-ktx-20.2.0\AndroidManifest.xml:14:13-16:85
-77                android:name="com.google.firebase.components:com.google.firebase.storage.ktx.FirebaseStorageKtxRegistrar"
-77-->[com.google.firebase:firebase-storage-ktx:20.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\8e5b1401afd6c0adb8ec81e855e3abfb\transformed\firebase-storage-ktx-20.2.0\AndroidManifest.xml:15:17-122
-78                android:value="com.google.firebase.components.ComponentRegistrar" />
-78-->[com.google.firebase:firebase-storage-ktx:20.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\8e5b1401afd6c0adb8ec81e855e3abfb\transformed\firebase-storage-ktx-20.2.0\AndroidManifest.xml:16:17-82
+59-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:40:9-42:40
+60            android:name="com.example.carsmotors.ColoresActivity"
+60-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:41:13-44
+61            android:exported="false" />
+61-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:42:13-37
+62        <activity
+62-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:43:9-51:20
+63            android:name="com.example.carsmotors.LoginActivity"
+63-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:44:13-42
+64            android:exported="true" >
+64-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:45:13-36
+65            <intent-filter>
+65-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:46:13-50:29
+66                <action android:name="android.intent.action.MAIN" />
+66-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:47:17-69
+66-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:47:25-66
+67
+68                <category android:name="android.intent.category.LAUNCHER" />
+68-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:49:17-77
+68-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:49:27-74
+69            </intent-filter>
+70        </activity>
+71        <activity
+71-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:52:9-54:40
+72            android:name="com.example.carsmotors.MainActivity"
+72-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:53:13-41
+73            android:exported="false" />
+73-->C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:54:13-37
+74
+75        <service
+75-->[com.google.firebase:firebase-storage-ktx:20.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\8e5b1401afd6c0adb8ec81e855e3abfb\transformed\firebase-storage-ktx-20.2.0\AndroidManifest.xml:11:9-17:19
+76            android:name="com.google.firebase.components.ComponentDiscoveryService"
+76-->[com.google.firebase:firebase-storage-ktx:20.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\8e5b1401afd6c0adb8ec81e855e3abfb\transformed\firebase-storage-ktx-20.2.0\AndroidManifest.xml:12:13-84
+77            android:directBootAware="true"
+77-->[com.google.firebase:firebase-common:20.3.2] C:\Program Files\Java\jdk-19\caches\transforms-3\5f7d90e10c20b8179d9c3b14508430da\transformed\firebase-common-20.3.2\AndroidManifest.xml:34:13-43
+78            android:exported="false" >
+78-->[com.google.firebase:firebase-storage-ktx:20.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\8e5b1401afd6c0adb8ec81e855e3abfb\transformed\firebase-storage-ktx-20.2.0\AndroidManifest.xml:13:13-37
 79            <meta-data
-79-->[com.google.firebase:firebase-database-ktx:20.2.1] C:\Program Files\Java\jdk-19\caches\transforms-3\0f3df6b89b85cf4b275693e440ad5546\transformed\firebase-database-ktx-20.2.1\AndroidManifest.xml:14:13-16:85
-80                android:name="com.google.firebase.components:com.google.firebase.database.ktx.FirebaseDatabaseKtxRegistrar"
-80-->[com.google.firebase:firebase-database-ktx:20.2.1] C:\Program Files\Java\jdk-19\caches\transforms-3\0f3df6b89b85cf4b275693e440ad5546\transformed\firebase-database-ktx-20.2.1\AndroidManifest.xml:15:17-124
+79-->[com.google.firebase:firebase-storage-ktx:20.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\8e5b1401afd6c0adb8ec81e855e3abfb\transformed\firebase-storage-ktx-20.2.0\AndroidManifest.xml:14:13-16:85
+80                android:name="com.google.firebase.components:com.google.firebase.storage.ktx.FirebaseStorageKtxRegistrar"
+80-->[com.google.firebase:firebase-storage-ktx:20.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\8e5b1401afd6c0adb8ec81e855e3abfb\transformed\firebase-storage-ktx-20.2.0\AndroidManifest.xml:15:17-122
 81                android:value="com.google.firebase.components.ComponentRegistrar" />
-81-->[com.google.firebase:firebase-database-ktx:20.2.1] C:\Program Files\Java\jdk-19\caches\transforms-3\0f3df6b89b85cf4b275693e440ad5546\transformed\firebase-database-ktx-20.2.1\AndroidManifest.xml:16:17-82
+81-->[com.google.firebase:firebase-storage-ktx:20.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\8e5b1401afd6c0adb8ec81e855e3abfb\transformed\firebase-storage-ktx-20.2.0\AndroidManifest.xml:16:17-82
 82            <meta-data
-82-->[com.google.firebase:firebase-common-ktx:20.3.2] C:\Program Files\Java\jdk-19\caches\transforms-3\90eb4ca33bb5809263f03915693225ab\transformed\firebase-common-ktx-20.3.2\AndroidManifest.xml:14:13-16:85
-83                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonKtxRegistrar"
-83-->[com.google.firebase:firebase-common-ktx:20.3.2] C:\Program Files\Java\jdk-19\caches\transforms-3\90eb4ca33bb5809263f03915693225ab\transformed\firebase-common-ktx-20.3.2\AndroidManifest.xml:15:17-113
+82-->[com.google.firebase:firebase-database-ktx:20.2.1] C:\Program Files\Java\jdk-19\caches\transforms-3\0f3df6b89b85cf4b275693e440ad5546\transformed\firebase-database-ktx-20.2.1\AndroidManifest.xml:14:13-16:85
+83                android:name="com.google.firebase.components:com.google.firebase.database.ktx.FirebaseDatabaseKtxRegistrar"
+83-->[com.google.firebase:firebase-database-ktx:20.2.1] C:\Program Files\Java\jdk-19\caches\transforms-3\0f3df6b89b85cf4b275693e440ad5546\transformed\firebase-database-ktx-20.2.1\AndroidManifest.xml:15:17-124
 84                android:value="com.google.firebase.components.ComponentRegistrar" />
-84-->[com.google.firebase:firebase-common-ktx:20.3.2] C:\Program Files\Java\jdk-19\caches\transforms-3\90eb4ca33bb5809263f03915693225ab\transformed\firebase-common-ktx-20.3.2\AndroidManifest.xml:16:17-82
+84-->[com.google.firebase:firebase-database-ktx:20.2.1] C:\Program Files\Java\jdk-19\caches\transforms-3\0f3df6b89b85cf4b275693e440ad5546\transformed\firebase-database-ktx-20.2.1\AndroidManifest.xml:16:17-82
 85            <meta-data
-85-->[com.google.firebase:firebase-storage:20.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\361e97d5f253cde4dd08325a30e3f7dc\transformed\firebase-storage-20.2.0\AndroidManifest.xml:32:13-34:85
-86                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
-86-->[com.google.firebase:firebase-storage:20.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\361e97d5f253cde4dd08325a30e3f7dc\transformed\firebase-storage-20.2.0\AndroidManifest.xml:33:17-107
+85-->[com.google.firebase:firebase-common-ktx:20.3.2] C:\Program Files\Java\jdk-19\caches\transforms-3\90eb4ca33bb5809263f03915693225ab\transformed\firebase-common-ktx-20.3.2\AndroidManifest.xml:14:13-16:85
+86                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonKtxRegistrar"
+86-->[com.google.firebase:firebase-common-ktx:20.3.2] C:\Program Files\Java\jdk-19\caches\transforms-3\90eb4ca33bb5809263f03915693225ab\transformed\firebase-common-ktx-20.3.2\AndroidManifest.xml:15:17-113
 87                android:value="com.google.firebase.components.ComponentRegistrar" />
-87-->[com.google.firebase:firebase-storage:20.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\361e97d5f253cde4dd08325a30e3f7dc\transformed\firebase-storage-20.2.0\AndroidManifest.xml:34:17-82
+87-->[com.google.firebase:firebase-common-ktx:20.3.2] C:\Program Files\Java\jdk-19\caches\transforms-3\90eb4ca33bb5809263f03915693225ab\transformed\firebase-common-ktx-20.3.2\AndroidManifest.xml:16:17-82
 88            <meta-data
-88-->[com.google.firebase:firebase-database:20.2.1] C:\Program Files\Java\jdk-19\caches\transforms-3\d79690ec2fed7b255a69c2477bb8f0c6\transformed\firebase-database-20.2.1\AndroidManifest.xml:31:13-33:85
-89                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
-89-->[com.google.firebase:firebase-database:20.2.1] C:\Program Files\Java\jdk-19\caches\transforms-3\d79690ec2fed7b255a69c2477bb8f0c6\transformed\firebase-database-20.2.1\AndroidManifest.xml:32:17-109
+88-->[com.google.firebase:firebase-storage:20.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\361e97d5f253cde4dd08325a30e3f7dc\transformed\firebase-storage-20.2.0\AndroidManifest.xml:32:13-34:85
+89                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+89-->[com.google.firebase:firebase-storage:20.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\361e97d5f253cde4dd08325a30e3f7dc\transformed\firebase-storage-20.2.0\AndroidManifest.xml:33:17-107
 90                android:value="com.google.firebase.components.ComponentRegistrar" />
-90-->[com.google.firebase:firebase-database:20.2.1] C:\Program Files\Java\jdk-19\caches\transforms-3\d79690ec2fed7b255a69c2477bb8f0c6\transformed\firebase-database-20.2.1\AndroidManifest.xml:33:17-82
-91        </service>
-92
-93        <provider
-93-->[com.google.firebase:firebase-common:20.3.2] C:\Program Files\Java\jdk-19\caches\transforms-3\5f7d90e10c20b8179d9c3b14508430da\transformed\firebase-common-20.3.2\AndroidManifest.xml:25:9-30:39
-94            android:name="com.google.firebase.provider.FirebaseInitProvider"
-94-->[com.google.firebase:firebase-common:20.3.2] C:\Program Files\Java\jdk-19\caches\transforms-3\5f7d90e10c20b8179d9c3b14508430da\transformed\firebase-common-20.3.2\AndroidManifest.xml:26:13-77
-95            android:authorities="com.example.carsmotors.firebaseinitprovider"
-95-->[com.google.firebase:firebase-common:20.3.2] C:\Program Files\Java\jdk-19\caches\transforms-3\5f7d90e10c20b8179d9c3b14508430da\transformed\firebase-common-20.3.2\AndroidManifest.xml:27:13-72
-96            android:directBootAware="true"
-96-->[com.google.firebase:firebase-common:20.3.2] C:\Program Files\Java\jdk-19\caches\transforms-3\5f7d90e10c20b8179d9c3b14508430da\transformed\firebase-common-20.3.2\AndroidManifest.xml:28:13-43
-97            android:exported="false"
-97-->[com.google.firebase:firebase-common:20.3.2] C:\Program Files\Java\jdk-19\caches\transforms-3\5f7d90e10c20b8179d9c3b14508430da\transformed\firebase-common-20.3.2\AndroidManifest.xml:29:13-37
-98            android:initOrder="100" />
-98-->[com.google.firebase:firebase-common:20.3.2] C:\Program Files\Java\jdk-19\caches\transforms-3\5f7d90e10c20b8179d9c3b14508430da\transformed\firebase-common-20.3.2\AndroidManifest.xml:30:13-36
-99
-100        <activity
-100-->[com.google.android.gms:play-services-base:18.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\1b344a6696aeb802c214ad26f2d924b2\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
-101            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-101-->[com.google.android.gms:play-services-base:18.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\1b344a6696aeb802c214ad26f2d924b2\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:19-85
-102            android:exported="false"
-102-->[com.google.android.gms:play-services-base:18.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\1b344a6696aeb802c214ad26f2d924b2\transformed\play-services-base-18.1.0\AndroidManifest.xml:22:19-43
-103            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-103-->[com.google.android.gms:play-services-base:18.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\1b344a6696aeb802c214ad26f2d924b2\transformed\play-services-base-18.1.0\AndroidManifest.xml:21:19-78
-104
-105        <meta-data
-105-->[com.google.android.gms:play-services-basement:18.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\692b81fb58284fb9e6bad1c5d0c9a03a\transformed\play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
-106            android:name="com.google.android.gms.version"
-106-->[com.google.android.gms:play-services-basement:18.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\692b81fb58284fb9e6bad1c5d0c9a03a\transformed\play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
-107            android:value="@integer/google_play_services_version" />
-107-->[com.google.android.gms:play-services-basement:18.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\692b81fb58284fb9e6bad1c5d0c9a03a\transformed\play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
-108
-109        <provider
-109-->[androidx.emoji2:emoji2:1.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\68fb24c4dac87c5892c74fbb3f7a351a\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
-110            android:name="androidx.startup.InitializationProvider"
-110-->[androidx.emoji2:emoji2:1.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\68fb24c4dac87c5892c74fbb3f7a351a\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
-111            android:authorities="com.example.carsmotors.androidx-startup"
-111-->[androidx.emoji2:emoji2:1.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\68fb24c4dac87c5892c74fbb3f7a351a\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
-112            android:exported="false" >
-112-->[androidx.emoji2:emoji2:1.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\68fb24c4dac87c5892c74fbb3f7a351a\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
-113            <meta-data
-113-->[androidx.emoji2:emoji2:1.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\68fb24c4dac87c5892c74fbb3f7a351a\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
-114                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-114-->[androidx.emoji2:emoji2:1.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\68fb24c4dac87c5892c74fbb3f7a351a\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
-115                android:value="androidx.startup" />
-115-->[androidx.emoji2:emoji2:1.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\68fb24c4dac87c5892c74fbb3f7a351a\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+90-->[com.google.firebase:firebase-storage:20.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\361e97d5f253cde4dd08325a30e3f7dc\transformed\firebase-storage-20.2.0\AndroidManifest.xml:34:17-82
+91            <meta-data
+91-->[com.google.firebase:firebase-database:20.2.1] C:\Program Files\Java\jdk-19\caches\transforms-3\d79690ec2fed7b255a69c2477bb8f0c6\transformed\firebase-database-20.2.1\AndroidManifest.xml:31:13-33:85
+92                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+92-->[com.google.firebase:firebase-database:20.2.1] C:\Program Files\Java\jdk-19\caches\transforms-3\d79690ec2fed7b255a69c2477bb8f0c6\transformed\firebase-database-20.2.1\AndroidManifest.xml:32:17-109
+93                android:value="com.google.firebase.components.ComponentRegistrar" />
+93-->[com.google.firebase:firebase-database:20.2.1] C:\Program Files\Java\jdk-19\caches\transforms-3\d79690ec2fed7b255a69c2477bb8f0c6\transformed\firebase-database-20.2.1\AndroidManifest.xml:33:17-82
+94        </service>
+95
+96        <provider
+96-->[com.google.firebase:firebase-common:20.3.2] C:\Program Files\Java\jdk-19\caches\transforms-3\5f7d90e10c20b8179d9c3b14508430da\transformed\firebase-common-20.3.2\AndroidManifest.xml:25:9-30:39
+97            android:name="com.google.firebase.provider.FirebaseInitProvider"
+97-->[com.google.firebase:firebase-common:20.3.2] C:\Program Files\Java\jdk-19\caches\transforms-3\5f7d90e10c20b8179d9c3b14508430da\transformed\firebase-common-20.3.2\AndroidManifest.xml:26:13-77
+98            android:authorities="com.example.carsmotors.firebaseinitprovider"
+98-->[com.google.firebase:firebase-common:20.3.2] C:\Program Files\Java\jdk-19\caches\transforms-3\5f7d90e10c20b8179d9c3b14508430da\transformed\firebase-common-20.3.2\AndroidManifest.xml:27:13-72
+99            android:directBootAware="true"
+99-->[com.google.firebase:firebase-common:20.3.2] C:\Program Files\Java\jdk-19\caches\transforms-3\5f7d90e10c20b8179d9c3b14508430da\transformed\firebase-common-20.3.2\AndroidManifest.xml:28:13-43
+100            android:exported="false"
+100-->[com.google.firebase:firebase-common:20.3.2] C:\Program Files\Java\jdk-19\caches\transforms-3\5f7d90e10c20b8179d9c3b14508430da\transformed\firebase-common-20.3.2\AndroidManifest.xml:29:13-37
+101            android:initOrder="100" />
+101-->[com.google.firebase:firebase-common:20.3.2] C:\Program Files\Java\jdk-19\caches\transforms-3\5f7d90e10c20b8179d9c3b14508430da\transformed\firebase-common-20.3.2\AndroidManifest.xml:30:13-36
+102
+103        <activity
+103-->[com.google.android.gms:play-services-base:18.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\1b344a6696aeb802c214ad26f2d924b2\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
+104            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+104-->[com.google.android.gms:play-services-base:18.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\1b344a6696aeb802c214ad26f2d924b2\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:19-85
+105            android:exported="false"
+105-->[com.google.android.gms:play-services-base:18.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\1b344a6696aeb802c214ad26f2d924b2\transformed\play-services-base-18.1.0\AndroidManifest.xml:22:19-43
+106            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+106-->[com.google.android.gms:play-services-base:18.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\1b344a6696aeb802c214ad26f2d924b2\transformed\play-services-base-18.1.0\AndroidManifest.xml:21:19-78
+107
+108        <meta-data
+108-->[com.google.android.gms:play-services-basement:18.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\692b81fb58284fb9e6bad1c5d0c9a03a\transformed\play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+109            android:name="com.google.android.gms.version"
+109-->[com.google.android.gms:play-services-basement:18.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\692b81fb58284fb9e6bad1c5d0c9a03a\transformed\play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+110            android:value="@integer/google_play_services_version" />
+110-->[com.google.android.gms:play-services-basement:18.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\692b81fb58284fb9e6bad1c5d0c9a03a\transformed\play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+111
+112        <provider
+112-->[androidx.emoji2:emoji2:1.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\68fb24c4dac87c5892c74fbb3f7a351a\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+113            android:name="androidx.startup.InitializationProvider"
+113-->[androidx.emoji2:emoji2:1.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\68fb24c4dac87c5892c74fbb3f7a351a\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+114            android:authorities="com.example.carsmotors.androidx-startup"
+114-->[androidx.emoji2:emoji2:1.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\68fb24c4dac87c5892c74fbb3f7a351a\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+115            android:exported="false" >
+115-->[androidx.emoji2:emoji2:1.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\68fb24c4dac87c5892c74fbb3f7a351a\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
 116            <meta-data
-116-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Program Files\Java\jdk-19\caches\transforms-3\c9a089b9b2da2fb056184339d0ea6a6b\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
-117                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-117-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Program Files\Java\jdk-19\caches\transforms-3\c9a089b9b2da2fb056184339d0ea6a6b\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+116-->[androidx.emoji2:emoji2:1.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\68fb24c4dac87c5892c74fbb3f7a351a\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+117                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+117-->[androidx.emoji2:emoji2:1.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\68fb24c4dac87c5892c74fbb3f7a351a\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
 118                android:value="androidx.startup" />
-118-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Program Files\Java\jdk-19\caches\transforms-3\c9a089b9b2da2fb056184339d0ea6a6b\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
-119        </provider>
-120    </application>
-121
-122</manifest>
-=======
-11    <permission
-11-->[androidx.core:core:1.9.0] /Users/gerardojavireyes97gmail.com/.gradle/caches/transforms-3/55ce0eebbe8a55033be81d4b525a86a7/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
-12        android:name="com.example.carsmotors.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
-12-->[androidx.core:core:1.9.0] /Users/gerardojavireyes97gmail.com/.gradle/caches/transforms-3/55ce0eebbe8a55033be81d4b525a86a7/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
-13        android:protectionLevel="signature" />
-13-->[androidx.core:core:1.9.0] /Users/gerardojavireyes97gmail.com/.gradle/caches/transforms-3/55ce0eebbe8a55033be81d4b525a86a7/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
-14
-15    <uses-permission android:name="com.example.carsmotors.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
-15-->[androidx.core:core:1.9.0] /Users/gerardojavireyes97gmail.com/.gradle/caches/transforms-3/55ce0eebbe8a55033be81d4b525a86a7/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
-15-->[androidx.core:core:1.9.0] /Users/gerardojavireyes97gmail.com/.gradle/caches/transforms-3/55ce0eebbe8a55033be81d4b525a86a7/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
-16
-17    <application
-17-->/Users/gerardojavireyes97gmail.com/Desktop/Desafio3/app/src/main/AndroidManifest.xml:5:5-46:19
-18        android:allowBackup="true"
-18-->/Users/gerardojavireyes97gmail.com/Desktop/Desafio3/app/src/main/AndroidManifest.xml:6:9-35
-19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-19-->[androidx.core:core:1.9.0] /Users/gerardojavireyes97gmail.com/.gradle/caches/transforms-3/55ce0eebbe8a55033be81d4b525a86a7/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
-20        android:dataExtractionRules="@xml/data_extraction_rules"
-20-->/Users/gerardojavireyes97gmail.com/Desktop/Desafio3/app/src/main/AndroidManifest.xml:7:9-65
-21        android:debuggable="true"
-22        android:extractNativeLibs="false"
-23        android:fullBackupContent="@xml/backup_rules"
-23-->/Users/gerardojavireyes97gmail.com/Desktop/Desafio3/app/src/main/AndroidManifest.xml:8:9-54
-24        android:icon="@mipmap/ic_launcher"
-24-->/Users/gerardojavireyes97gmail.com/Desktop/Desafio3/app/src/main/AndroidManifest.xml:9:9-43
-25        android:label="@string/app_name"
-25-->/Users/gerardojavireyes97gmail.com/Desktop/Desafio3/app/src/main/AndroidManifest.xml:10:9-41
-26        android:roundIcon="@mipmap/ic_launcher_round"
-26-->/Users/gerardojavireyes97gmail.com/Desktop/Desafio3/app/src/main/AndroidManifest.xml:11:9-54
-27        android:supportsRtl="true"
-27-->/Users/gerardojavireyes97gmail.com/Desktop/Desafio3/app/src/main/AndroidManifest.xml:12:9-35
-28        android:testOnly="true"
-29        android:theme="@style/Theme.CarsMotors" >
-29-->/Users/gerardojavireyes97gmail.com/Desktop/Desafio3/app/src/main/AndroidManifest.xml:13:9-48
-30        <activity
-30-->/Users/gerardojavireyes97gmail.com/Desktop/Desafio3/app/src/main/AndroidManifest.xml:15:9-17:39
-31            android:name="com.example.carsmotors.FavoritoAutomovilActivity"
-31-->/Users/gerardojavireyes97gmail.com/Desktop/Desafio3/app/src/main/AndroidManifest.xml:16:13-54
-32            android:exported="true" />
-32-->/Users/gerardojavireyes97gmail.com/Desktop/Desafio3/app/src/main/AndroidManifest.xml:17:13-36
-33        <activity
-33-->/Users/gerardojavireyes97gmail.com/Desktop/Desafio3/app/src/main/AndroidManifest.xml:19:9-21:40
-34            android:name="com.example.carsmotors.UsuarioActivity"
-34-->/Users/gerardojavireyes97gmail.com/Desktop/Desafio3/app/src/main/AndroidManifest.xml:20:13-44
-35            android:exported="false" />
-35-->/Users/gerardojavireyes97gmail.com/Desktop/Desafio3/app/src/main/AndroidManifest.xml:21:13-37
-36        <activity
-36-->/Users/gerardojavireyes97gmail.com/Desktop/Desafio3/app/src/main/AndroidManifest.xml:22:9-24:40
-37            android:name="com.example.carsmotors.SignUpActivity"
-37-->/Users/gerardojavireyes97gmail.com/Desktop/Desafio3/app/src/main/AndroidManifest.xml:23:13-43
-38            android:exported="false" />
-38-->/Users/gerardojavireyes97gmail.com/Desktop/Desafio3/app/src/main/AndroidManifest.xml:24:13-37
-39        <activity
-39-->/Users/gerardojavireyes97gmail.com/Desktop/Desafio3/app/src/main/AndroidManifest.xml:25:9-27:40
-40            android:name="com.example.carsmotors.TiposActivity"
-40-->/Users/gerardojavireyes97gmail.com/Desktop/Desafio3/app/src/main/AndroidManifest.xml:26:13-42
-41            android:exported="false" />
-41-->/Users/gerardojavireyes97gmail.com/Desktop/Desafio3/app/src/main/AndroidManifest.xml:27:13-37
-42        <activity
-42-->/Users/gerardojavireyes97gmail.com/Desktop/Desafio3/app/src/main/AndroidManifest.xml:28:9-30:40
-43            android:name="com.example.carsmotors.MarcasActivity"
-43-->/Users/gerardojavireyes97gmail.com/Desktop/Desafio3/app/src/main/AndroidManifest.xml:29:13-43
-44            android:exported="false" />
-44-->/Users/gerardojavireyes97gmail.com/Desktop/Desafio3/app/src/main/AndroidManifest.xml:30:13-37
-45        <activity
-45-->/Users/gerardojavireyes97gmail.com/Desktop/Desafio3/app/src/main/AndroidManifest.xml:31:9-33:40
-46            android:name="com.example.carsmotors.ColoresActivity"
-46-->/Users/gerardojavireyes97gmail.com/Desktop/Desafio3/app/src/main/AndroidManifest.xml:32:13-44
-47            android:exported="false" />
-47-->/Users/gerardojavireyes97gmail.com/Desktop/Desafio3/app/src/main/AndroidManifest.xml:33:13-37
-48        <activity
-48-->/Users/gerardojavireyes97gmail.com/Desktop/Desafio3/app/src/main/AndroidManifest.xml:34:9-42:20
-49            android:name="com.example.carsmotors.LoginActivity"
-49-->/Users/gerardojavireyes97gmail.com/Desktop/Desafio3/app/src/main/AndroidManifest.xml:35:13-42
-50            android:exported="true" >
-50-->/Users/gerardojavireyes97gmail.com/Desktop/Desafio3/app/src/main/AndroidManifest.xml:36:13-36
-51            <intent-filter>
-51-->/Users/gerardojavireyes97gmail.com/Desktop/Desafio3/app/src/main/AndroidManifest.xml:37:13-41:29
-52                <action android:name="android.intent.action.MAIN" />
-52-->/Users/gerardojavireyes97gmail.com/Desktop/Desafio3/app/src/main/AndroidManifest.xml:38:17-69
-52-->/Users/gerardojavireyes97gmail.com/Desktop/Desafio3/app/src/main/AndroidManifest.xml:38:25-66
-53
-54                <category android:name="android.intent.category.LAUNCHER" />
-54-->/Users/gerardojavireyes97gmail.com/Desktop/Desafio3/app/src/main/AndroidManifest.xml:40:17-77
-54-->/Users/gerardojavireyes97gmail.com/Desktop/Desafio3/app/src/main/AndroidManifest.xml:40:27-74
-55            </intent-filter>
-56        </activity>
-57        <activity
-57-->/Users/gerardojavireyes97gmail.com/Desktop/Desafio3/app/src/main/AndroidManifest.xml:43:9-45:40
-58            android:name="com.example.carsmotors.MainActivity"
-58-->/Users/gerardojavireyes97gmail.com/Desktop/Desafio3/app/src/main/AndroidManifest.xml:44:13-41
-59            android:exported="false" />
-59-->/Users/gerardojavireyes97gmail.com/Desktop/Desafio3/app/src/main/AndroidManifest.xml:45:13-37
-60
-61        <provider
-61-->[androidx.emoji2:emoji2:1.2.0] /Users/gerardojavireyes97gmail.com/.gradle/caches/transforms-3/4489033787a152d1ed2ed20b0293b2cb/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
-62            android:name="androidx.startup.InitializationProvider"
-62-->[androidx.emoji2:emoji2:1.2.0] /Users/gerardojavireyes97gmail.com/.gradle/caches/transforms-3/4489033787a152d1ed2ed20b0293b2cb/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
-63            android:authorities="com.example.carsmotors.androidx-startup"
-63-->[androidx.emoji2:emoji2:1.2.0] /Users/gerardojavireyes97gmail.com/.gradle/caches/transforms-3/4489033787a152d1ed2ed20b0293b2cb/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
-64            android:exported="false" >
-64-->[androidx.emoji2:emoji2:1.2.0] /Users/gerardojavireyes97gmail.com/.gradle/caches/transforms-3/4489033787a152d1ed2ed20b0293b2cb/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
-65            <meta-data
-65-->[androidx.emoji2:emoji2:1.2.0] /Users/gerardojavireyes97gmail.com/.gradle/caches/transforms-3/4489033787a152d1ed2ed20b0293b2cb/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
-66                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-66-->[androidx.emoji2:emoji2:1.2.0] /Users/gerardojavireyes97gmail.com/.gradle/caches/transforms-3/4489033787a152d1ed2ed20b0293b2cb/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
-67                android:value="androidx.startup" />
-67-->[androidx.emoji2:emoji2:1.2.0] /Users/gerardojavireyes97gmail.com/.gradle/caches/transforms-3/4489033787a152d1ed2ed20b0293b2cb/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
-68            <meta-data
-68-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/gerardojavireyes97gmail.com/.gradle/caches/transforms-3/0521f07717581cdc27f649543e97f3ce/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
-69                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-69-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/gerardojavireyes97gmail.com/.gradle/caches/transforms-3/0521f07717581cdc27f649543e97f3ce/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
-70                android:value="androidx.startup" />
-70-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/gerardojavireyes97gmail.com/.gradle/caches/transforms-3/0521f07717581cdc27f649543e97f3ce/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
-71        </provider>
-72    </application>
-73
-74</manifest>
->>>>>>> Stashed changes
+118-->[androidx.emoji2:emoji2:1.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\68fb24c4dac87c5892c74fbb3f7a351a\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+119            <meta-data
+119-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Program Files\Java\jdk-19\caches\transforms-3\c9a089b9b2da2fb056184339d0ea6a6b\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+120                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+120-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Program Files\Java\jdk-19\caches\transforms-3\c9a089b9b2da2fb056184339d0ea6a6b\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+121                android:value="androidx.startup" />
+121-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Program Files\Java\jdk-19\caches\transforms-3\c9a089b9b2da2fb056184339d0ea6a6b\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+122        </provider>
+123    </application>
+124
+125</manifest>

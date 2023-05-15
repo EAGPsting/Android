@@ -38,7 +38,7 @@
         android:id="@+id/btnFavoritos"
         android:layout_width="0dp"
         android:layout_height="0dp"
-        android:layout_marginBottom="17dp"
+        android:layout_marginBottom="18dp"
         android:text="Ver Carros"
         app:layout_constraintBottom_toTopOf="@+id/btnFavoritos2"
         app:layout_constraintEnd_toEndOf="parent"
@@ -49,12 +49,23 @@
         android:id="@+id/btnFavoritos2"
         android:layout_width="0dp"
         android:layout_height="0dp"
-        android:layout_marginBottom="177dp"
+        android:layout_marginBottom="17dp"
         android:text="Ver Favoritos"
-        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintBottom_toTopOf="@+id/btnFavoritos3"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/btnFavoritos" />
+
+    <Button
+        android:id="@+id/btnFavoritos3"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginBottom="15dp"
+        android:text="CRUD Favoritos"
+        app:layout_constraintBottom_toTopOf="@+id/btnCerrarSesion"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnFavoritos2" />
 
     <Button
         android:id="@+id/btnTipo"
@@ -94,5 +105,20 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/btnColor" />
+
+    <Button
+        android:id="@+id/btnCerrarSesion"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="68dp"
+        android:backgroundTint="@color/cardview_light_background"
+        android:text="Cerrar Sesion"
+        android:textColor="@color/black"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnFavoritos3" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

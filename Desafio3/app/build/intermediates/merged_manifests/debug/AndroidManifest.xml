@@ -5,7 +5,7 @@
     android:versionName="1.0" >
 
     <uses-sdk
-        android:minSdkVersion="24"
+        android:minSdkVersion="26"
         android:targetSdkVersion="33" />
 
     <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
@@ -33,19 +33,17 @@
         android:testOnly="true"
         android:theme="@style/Theme.CarsMotors" >
         <activity
-<<<<<<< Updated upstream
             android:name="com.example.carsmotors.FavActivity"
             android:exported="false" />
         <activity
             android:name="com.example.carsmotors.FavoritosActivity"
             android:exported="false" />
         <activity
+            android:name="com.example.carsmotors.FavoritoAutomovilActivity"
+            android:exported="false" />
+        <activity
             android:name="com.example.carsmotors.PrincipalActivity"
             android:exported="false" />
-=======
-            android:name="com.example.carsmotors.FavoritoAutomovilActivity"
-            android:exported="true" />
->>>>>>> Stashed changes
         <activity
             android:name="com.example.carsmotors.UsuarioActivity"
             android:exported="false" />

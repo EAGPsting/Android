@@ -72,7 +72,7 @@ class Colores(context: Context) {
         )
     }
 
-    fun searchID(descripcion: String): Int?{
+    fun searchDescription(descripcion: String): Int?{
         val columns = arrayOf(COL_ID, COL_DESCRIPCION)
         var cursor: Cursor? = db!!.query(
             TABLE_NAME_COLORES, columns, "$COL_DESCRIPCION=?", arrayOf(descripcion.toString()), null,null,null
@@ -82,11 +82,7 @@ class Colores(context: Context) {
         return cursor!!.getInt(0)
     }
 
-<<<<<<< Updated upstream
     fun searchID(nombre: String): Int?{
-=======
-    fun searchDescripcion(id: Int): String?{
->>>>>>> Stashed changes
         val columns = arrayOf(COL_ID, COL_DESCRIPCION)
         var cursor: Cursor? = db!!.query(
             TABLE_NAME_COLORES, columns, "$COL_DESCRIPCION=?", arrayOf(nombre.toString()),null, null, null

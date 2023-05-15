@@ -6,6 +6,7 @@ drawable bg
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable icon
+drawable img1
 drawable img2
 drawable img3
 drawable img4
@@ -17,35 +18,32 @@ id SignInText
 id SignUpBtn
 id SignUpProgress
 id SignUpText
-<<<<<<< Updated upstream
 id action_option1
 id action_option2
 id action_option3
 id action_option4
 id action_option5
 id action_sign_out
-=======
-id barrier2
->>>>>>> Stashed changes
 id btnActualizar
 id btnAddfav
 id btnAgregar
+id btnAutomovil
 id btnBuscar
 id btnBuscar2
+id btnCerrarSesion
+id btnColor
 id btnEliminar
-<<<<<<< Updated upstream
 id btnFavoritos
 id btnFavoritos2
+id btnFavoritos3
 id btnImagen
 id btnMarcas
 id btnTipo
 id btnUsuario
-=======
 id buttonActualizar
 id buttonAgregar
 id buttonBuscar
 id buttonEliminar
->>>>>>> Stashed changes
 id button_add
 id button_delete
 id button_search
@@ -61,7 +59,6 @@ id edit_text_email
 id edit_text_nombre
 id edit_text_password
 id edit_text_user
-<<<<<<< Updated upstream
 id label1
 id label10
 id label11
@@ -73,9 +70,7 @@ id label6
 id label7
 id label8
 id label9
-=======
 id listViewFavoritos
->>>>>>> Stashed changes
 id list_view_usuarios
 id listaCarros
 id listaFavoritos
@@ -134,24 +129,19 @@ id viewPrecio
 id viewTipo
 id viewVIN
 layout activity_colores
-<<<<<<< Updated upstream
 layout activity_fav
-layout activity_favoritos
-=======
 layout activity_favorito_automovil
->>>>>>> Stashed changes
+layout activity_favoritos
 layout activity_login
 layout activity_main
 layout activity_marcas
+layout activity_principal
 layout activity_sign_up
 layout activity_tipos
 layout activity_usuario
-<<<<<<< Updated upstream
 layout lista_item_carros
 layout lista_item_favoritos
 menu menu
-=======
->>>>>>> Stashed changes
 mipmap ic_launcher
 mipmap ic_launcher_round
 string app_name

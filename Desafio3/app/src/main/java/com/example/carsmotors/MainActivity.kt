@@ -1,15 +1,13 @@
 package com.example.carsmotors
 
+import android.content.Intent
 import android.database.Cursor
 import android.database.sqlite.SQLiteDatabase
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-<<<<<<< Updated upstream
 import android.util.Log
 import android.view.Menu
 import android.view.MenuItem
-=======
->>>>>>> Stashed changes
 import android.widget.ArrayAdapter
 import android.widget.Button
 import android.widget.EditText
@@ -352,8 +350,5 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
         }
         return response
     }
-<<<<<<< Updated upstream
 
-=======
->>>>>>> Stashed changes
 }
