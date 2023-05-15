@@ -6,6 +6,7 @@ import android.os.Bundle
 import android.view.Menu
 import android.view.MenuItem
 import android.widget.Button
+import androidx.core.view.isVisible
 
 class PrincipalActivity : AppCompatActivity() {
     private var btnMarcas: Button? = null
@@ -16,12 +17,23 @@ class PrincipalActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_principal)
+        val bundle = intent.extras
+        val tipo = bundle?.getString("tipoUsuario")
 
         val btnMarcas : Button = findViewById(R.id.btnMarcas)
         val btnTipo : Button = findViewById(R.id.btnTipo)
         val btnColor : Button = findViewById(R.id.btnColor)
         val btnAutomovil : Button = findViewById(R.id.btnAutomovil)
         val btnUsuario : Button = findViewById(R.id.btnUsuario)
+
+        if (tipo == "client" )
+        {
+            btnMarcas.isVisible=false
+            btnColor.isVisible=false
+            btnTipo.isVisible=false
+            btnUsuario.isVisible=false
+        }
+
 
         btnUsuario.setOnClickListener {
             val intent = Intent(this,UsuarioActivity::class.java)
