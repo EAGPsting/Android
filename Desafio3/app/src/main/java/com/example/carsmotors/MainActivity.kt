@@ -5,6 +5,7 @@ import android.database.Cursor
 import android.database.sqlite.SQLiteDatabase
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.util.Log
 import android.view.Menu
 import android.view.MenuItem
 import android.widget.ArrayAdapter
@@ -19,6 +20,12 @@ import com.example.carsmotors.model.Colores
 import com.example.carsmotors.model.Marcas
 import com.example.carsmotors.model.TipoAutomovil
 import com.example.carsmotors.model.Automovil
+import com.google.firebase.database.ktx.database
+import com.google.firebase.ktx.Firebase
+import com.google.firebase.storage.FirebaseStorage
+import com.google.firebase.storage.StorageReference
+
+import java.util.HashMap
 
 class MainActivity : AppCompatActivity(), View.OnClickListener {
     private var managerColores: Colores? = null
@@ -47,10 +54,16 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
     private var cmbMarcas: Spinner? = null
     private var cmbTipoAutomovil: Spinner? = null
 
+    private var btnImagen: Button? = null
     private var btnAgregar: Button? = null
     private var btnActualizar: Button? = null
     private var btnEliminar: Button? = null
     private var btnBuscar: Button? = null
+
+    private val File = 1
+    private val database1 = Firebase.database
+    val myRef = database1.getReference("CarrosPictures")
+    private var link = ""
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
@@ -73,6 +86,8 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
         btnActualizar = findViewById(R.id.btnActualizar)
         btnEliminar = findViewById(R.id.btnEliminar)
         btnBuscar = findViewById(R.id.btnBuscar)
+        btnImagen= findViewById(R.id.btnImagen)
+
         dbHelper = HelperDB(this)
         db = dbHelper!!.writableDatabase
         setSpinnerColores()
@@ -82,6 +97,41 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
         btnActualizar!!.setOnClickListener(this)
         btnEliminar!!.setOnClickListener(this)
         btnBuscar!!.setOnClickListener(this)
+
+        btnImagen!!.setOnClickListener {
+            fileUpload()
+        }
+    }
+    fun fileUpload() {
+        val intent = Intent(Intent.ACTION_GET_CONTENT)
+        intent.type = "*/*"
+        startActivityForResult(intent, File)
+    }
+    override fun onActivityResult(requestCode: Int, resultCode: Int, data: Intent?) {
+        super.onActivityResult(requestCode, resultCode, data)
+        if (requestCode == File) {
+            if (resultCode == RESULT_OK) {
+                val FileUri = data!!.data
+                val Folder: StorageReference =
+                    FirebaseStorage.getInstance().getReference().child("CarrosPictures")
+                val file_name: StorageReference = Folder.child("file" + FileUri!!.lastPathSegment)
+                file_name.putFile(FileUri).addOnSuccessListener { taskSnapshot ->
+                    file_name.getDownloadUrl().addOnSuccessListener { uri ->
+                        val hashMap =
+                            HashMap<String, String>()
+                        hashMap["link"] = java.lang.String.valueOf(uri)
+                        myRef.setValue(hashMap)
+                        link=java.lang.String.valueOf(uri)
+                        Log.d("uri", link)
+                        Toast.makeText(
+                            this,
+                            "Imagen cargada con exito",
+                            Toast.LENGTH_LONG
+                        ).show()
+                    }
+                }
+            }
+        }
     }
     fun setSpinnerColores() {
         // Cargando valores por defecto
@@ -170,7 +220,7 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
                         año.toInt(),
                         asientos.toInt(),
                         precio.toDouble(),
-                        foto,
+                        link,
                         descripcion
                     )
                     Toast.makeText(this, "Automovil agregado",
@@ -191,7 +241,7 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
                         año.toInt(),
                         asientos.toInt(),
                         precio.toDouble(),
-                        "SIN IMAGEN",
+                        link,
                         descripcion
                     )
                     Toast.makeText(this, "Automovil actualizado",
@@ -213,7 +263,6 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
             }
         }
     }
-
     private fun vericarFormulario(opc: String): Boolean {
         var notificacion: String = "Se han generado algunos errores, favor verifiquelos"
         var response = true

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.carsmotors.app-mergeDebugResources-26:/values-v16/values-v16.xml",
+            "outputFile": "com.example.carsmotors.app-mergeDebugResources-30:/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Program Files\\Java\\jdk-19\\caches\\transforms-3\\678ac082474fe5fe1e0e16889c26f38f\\transformed\\appcompat-1.6.1\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Program Files\\Java\\jdk-19\\caches\\transforms-3\\ba3a36a3c7c8e378c5d896f2def38d38\\transformed\\appcompat-1.6.1\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Program Files\\Java\\jdk-19\\caches\\transforms-3\\55ce0eebbe8a55033be81d4b525a86a7\\transformed\\core-1.9.0\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Program Files\\Java\\jdk-19\\caches\\transforms-3\\f2c31b3b107d7f8ef1a32c1395f49773\\transformed\\core-1.9.0\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

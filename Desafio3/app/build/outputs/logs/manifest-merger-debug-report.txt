@@ -4,46 +4,59 @@ ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src
 INJECTED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:2:1-47:12
 INJECTED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:2:1-47:12
 INJECTED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:2:1-47:12
-MERGED from [com.google.android.material:material:1.5.0] C:\Program Files\Java\jdk-19\caches\transforms-3\2afa74e2037f5fc71533b0b3fd2cbaf8\transformed\material-1.5.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Program Files\Java\jdk-19\caches\transforms-3\2bf66b5585f22be702ef50040dc837cb\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Program Files\Java\jdk-19\caches\transforms-3\f432505b8749195d0f9b890734873fbf\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Program Files\Java\jdk-19\caches\transforms-3\678ac082474fe5fe1e0e16889c26f38f\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\e3f939c7d2b93e4dbf31ffd1d275baed\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.fragment:fragment:1.3.6] C:\Program Files\Java\jdk-19\caches\transforms-3\01fd9ae7c90758e0f6d267672d7cabdb\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.activity:activity:1.6.0] C:\Program Files\Java\jdk-19\caches\transforms-3\8eda95a25e9acfdbf9616b20004737d9\transformed\activity-1.6.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\375341fd36801113aa9bdaf7514a5dcb\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\45c466ac538f632ba102702eac080b06\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\b10d54d074ed609cdfac32f4f644dac8\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Program Files\Java\jdk-19\caches\transforms-3\4390517f002550918786d65d76fe1078\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Program Files\Java\jdk-19\caches\transforms-3\aea644bd9f810676e57c0a620baaa8bf\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\d7ef2aeae1c8afdb9cc933ecc7b4bb1c\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\4489033787a152d1ed2ed20b0293b2cb\transformed\emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Program Files\Java\jdk-19\caches\transforms-3\eb72d06e9000a2dd1add8ec6b52e014b\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\29446fabd665748a5af221252f896633\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.transition:transition:1.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\14b10ddec3dbacccd6fd00c3d95fbe14\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\9fe20bedd86bb0804b8cdfe024594fb1\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\0f3aad8dfdfd37c6b3d00de523b6105a\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\a1f5b30d605b1c327936ea818df0cbc9\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\394cc2b45bd228b9385cb93654c38b0e\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.customview:customview:1.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\f0ef623bfbf25acb66f472ae3b23d4d3\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.core:core:1.9.0] C:\Program Files\Java\jdk-19\caches\transforms-3\55ce0eebbe8a55033be81d4b525a86a7\transformed\core-1.9.0\AndroidManifest.xml:17:1-30:12
-MERGED from [androidx.core:core-ktx:1.9.0] C:\Program Files\Java\jdk-19\caches\transforms-3\cc83e490bd1aac543cbf749445a5d065\transformed\core-ktx-1.9.0\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\e148ede075dab223386687736cd39a75\transformed\savedstate-1.2.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Program Files\Java\jdk-19\caches\transforms-3\44685e656c9519d51ab4678fbad76661\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\aa5532d41a32f1b4044114aae6c35e82\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Program Files\Java\jdk-19\caches\transforms-3\0521f07717581cdc27f649543e97f3ce\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:17:1-37:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Program Files\Java\jdk-19\caches\transforms-3\4ccf0b57a1699a9e786057bc7c135f27\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.cardview:cardview:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\1c8a70deb05a3fb2cfe30d0a0ec617b2\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Program Files\Java\jdk-19\caches\transforms-3\5bd86bf14a3bbb664d10e72f65be9e52\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Program Files\Java\jdk-19\caches\transforms-3\f26718322a501c5a7e9362b2458c18c1\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
-MERGED from [androidx.tracing:tracing:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\429b6ebf443d45d7c0f57ac8548e69d5\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\d033cebde97c76ea3306db379909e6aa\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Program Files\Java\jdk-19\caches\transforms-3\f29f12aa2e7285b7793c7173a1edf8b8\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\ddde9129d109374aa6afbb4c4bd16737\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\8781c8b628521d17aa64027b0c3ff482\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\ee08863ea05522c8763dfeb6dc2bd7e9\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\47b92974fbb9d4534cc9ab21cca58ccd\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.print:print:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\2a076e316ad8d8479a54cfdbb91b5211\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-storage-ktx:20.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\8e5b1401afd6c0adb8ec81e855e3abfb\transformed\firebase-storage-ktx-20.2.0\AndroidManifest.xml:2:1-20:12
+MERGED from [com.google.firebase:firebase-database-ktx:20.2.1] C:\Program Files\Java\jdk-19\caches\transforms-3\0f3df6b89b85cf4b275693e440ad5546\transformed\firebase-database-ktx-20.2.1\AndroidManifest.xml:2:1-20:12
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.2] C:\Program Files\Java\jdk-19\caches\transforms-3\90eb4ca33bb5809263f03915693225ab\transformed\firebase-common-ktx-20.3.2\AndroidManifest.xml:2:1-20:12
+MERGED from [com.google.android.material:material:1.5.0] C:\Program Files\Java\jdk-19\caches\transforms-3\451c1f57fa8d38ea82f5123128943a87\transformed\material-1.5.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Program Files\Java\jdk-19\caches\transforms-3\585a40be36807ca8dbde1fab102d9b46\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Program Files\Java\jdk-19\caches\transforms-3\d34a9d44a3e556270a717b81c067a587\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Program Files\Java\jdk-19\caches\transforms-3\ba3a36a3c7c8e378c5d896f2def38d38\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\85be48ddacde01b6303f5497b598ec60\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-storage:20.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\361e97d5f253cde4dd08325a30e3f7dc\transformed\firebase-storage-20.2.0\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.firebase:firebase-database:20.2.1] C:\Program Files\Java\jdk-19\caches\transforms-3\d79690ec2fed7b255a69c2477bb8f0c6\transformed\firebase-database-20.2.1\AndroidManifest.xml:15:1-37:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\4169568ece76fe81d95f45b70167fb85\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:20.3.2] C:\Program Files\Java\jdk-19\caches\transforms-3\5f7d90e10c20b8179d9c3b14508430da\transformed\firebase-common-20.3.2\AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\6aa21b84532e3bb6defc381df84fea29\transformed\firebase-appcheck-interop-17.0.0\AndroidManifest.xml:15:1-25:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Program Files\Java\jdk-19\caches\transforms-3\1059f2f2bc57f9052842fc1b40dea906\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\1b344a6696aeb802c214ad26f2d924b2\transformed\play-services-base-18.1.0\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Program Files\Java\jdk-19\caches\transforms-3\21849b9ba8fee58b74d8fec8c428a486\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\692b81fb58284fb9e6bad1c5d0c9a03a\transformed\play-services-basement-18.1.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Program Files\Java\jdk-19\caches\transforms-3\761ca73595a75c6c2364664b13b53314\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.6.0] C:\Program Files\Java\jdk-19\caches\transforms-3\2a8f3938c2017cfcb3513a22e706f0c0\transformed\activity-1.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\b749b27ca3074ea7c6f6cd1a6d7a1aa9\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\ebbe71c5e989d275fc12b43d5c721319\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\a6b5bfb2c31f4cc7d5a2a998526904be\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Program Files\Java\jdk-19\caches\transforms-3\ee1b4fb0ef44c6ba09912495bada1271\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Program Files\Java\jdk-19\caches\transforms-3\fe0ce24ef268285c213992d05f5b984e\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\b2f4021eae2f9383255e647cac1e70da\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\68fb24c4dac87c5892c74fbb3f7a351a\transformed\emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Program Files\Java\jdk-19\caches\transforms-3\11d9722f5ea6ceec8c833eae7ace9916\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\a549e2eeff5070a1e175657a95334637\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\4e7156e01c1d79ed52a3adf6ee5ca71a\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\accf4ac154992b95cce947c4b57f9049\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\a9a341cf6b70ced72c479eb441953992\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\9b618fb113e98b9798831e110e71c4ab\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\1373a544b272de41eb45441119e9de10\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\cad2fbc109bdb5a8ed4a58dd5475f3bf\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.9.0] C:\Program Files\Java\jdk-19\caches\transforms-3\f2c31b3b107d7f8ef1a32c1395f49773\transformed\core-1.9.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Program Files\Java\jdk-19\caches\transforms-3\0f72ae5fe8c1aeda76a659e4e9c85540\transformed\core-ktx-1.9.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\1a3d65185659ee42858a4179e5d9e2e8\transformed\savedstate-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\94541a006642437d1f93d54783b5db9b\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Program Files\Java\jdk-19\caches\transforms-3\c9a089b9b2da2fb056184339d0ea6a6b\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Program Files\Java\jdk-19\caches\transforms-3\a233f8cbc4e8fdbc11d5403ca1bb290a\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\606363a69ebdde2f629ca3747501261e\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:17.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\44894cd07c119c2671ffe61f903e96ac\transformed\firebase-components-17.1.0\AndroidManifest.xml:15:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Program Files\Java\jdk-19\caches\transforms-3\63b24eb6a53d72ade11fc7e1c149c39a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Program Files\Java\jdk-19\caches\transforms-3\bd6ebf7b9b46018faabb1e36dde90135\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\5a97f3dbbfa72e15554e061b1f2bd974\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\cf29cd3022400bff5d396a1b6b88b763\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Program Files\Java\jdk-19\caches\transforms-3\ea9c2bdd1410b666f24bb6f4bc6d4817\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\8f6310e6b2796eb70688dd8ab1a49e48\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\04fda99d3e3334d4e4fca4470054b711\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\157c4f4a11229bf41e9879d3d5f76d86\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\177b51397a59bb33ac33833b3d540203\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\ae5667acc008bff29d20e3885c0ee0a7\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Program Files\Java\jdk-19\caches\transforms-3\a079985e239efb17185fbb82a5a03707\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
 INJECTED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:2:1-47:12
 INJECTED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:2:1-47:12
 INJECTED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:2:1-47:12
@@ -65,22 +78,44 @@ INJECTED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\
 		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:2:11-69
 application
 ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:5:5-45:19
-MERGED from [com.google.android.material:material:1.5.0] C:\Program Files\Java\jdk-19\caches\transforms-3\2afa74e2037f5fc71533b0b3fd2cbaf8\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.material:material:1.5.0] C:\Program Files\Java\jdk-19\caches\transforms-3\2afa74e2037f5fc71533b0b3fd2cbaf8\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Program Files\Java\jdk-19\caches\transforms-3\2bf66b5585f22be702ef50040dc837cb\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Program Files\Java\jdk-19\caches\transforms-3\2bf66b5585f22be702ef50040dc837cb\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
-MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\4489033787a152d1ed2ed20b0293b2cb\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\4489033787a152d1ed2ed20b0293b2cb\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.core:core:1.9.0] C:\Program Files\Java\jdk-19\caches\transforms-3\55ce0eebbe8a55033be81d4b525a86a7\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
-MERGED from [androidx.core:core:1.9.0] C:\Program Files\Java\jdk-19\caches\transforms-3\55ce0eebbe8a55033be81d4b525a86a7\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
-MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Program Files\Java\jdk-19\caches\transforms-3\0521f07717581cdc27f649543e97f3ce\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
-MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Program Files\Java\jdk-19\caches\transforms-3\0521f07717581cdc27f649543e97f3ce\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Program Files\Java\jdk-19\caches\transforms-3\5bd86bf14a3bbb664d10e72f65be9e52\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Program Files\Java\jdk-19\caches\transforms-3\5bd86bf14a3bbb664d10e72f65be9e52\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Program Files\Java\jdk-19\caches\transforms-3\f26718322a501c5a7e9362b2458c18c1\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Program Files\Java\jdk-19\caches\transforms-3\f26718322a501c5a7e9362b2458c18c1\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [com.google.firebase:firebase-storage-ktx:20.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\8e5b1401afd6c0adb8ec81e855e3abfb\transformed\firebase-storage-ktx-20.2.0\AndroidManifest.xml:10:5-18:19
+MERGED from [com.google.firebase:firebase-storage-ktx:20.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\8e5b1401afd6c0adb8ec81e855e3abfb\transformed\firebase-storage-ktx-20.2.0\AndroidManifest.xml:10:5-18:19
+MERGED from [com.google.firebase:firebase-database-ktx:20.2.1] C:\Program Files\Java\jdk-19\caches\transforms-3\0f3df6b89b85cf4b275693e440ad5546\transformed\firebase-database-ktx-20.2.1\AndroidManifest.xml:10:5-18:19
+MERGED from [com.google.firebase:firebase-database-ktx:20.2.1] C:\Program Files\Java\jdk-19\caches\transforms-3\0f3df6b89b85cf4b275693e440ad5546\transformed\firebase-database-ktx-20.2.1\AndroidManifest.xml:10:5-18:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.2] C:\Program Files\Java\jdk-19\caches\transforms-3\90eb4ca33bb5809263f03915693225ab\transformed\firebase-common-ktx-20.3.2\AndroidManifest.xml:10:5-18:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.2] C:\Program Files\Java\jdk-19\caches\transforms-3\90eb4ca33bb5809263f03915693225ab\transformed\firebase-common-ktx-20.3.2\AndroidManifest.xml:10:5-18:19
+MERGED from [com.google.android.material:material:1.5.0] C:\Program Files\Java\jdk-19\caches\transforms-3\451c1f57fa8d38ea82f5123128943a87\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.5.0] C:\Program Files\Java\jdk-19\caches\transforms-3\451c1f57fa8d38ea82f5123128943a87\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Program Files\Java\jdk-19\caches\transforms-3\585a40be36807ca8dbde1fab102d9b46\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Program Files\Java\jdk-19\caches\transforms-3\585a40be36807ca8dbde1fab102d9b46\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-storage:20.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\361e97d5f253cde4dd08325a30e3f7dc\transformed\firebase-storage-20.2.0\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-storage:20.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\361e97d5f253cde4dd08325a30e3f7dc\transformed\firebase-storage-20.2.0\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-database:20.2.1] C:\Program Files\Java\jdk-19\caches\transforms-3\d79690ec2fed7b255a69c2477bb8f0c6\transformed\firebase-database-20.2.1\AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.firebase:firebase-database:20.2.1] C:\Program Files\Java\jdk-19\caches\transforms-3\d79690ec2fed7b255a69c2477bb8f0c6\transformed\firebase-database-20.2.1\AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\4169568ece76fe81d95f45b70167fb85\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\4169568ece76fe81d95f45b70167fb85\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:20.3.2] C:\Program Files\Java\jdk-19\caches\transforms-3\5f7d90e10c20b8179d9c3b14508430da\transformed\firebase-common-20.3.2\AndroidManifest.xml:24:5-37:19
+MERGED from [com.google.firebase:firebase-common:20.3.2] C:\Program Files\Java\jdk-19\caches\transforms-3\5f7d90e10c20b8179d9c3b14508430da\transformed\firebase-common-20.3.2\AndroidManifest.xml:24:5-37:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\6aa21b84532e3bb6defc381df84fea29\transformed\firebase-appcheck-interop-17.0.0\AndroidManifest.xml:23:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\6aa21b84532e3bb6defc381df84fea29\transformed\firebase-appcheck-interop-17.0.0\AndroidManifest.xml:23:5-20
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\1b344a6696aeb802c214ad26f2d924b2\transformed\play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\1b344a6696aeb802c214ad26f2d924b2\transformed\play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Program Files\Java\jdk-19\caches\transforms-3\21849b9ba8fee58b74d8fec8c428a486\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Program Files\Java\jdk-19\caches\transforms-3\21849b9ba8fee58b74d8fec8c428a486\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\692b81fb58284fb9e6bad1c5d0c9a03a\transformed\play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\692b81fb58284fb9e6bad1c5d0c9a03a\transformed\play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\68fb24c4dac87c5892c74fbb3f7a351a\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\68fb24c4dac87c5892c74fbb3f7a351a\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.9.0] C:\Program Files\Java\jdk-19\caches\transforms-3\f2c31b3b107d7f8ef1a32c1395f49773\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] C:\Program Files\Java\jdk-19\caches\transforms-3\f2c31b3b107d7f8ef1a32c1395f49773\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Program Files\Java\jdk-19\caches\transforms-3\c9a089b9b2da2fb056184339d0ea6a6b\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Program Files\Java\jdk-19\caches\transforms-3\c9a089b9b2da2fb056184339d0ea6a6b\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Program Files\Java\jdk-19\caches\transforms-3\63b24eb6a53d72ade11fc7e1c149c39a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Program Files\Java\jdk-19\caches\transforms-3\63b24eb6a53d72ade11fc7e1c149c39a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Program Files\Java\jdk-19\caches\transforms-3\bd6ebf7b9b46018faabb1e36dde90135\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Program Files\Java\jdk-19\caches\transforms-3\bd6ebf7b9b46018faabb1e36dde90135\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.9.0] C:\Program Files\Java\jdk-19\caches\transforms-3\55ce0eebbe8a55033be81d4b525a86a7\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+		ADDED from [androidx.core:core:1.9.0] C:\Program Files\Java\jdk-19\caches\transforms-3\f2c31b3b107d7f8ef1a32c1395f49773\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
 	android:supportsRtl
 		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:12:9-35
 	android:label
@@ -161,86 +196,112 @@ uses-sdk
 INJECTED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml
-MERGED from [com.google.android.material:material:1.5.0] C:\Program Files\Java\jdk-19\caches\transforms-3\2afa74e2037f5fc71533b0b3fd2cbaf8\transformed\material-1.5.0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.material:material:1.5.0] C:\Program Files\Java\jdk-19\caches\transforms-3\2afa74e2037f5fc71533b0b3fd2cbaf8\transformed\material-1.5.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Program Files\Java\jdk-19\caches\transforms-3\2bf66b5585f22be702ef50040dc837cb\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Program Files\Java\jdk-19\caches\transforms-3\2bf66b5585f22be702ef50040dc837cb\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Program Files\Java\jdk-19\caches\transforms-3\f432505b8749195d0f9b890734873fbf\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Program Files\Java\jdk-19\caches\transforms-3\f432505b8749195d0f9b890734873fbf\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Program Files\Java\jdk-19\caches\transforms-3\678ac082474fe5fe1e0e16889c26f38f\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Program Files\Java\jdk-19\caches\transforms-3\678ac082474fe5fe1e0e16889c26f38f\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\e3f939c7d2b93e4dbf31ffd1d275baed\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\e3f939c7d2b93e4dbf31ffd1d275baed\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.3.6] C:\Program Files\Java\jdk-19\caches\transforms-3\01fd9ae7c90758e0f6d267672d7cabdb\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.3.6] C:\Program Files\Java\jdk-19\caches\transforms-3\01fd9ae7c90758e0f6d267672d7cabdb\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.6.0] C:\Program Files\Java\jdk-19\caches\transforms-3\8eda95a25e9acfdbf9616b20004737d9\transformed\activity-1.6.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.6.0] C:\Program Files\Java\jdk-19\caches\transforms-3\8eda95a25e9acfdbf9616b20004737d9\transformed\activity-1.6.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\375341fd36801113aa9bdaf7514a5dcb\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\375341fd36801113aa9bdaf7514a5dcb\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\45c466ac538f632ba102702eac080b06\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\45c466ac538f632ba102702eac080b06\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\b10d54d074ed609cdfac32f4f644dac8\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\b10d54d074ed609cdfac32f4f644dac8\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Program Files\Java\jdk-19\caches\transforms-3\4390517f002550918786d65d76fe1078\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Program Files\Java\jdk-19\caches\transforms-3\4390517f002550918786d65d76fe1078\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Program Files\Java\jdk-19\caches\transforms-3\aea644bd9f810676e57c0a620baaa8bf\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Program Files\Java\jdk-19\caches\transforms-3\aea644bd9f810676e57c0a620baaa8bf\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\d7ef2aeae1c8afdb9cc933ecc7b4bb1c\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\d7ef2aeae1c8afdb9cc933ecc7b4bb1c\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\4489033787a152d1ed2ed20b0293b2cb\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
-MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\4489033787a152d1ed2ed20b0293b2cb\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Program Files\Java\jdk-19\caches\transforms-3\eb72d06e9000a2dd1add8ec6b52e014b\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Program Files\Java\jdk-19\caches\transforms-3\eb72d06e9000a2dd1add8ec6b52e014b\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\29446fabd665748a5af221252f896633\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\29446fabd665748a5af221252f896633\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.transition:transition:1.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\14b10ddec3dbacccd6fd00c3d95fbe14\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.transition:transition:1.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\14b10ddec3dbacccd6fd00c3d95fbe14\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\9fe20bedd86bb0804b8cdfe024594fb1\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\9fe20bedd86bb0804b8cdfe024594fb1\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\0f3aad8dfdfd37c6b3d00de523b6105a\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\0f3aad8dfdfd37c6b3d00de523b6105a\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\a1f5b30d605b1c327936ea818df0cbc9\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\a1f5b30d605b1c327936ea818df0cbc9\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\394cc2b45bd228b9385cb93654c38b0e\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\394cc2b45bd228b9385cb93654c38b0e\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.customview:customview:1.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\f0ef623bfbf25acb66f472ae3b23d4d3\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.customview:customview:1.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\f0ef623bfbf25acb66f472ae3b23d4d3\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.9.0] C:\Program Files\Java\jdk-19\caches\transforms-3\55ce0eebbe8a55033be81d4b525a86a7\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.9.0] C:\Program Files\Java\jdk-19\caches\transforms-3\55ce0eebbe8a55033be81d4b525a86a7\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core-ktx:1.9.0] C:\Program Files\Java\jdk-19\caches\transforms-3\cc83e490bd1aac543cbf749445a5d065\transformed\core-ktx-1.9.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.core:core-ktx:1.9.0] C:\Program Files\Java\jdk-19\caches\transforms-3\cc83e490bd1aac543cbf749445a5d065\transformed\core-ktx-1.9.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\e148ede075dab223386687736cd39a75\transformed\savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\e148ede075dab223386687736cd39a75\transformed\savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Program Files\Java\jdk-19\caches\transforms-3\44685e656c9519d51ab4678fbad76661\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Program Files\Java\jdk-19\caches\transforms-3\44685e656c9519d51ab4678fbad76661\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\aa5532d41a32f1b4044114aae6c35e82\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\aa5532d41a32f1b4044114aae6c35e82\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Program Files\Java\jdk-19\caches\transforms-3\0521f07717581cdc27f649543e97f3ce\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Program Files\Java\jdk-19\caches\transforms-3\0521f07717581cdc27f649543e97f3ce\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Program Files\Java\jdk-19\caches\transforms-3\4ccf0b57a1699a9e786057bc7c135f27\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Program Files\Java\jdk-19\caches\transforms-3\4ccf0b57a1699a9e786057bc7c135f27\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.cardview:cardview:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\1c8a70deb05a3fb2cfe30d0a0ec617b2\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\1c8a70deb05a3fb2cfe30d0a0ec617b2\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Program Files\Java\jdk-19\caches\transforms-3\5bd86bf14a3bbb664d10e72f65be9e52\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Program Files\Java\jdk-19\caches\transforms-3\5bd86bf14a3bbb664d10e72f65be9e52\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Program Files\Java\jdk-19\caches\transforms-3\f26718322a501c5a7e9362b2458c18c1\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Program Files\Java\jdk-19\caches\transforms-3\f26718322a501c5a7e9362b2458c18c1\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.tracing:tracing:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\429b6ebf443d45d7c0f57ac8548e69d5\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.tracing:tracing:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\429b6ebf443d45d7c0f57ac8548e69d5\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\d033cebde97c76ea3306db379909e6aa\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\d033cebde97c76ea3306db379909e6aa\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Program Files\Java\jdk-19\caches\transforms-3\f29f12aa2e7285b7793c7173a1edf8b8\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Program Files\Java\jdk-19\caches\transforms-3\f29f12aa2e7285b7793c7173a1edf8b8\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\ddde9129d109374aa6afbb4c4bd16737\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\ddde9129d109374aa6afbb4c4bd16737\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\8781c8b628521d17aa64027b0c3ff482\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\8781c8b628521d17aa64027b0c3ff482\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\ee08863ea05522c8763dfeb6dc2bd7e9\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\ee08863ea05522c8763dfeb6dc2bd7e9\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\47b92974fbb9d4534cc9ab21cca58ccd\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\47b92974fbb9d4534cc9ab21cca58ccd\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\2a076e316ad8d8479a54cfdbb91b5211\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\2a076e316ad8d8479a54cfdbb91b5211\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-ktx:20.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\8e5b1401afd6c0adb8ec81e855e3abfb\transformed\firebase-storage-ktx-20.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-storage-ktx:20.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\8e5b1401afd6c0adb8ec81e855e3abfb\transformed\firebase-storage-ktx-20.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-ktx:20.2.1] C:\Program Files\Java\jdk-19\caches\transforms-3\0f3df6b89b85cf4b275693e440ad5546\transformed\firebase-database-ktx-20.2.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-ktx:20.2.1] C:\Program Files\Java\jdk-19\caches\transforms-3\0f3df6b89b85cf4b275693e440ad5546\transformed\firebase-database-ktx-20.2.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.2] C:\Program Files\Java\jdk-19\caches\transforms-3\90eb4ca33bb5809263f03915693225ab\transformed\firebase-common-ktx-20.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.2] C:\Program Files\Java\jdk-19\caches\transforms-3\90eb4ca33bb5809263f03915693225ab\transformed\firebase-common-ktx-20.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.5.0] C:\Program Files\Java\jdk-19\caches\transforms-3\451c1f57fa8d38ea82f5123128943a87\transformed\material-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.5.0] C:\Program Files\Java\jdk-19\caches\transforms-3\451c1f57fa8d38ea82f5123128943a87\transformed\material-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Program Files\Java\jdk-19\caches\transforms-3\585a40be36807ca8dbde1fab102d9b46\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Program Files\Java\jdk-19\caches\transforms-3\585a40be36807ca8dbde1fab102d9b46\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Program Files\Java\jdk-19\caches\transforms-3\d34a9d44a3e556270a717b81c067a587\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Program Files\Java\jdk-19\caches\transforms-3\d34a9d44a3e556270a717b81c067a587\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Program Files\Java\jdk-19\caches\transforms-3\ba3a36a3c7c8e378c5d896f2def38d38\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Program Files\Java\jdk-19\caches\transforms-3\ba3a36a3c7c8e378c5d896f2def38d38\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\85be48ddacde01b6303f5497b598ec60\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\85be48ddacde01b6303f5497b598ec60\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-storage:20.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\361e97d5f253cde4dd08325a30e3f7dc\transformed\firebase-storage-20.2.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-storage:20.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\361e97d5f253cde4dd08325a30e3f7dc\transformed\firebase-storage-20.2.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:20.2.1] C:\Program Files\Java\jdk-19\caches\transforms-3\d79690ec2fed7b255a69c2477bb8f0c6\transformed\firebase-database-20.2.1\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-database:20.2.1] C:\Program Files\Java\jdk-19\caches\transforms-3\d79690ec2fed7b255a69c2477bb8f0c6\transformed\firebase-database-20.2.1\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\4169568ece76fe81d95f45b70167fb85\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\4169568ece76fe81d95f45b70167fb85\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:20.3.2] C:\Program Files\Java\jdk-19\caches\transforms-3\5f7d90e10c20b8179d9c3b14508430da\transformed\firebase-common-20.3.2\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-common:20.3.2] C:\Program Files\Java\jdk-19\caches\transforms-3\5f7d90e10c20b8179d9c3b14508430da\transformed\firebase-common-20.3.2\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\6aa21b84532e3bb6defc381df84fea29\transformed\firebase-appcheck-interop-17.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\6aa21b84532e3bb6defc381df84fea29\transformed\firebase-appcheck-interop-17.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Program Files\Java\jdk-19\caches\transforms-3\1059f2f2bc57f9052842fc1b40dea906\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Program Files\Java\jdk-19\caches\transforms-3\1059f2f2bc57f9052842fc1b40dea906\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\1b344a6696aeb802c214ad26f2d924b2\transformed\play-services-base-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\1b344a6696aeb802c214ad26f2d924b2\transformed\play-services-base-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Program Files\Java\jdk-19\caches\transforms-3\21849b9ba8fee58b74d8fec8c428a486\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Program Files\Java\jdk-19\caches\transforms-3\21849b9ba8fee58b74d8fec8c428a486\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\692b81fb58284fb9e6bad1c5d0c9a03a\transformed\play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\692b81fb58284fb9e6bad1c5d0c9a03a\transformed\play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Program Files\Java\jdk-19\caches\transforms-3\761ca73595a75c6c2364664b13b53314\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Program Files\Java\jdk-19\caches\transforms-3\761ca73595a75c6c2364664b13b53314\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.6.0] C:\Program Files\Java\jdk-19\caches\transforms-3\2a8f3938c2017cfcb3513a22e706f0c0\transformed\activity-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] C:\Program Files\Java\jdk-19\caches\transforms-3\2a8f3938c2017cfcb3513a22e706f0c0\transformed\activity-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\b749b27ca3074ea7c6f6cd1a6d7a1aa9\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\b749b27ca3074ea7c6f6cd1a6d7a1aa9\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\ebbe71c5e989d275fc12b43d5c721319\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\ebbe71c5e989d275fc12b43d5c721319\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\a6b5bfb2c31f4cc7d5a2a998526904be\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\a6b5bfb2c31f4cc7d5a2a998526904be\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Program Files\Java\jdk-19\caches\transforms-3\ee1b4fb0ef44c6ba09912495bada1271\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Program Files\Java\jdk-19\caches\transforms-3\ee1b4fb0ef44c6ba09912495bada1271\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Program Files\Java\jdk-19\caches\transforms-3\fe0ce24ef268285c213992d05f5b984e\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Program Files\Java\jdk-19\caches\transforms-3\fe0ce24ef268285c213992d05f5b984e\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\b2f4021eae2f9383255e647cac1e70da\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\b2f4021eae2f9383255e647cac1e70da\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\68fb24c4dac87c5892c74fbb3f7a351a\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\68fb24c4dac87c5892c74fbb3f7a351a\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Program Files\Java\jdk-19\caches\transforms-3\11d9722f5ea6ceec8c833eae7ace9916\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Program Files\Java\jdk-19\caches\transforms-3\11d9722f5ea6ceec8c833eae7ace9916\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\a549e2eeff5070a1e175657a95334637\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\a549e2eeff5070a1e175657a95334637\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\4e7156e01c1d79ed52a3adf6ee5ca71a\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\4e7156e01c1d79ed52a3adf6ee5ca71a\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\accf4ac154992b95cce947c4b57f9049\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\accf4ac154992b95cce947c4b57f9049\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\a9a341cf6b70ced72c479eb441953992\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\a9a341cf6b70ced72c479eb441953992\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\9b618fb113e98b9798831e110e71c4ab\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\9b618fb113e98b9798831e110e71c4ab\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\1373a544b272de41eb45441119e9de10\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\1373a544b272de41eb45441119e9de10\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\cad2fbc109bdb5a8ed4a58dd5475f3bf\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\cad2fbc109bdb5a8ed4a58dd5475f3bf\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.9.0] C:\Program Files\Java\jdk-19\caches\transforms-3\f2c31b3b107d7f8ef1a32c1395f49773\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] C:\Program Files\Java\jdk-19\caches\transforms-3\f2c31b3b107d7f8ef1a32c1395f49773\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Program Files\Java\jdk-19\caches\transforms-3\0f72ae5fe8c1aeda76a659e4e9c85540\transformed\core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Program Files\Java\jdk-19\caches\transforms-3\0f72ae5fe8c1aeda76a659e4e9c85540\transformed\core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\1a3d65185659ee42858a4179e5d9e2e8\transformed\savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\1a3d65185659ee42858a4179e5d9e2e8\transformed\savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\94541a006642437d1f93d54783b5db9b\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\94541a006642437d1f93d54783b5db9b\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Program Files\Java\jdk-19\caches\transforms-3\c9a089b9b2da2fb056184339d0ea6a6b\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Program Files\Java\jdk-19\caches\transforms-3\c9a089b9b2da2fb056184339d0ea6a6b\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Program Files\Java\jdk-19\caches\transforms-3\a233f8cbc4e8fdbc11d5403ca1bb290a\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Program Files\Java\jdk-19\caches\transforms-3\a233f8cbc4e8fdbc11d5403ca1bb290a\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\606363a69ebdde2f629ca3747501261e\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\606363a69ebdde2f629ca3747501261e\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:17.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\44894cd07c119c2671ffe61f903e96ac\transformed\firebase-components-17.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-components:17.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\44894cd07c119c2671ffe61f903e96ac\transformed\firebase-components-17.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Program Files\Java\jdk-19\caches\transforms-3\63b24eb6a53d72ade11fc7e1c149c39a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Program Files\Java\jdk-19\caches\transforms-3\63b24eb6a53d72ade11fc7e1c149c39a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Program Files\Java\jdk-19\caches\transforms-3\bd6ebf7b9b46018faabb1e36dde90135\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Program Files\Java\jdk-19\caches\transforms-3\bd6ebf7b9b46018faabb1e36dde90135\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\5a97f3dbbfa72e15554e061b1f2bd974\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\5a97f3dbbfa72e15554e061b1f2bd974\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\cf29cd3022400bff5d396a1b6b88b763\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\cf29cd3022400bff5d396a1b6b88b763\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Program Files\Java\jdk-19\caches\transforms-3\ea9c2bdd1410b666f24bb6f4bc6d4817\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Program Files\Java\jdk-19\caches\transforms-3\ea9c2bdd1410b666f24bb6f4bc6d4817\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\8f6310e6b2796eb70688dd8ab1a49e48\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\8f6310e6b2796eb70688dd8ab1a49e48\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\04fda99d3e3334d4e4fca4470054b711\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\04fda99d3e3334d4e4fca4470054b711\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\157c4f4a11229bf41e9879d3d5f76d86\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\157c4f4a11229bf41e9879d3d5f76d86\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\177b51397a59bb33ac33833b3d540203\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\177b51397a59bb33ac33833b3d540203\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\ae5667acc008bff29d20e3885c0ee0a7\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\ae5667acc008bff29d20e3885c0ee0a7\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Program Files\Java\jdk-19\caches\transforms-3\a079985e239efb17185fbb82a5a03707\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Program Files\Java\jdk-19\caches\transforms-3\a079985e239efb17185fbb82a5a03707\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
 INJECTED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
@@ -251,49 +312,137 @@ INJECTED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\
 		INJECTED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml
 		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml
-provider#androidx.startup.InitializationProvider
-ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\4489033787a152d1ed2ed20b0293b2cb\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Program Files\Java\jdk-19\caches\transforms-3\0521f07717581cdc27f649543e97f3ce\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
-MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Program Files\Java\jdk-19\caches\transforms-3\0521f07717581cdc27f649543e97f3ce\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Program Files\Java\jdk-19\caches\transforms-3\f26718322a501c5a7e9362b2458c18c1\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Program Files\Java\jdk-19\caches\transforms-3\f26718322a501c5a7e9362b2458c18c1\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
-	tools:node
-		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\4489033787a152d1ed2ed20b0293b2cb\transformed\emoji2-1.2.0\AndroidManifest.xml:28:13-31
-	android:authorities
-		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\4489033787a152d1ed2ed20b0293b2cb\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-storage-ktx:20.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\8e5b1401afd6c0adb8ec81e855e3abfb\transformed\firebase-storage-ktx-20.2.0\AndroidManifest.xml:11:9-17:19
+MERGED from [com.google.firebase:firebase-database-ktx:20.2.1] C:\Program Files\Java\jdk-19\caches\transforms-3\0f3df6b89b85cf4b275693e440ad5546\transformed\firebase-database-ktx-20.2.1\AndroidManifest.xml:11:9-17:19
+MERGED from [com.google.firebase:firebase-database-ktx:20.2.1] C:\Program Files\Java\jdk-19\caches\transforms-3\0f3df6b89b85cf4b275693e440ad5546\transformed\firebase-database-ktx-20.2.1\AndroidManifest.xml:11:9-17:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.2] C:\Program Files\Java\jdk-19\caches\transforms-3\90eb4ca33bb5809263f03915693225ab\transformed\firebase-common-ktx-20.3.2\AndroidManifest.xml:11:9-17:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.2] C:\Program Files\Java\jdk-19\caches\transforms-3\90eb4ca33bb5809263f03915693225ab\transformed\firebase-common-ktx-20.3.2\AndroidManifest.xml:11:9-17:19
+MERGED from [com.google.firebase:firebase-storage:20.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\361e97d5f253cde4dd08325a30e3f7dc\transformed\firebase-storage-20.2.0\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-storage:20.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\361e97d5f253cde4dd08325a30e3f7dc\transformed\firebase-storage-20.2.0\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-database:20.2.1] C:\Program Files\Java\jdk-19\caches\transforms-3\d79690ec2fed7b255a69c2477bb8f0c6\transformed\firebase-database-20.2.1\AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.firebase:firebase-database:20.2.1] C:\Program Files\Java\jdk-19\caches\transforms-3\d79690ec2fed7b255a69c2477bb8f0c6\transformed\firebase-database-20.2.1\AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.firebase:firebase-common:20.3.2] C:\Program Files\Java\jdk-19\caches\transforms-3\5f7d90e10c20b8179d9c3b14508430da\transformed\firebase-common-20.3.2\AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:20.3.2] C:\Program Files\Java\jdk-19\caches\transforms-3\5f7d90e10c20b8179d9c3b14508430da\transformed\firebase-common-20.3.2\AndroidManifest.xml:32:9-36:35
 	android:exported
-		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\4489033787a152d1ed2ed20b0293b2cb\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+		ADDED from [com.google.firebase:firebase-storage-ktx:20.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\8e5b1401afd6c0adb8ec81e855e3abfb\transformed\firebase-storage-ktx-20.2.0\AndroidManifest.xml:13:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.3.2] C:\Program Files\Java\jdk-19\caches\transforms-3\5f7d90e10c20b8179d9c3b14508430da\transformed\firebase-common-20.3.2\AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.3.2] C:\Program Files\Java\jdk-19\caches\transforms-3\5f7d90e10c20b8179d9c3b14508430da\transformed\firebase-common-20.3.2\AndroidManifest.xml:34:13-43
 	android:name
-		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\4489033787a152d1ed2ed20b0293b2cb\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+		ADDED from [com.google.firebase:firebase-storage-ktx:20.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\8e5b1401afd6c0adb8ec81e855e3abfb\transformed\firebase-storage-ktx-20.2.0\AndroidManifest.xml:12:13-84
+meta-data#com.google.firebase.components:com.google.firebase.storage.ktx.FirebaseStorageKtxRegistrar
+ADDED from [com.google.firebase:firebase-storage-ktx:20.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\8e5b1401afd6c0adb8ec81e855e3abfb\transformed\firebase-storage-ktx-20.2.0\AndroidManifest.xml:14:13-16:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage-ktx:20.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\8e5b1401afd6c0adb8ec81e855e3abfb\transformed\firebase-storage-ktx-20.2.0\AndroidManifest.xml:16:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage-ktx:20.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\8e5b1401afd6c0adb8ec81e855e3abfb\transformed\firebase-storage-ktx-20.2.0\AndroidManifest.xml:15:17-122
+meta-data#com.google.firebase.components:com.google.firebase.database.ktx.FirebaseDatabaseKtxRegistrar
+ADDED from [com.google.firebase:firebase-database-ktx:20.2.1] C:\Program Files\Java\jdk-19\caches\transforms-3\0f3df6b89b85cf4b275693e440ad5546\transformed\firebase-database-ktx-20.2.1\AndroidManifest.xml:14:13-16:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database-ktx:20.2.1] C:\Program Files\Java\jdk-19\caches\transforms-3\0f3df6b89b85cf4b275693e440ad5546\transformed\firebase-database-ktx-20.2.1\AndroidManifest.xml:16:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database-ktx:20.2.1] C:\Program Files\Java\jdk-19\caches\transforms-3\0f3df6b89b85cf4b275693e440ad5546\transformed\firebase-database-ktx-20.2.1\AndroidManifest.xml:15:17-124
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:20.3.2] C:\Program Files\Java\jdk-19\caches\transforms-3\90eb4ca33bb5809263f03915693225ab\transformed\firebase-common-ktx-20.3.2\AndroidManifest.xml:14:13-16:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:20.3.2] C:\Program Files\Java\jdk-19\caches\transforms-3\90eb4ca33bb5809263f03915693225ab\transformed\firebase-common-ktx-20.3.2\AndroidManifest.xml:16:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:20.3.2] C:\Program Files\Java\jdk-19\caches\transforms-3\90eb4ca33bb5809263f03915693225ab\transformed\firebase-common-ktx-20.3.2\AndroidManifest.xml:15:17-113
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-storage:20.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\361e97d5f253cde4dd08325a30e3f7dc\transformed\firebase-storage-20.2.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-database:20.2.1] C:\Program Files\Java\jdk-19\caches\transforms-3\d79690ec2fed7b255a69c2477bb8f0c6\transformed\firebase-database-20.2.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-database:20.2.1] C:\Program Files\Java\jdk-19\caches\transforms-3\d79690ec2fed7b255a69c2477bb8f0c6\transformed\firebase-database-20.2.1\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:20.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\361e97d5f253cde4dd08325a30e3f7dc\transformed\firebase-storage-20.2.0\AndroidManifest.xml:25:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-storage:20.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\361e97d5f253cde4dd08325a30e3f7dc\transformed\firebase-storage-20.2.0\AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-database:20.2.1] C:\Program Files\Java\jdk-19\caches\transforms-3\d79690ec2fed7b255a69c2477bb8f0c6\transformed\firebase-database-20.2.1\AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-database:20.2.1] C:\Program Files\Java\jdk-19\caches\transforms-3\d79690ec2fed7b255a69c2477bb8f0c6\transformed\firebase-database-20.2.1\AndroidManifest.xml:25:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:20.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\361e97d5f253cde4dd08325a30e3f7dc\transformed\firebase-storage-20.2.0\AndroidManifest.xml:26:22-64
+meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
+ADDED from [com.google.firebase:firebase-storage:20.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\361e97d5f253cde4dd08325a30e3f7dc\transformed\firebase-storage-20.2.0\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:20.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\361e97d5f253cde4dd08325a30e3f7dc\transformed\firebase-storage-20.2.0\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:20.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\361e97d5f253cde4dd08325a30e3f7dc\transformed\firebase-storage-20.2.0\AndroidManifest.xml:33:17-107
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:20.2.1] C:\Program Files\Java\jdk-19\caches\transforms-3\d79690ec2fed7b255a69c2477bb8f0c6\transformed\firebase-database-20.2.1\AndroidManifest.xml:31:13-33:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:20.2.1] C:\Program Files\Java\jdk-19\caches\transforms-3\d79690ec2fed7b255a69c2477bb8f0c6\transformed\firebase-database-20.2.1\AndroidManifest.xml:33:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:20.2.1] C:\Program Files\Java\jdk-19\caches\transforms-3\d79690ec2fed7b255a69c2477bb8f0c6\transformed\firebase-database-20.2.1\AndroidManifest.xml:32:17-109
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.3.2] C:\Program Files\Java\jdk-19\caches\transforms-3\5f7d90e10c20b8179d9c3b14508430da\transformed\firebase-common-20.3.2\AndroidManifest.xml:25:9-30:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.3.2] C:\Program Files\Java\jdk-19\caches\transforms-3\5f7d90e10c20b8179d9c3b14508430da\transformed\firebase-common-20.3.2\AndroidManifest.xml:27:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.3.2] C:\Program Files\Java\jdk-19\caches\transforms-3\5f7d90e10c20b8179d9c3b14508430da\transformed\firebase-common-20.3.2\AndroidManifest.xml:29:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.3.2] C:\Program Files\Java\jdk-19\caches\transforms-3\5f7d90e10c20b8179d9c3b14508430da\transformed\firebase-common-20.3.2\AndroidManifest.xml:28:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.3.2] C:\Program Files\Java\jdk-19\caches\transforms-3\5f7d90e10c20b8179d9c3b14508430da\transformed\firebase-common-20.3.2\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.3.2] C:\Program Files\Java\jdk-19\caches\transforms-3\5f7d90e10c20b8179d9c3b14508430da\transformed\firebase-common-20.3.2\AndroidManifest.xml:26:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\1b344a6696aeb802c214ad26f2d924b2\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\1b344a6696aeb802c214ad26f2d924b2\transformed\play-services-base-18.1.0\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\1b344a6696aeb802c214ad26f2d924b2\transformed\play-services-base-18.1.0\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\1b344a6696aeb802c214ad26f2d924b2\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\692b81fb58284fb9e6bad1c5d0c9a03a\transformed\play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\692b81fb58284fb9e6bad1c5d0c9a03a\transformed\play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\692b81fb58284fb9e6bad1c5d0c9a03a\transformed\play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\68fb24c4dac87c5892c74fbb3f7a351a\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Program Files\Java\jdk-19\caches\transforms-3\c9a089b9b2da2fb056184339d0ea6a6b\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Program Files\Java\jdk-19\caches\transforms-3\c9a089b9b2da2fb056184339d0ea6a6b\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Program Files\Java\jdk-19\caches\transforms-3\bd6ebf7b9b46018faabb1e36dde90135\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Program Files\Java\jdk-19\caches\transforms-3\bd6ebf7b9b46018faabb1e36dde90135\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\68fb24c4dac87c5892c74fbb3f7a351a\transformed\emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\68fb24c4dac87c5892c74fbb3f7a351a\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\68fb24c4dac87c5892c74fbb3f7a351a\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\68fb24c4dac87c5892c74fbb3f7a351a\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
 meta-data#androidx.emoji2.text.EmojiCompatInitializer
-ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\4489033787a152d1ed2ed20b0293b2cb\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\68fb24c4dac87c5892c74fbb3f7a351a\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
 	android:value
-		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\4489033787a152d1ed2ed20b0293b2cb\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\68fb24c4dac87c5892c74fbb3f7a351a\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
 	android:name
-		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\4489033787a152d1ed2ed20b0293b2cb\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\68fb24c4dac87c5892c74fbb3f7a351a\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
 permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.9.0] C:\Program Files\Java\jdk-19\caches\transforms-3\55ce0eebbe8a55033be81d4b525a86a7\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+ADDED from [androidx.core:core:1.9.0] C:\Program Files\Java\jdk-19\caches\transforms-3\f2c31b3b107d7f8ef1a32c1395f49773\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
 	android:protectionLevel
-		ADDED from [androidx.core:core:1.9.0] C:\Program Files\Java\jdk-19\caches\transforms-3\55ce0eebbe8a55033be81d4b525a86a7\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+		ADDED from [androidx.core:core:1.9.0] C:\Program Files\Java\jdk-19\caches\transforms-3\f2c31b3b107d7f8ef1a32c1395f49773\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
 	android:name
-		ADDED from [androidx.core:core:1.9.0] C:\Program Files\Java\jdk-19\caches\transforms-3\55ce0eebbe8a55033be81d4b525a86a7\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+		ADDED from [androidx.core:core:1.9.0] C:\Program Files\Java\jdk-19\caches\transforms-3\f2c31b3b107d7f8ef1a32c1395f49773\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
 permission#com.example.carsmotors.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.9.0] C:\Program Files\Java\jdk-19\caches\transforms-3\55ce0eebbe8a55033be81d4b525a86a7\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+ADDED from [androidx.core:core:1.9.0] C:\Program Files\Java\jdk-19\caches\transforms-3\f2c31b3b107d7f8ef1a32c1395f49773\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
 	android:protectionLevel
-		ADDED from [androidx.core:core:1.9.0] C:\Program Files\Java\jdk-19\caches\transforms-3\55ce0eebbe8a55033be81d4b525a86a7\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+		ADDED from [androidx.core:core:1.9.0] C:\Program Files\Java\jdk-19\caches\transforms-3\f2c31b3b107d7f8ef1a32c1395f49773\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
 	android:name
-		ADDED from [androidx.core:core:1.9.0] C:\Program Files\Java\jdk-19\caches\transforms-3\55ce0eebbe8a55033be81d4b525a86a7\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+		ADDED from [androidx.core:core:1.9.0] C:\Program Files\Java\jdk-19\caches\transforms-3\f2c31b3b107d7f8ef1a32c1395f49773\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
 uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.9.0] C:\Program Files\Java\jdk-19\caches\transforms-3\55ce0eebbe8a55033be81d4b525a86a7\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+ADDED from [androidx.core:core:1.9.0] C:\Program Files\Java\jdk-19\caches\transforms-3\f2c31b3b107d7f8ef1a32c1395f49773\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
 	android:name
-		ADDED from [androidx.core:core:1.9.0] C:\Program Files\Java\jdk-19\caches\transforms-3\55ce0eebbe8a55033be81d4b525a86a7\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+		ADDED from [androidx.core:core:1.9.0] C:\Program Files\Java\jdk-19\caches\transforms-3\f2c31b3b107d7f8ef1a32c1395f49773\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
 uses-permission#com.example.carsmotors.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.9.0] C:\Program Files\Java\jdk-19\caches\transforms-3\55ce0eebbe8a55033be81d4b525a86a7\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+ADDED from [androidx.core:core:1.9.0] C:\Program Files\Java\jdk-19\caches\transforms-3\f2c31b3b107d7f8ef1a32c1395f49773\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
 	android:name
-		ADDED from [androidx.core:core:1.9.0] C:\Program Files\Java\jdk-19\caches\transforms-3\55ce0eebbe8a55033be81d4b525a86a7\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+		ADDED from [androidx.core:core:1.9.0] C:\Program Files\Java\jdk-19\caches\transforms-3\f2c31b3b107d7f8ef1a32c1395f49773\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
 meta-data#androidx.lifecycle.ProcessLifecycleInitializer
-ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Program Files\Java\jdk-19\caches\transforms-3\0521f07717581cdc27f649543e97f3ce\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Program Files\Java\jdk-19\caches\transforms-3\c9a089b9b2da2fb056184339d0ea6a6b\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
 	android:value
-		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Program Files\Java\jdk-19\caches\transforms-3\0521f07717581cdc27f649543e97f3ce\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Program Files\Java\jdk-19\caches\transforms-3\c9a089b9b2da2fb056184339d0ea6a6b\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
 	android:name
-		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Program Files\Java\jdk-19\caches\transforms-3\0521f07717581cdc27f649543e97f3ce\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Program Files\Java\jdk-19\caches\transforms-3\c9a089b9b2da2fb056184339d0ea6a6b\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78

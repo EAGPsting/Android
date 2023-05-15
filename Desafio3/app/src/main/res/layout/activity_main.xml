@@ -291,7 +291,7 @@
         app:layout_constraintStart_toStartOf="@+id/txtPrecio" />
 
     <Button
-        android:id="@+id/btnBuscar2"
+        android:id="@+id/btnImagen"
         android:layout_width="0dp"
         android:layout_height="0dp"
         android:layout_marginStart="43dp"

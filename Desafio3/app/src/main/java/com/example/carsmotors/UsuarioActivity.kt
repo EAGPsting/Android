@@ -4,6 +4,8 @@ import android.annotation.SuppressLint
 import android.os.Bundle
 import android.view.View
 import android.widget.*
+import android.widget.Button
+import android.widget.EditText
 import androidx.appcompat.app.AppCompatActivity
 import com.example.carsmotors.model.Usuario
 
@@ -26,9 +28,9 @@ class UsuarioActivity : AppCompatActivity() {
     private var idUsuarioSeleccionado: Int = -1
 
     @SuppressLint("MissingInflatedId")
-    override fun onCreate(savedInstanceState: Bundle?) {
+    public override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
+        setContentView(R.layout.activity_usuario)
 
         editTextNombre = findViewById(R.id.edit_text_nombre)
         editTextApellidos = findViewById(R.id.edit_text_apellidos)
