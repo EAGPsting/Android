@@ -151,5 +151,12 @@
             android:layout_height="wrap_content"
             android:text="Foto"
             android:layout_marginStart="50dp" />
+        <Button
+            android:id="@+id/btnAddfav"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Agregar a Favoritos" />
+        <View style="@style/Divider"/>
+
     </LinearLayout>
 </LinearLayout>

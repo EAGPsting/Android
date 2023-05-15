@@ -21,6 +21,7 @@ id action_option4
 id action_option5
 id action_sign_out
 id btnActualizar
+id btnAddfav
 id btnAgregar
 id btnAutomovil
 id btnBuscar
@@ -28,6 +29,7 @@ id btnBuscar2
 id btnColor
 id btnEliminar
 id btnFavoritos
+id btnFavoritos2
 id btnImagen
 id btnMarcas
 id btnTipo
@@ -57,6 +59,7 @@ id label8
 id label9
 id list_view_usuarios
 id listaCarros
+id listaFavoritos
 id radio_button_admin
 id radio_button_user
 id radio_group_tipo
@@ -98,8 +101,12 @@ id txtVIN
 id viewAño
 id viewChasis
 id viewColor
+id viewFecha
 id viewFoto
 id viewId
+id viewIdAuto
+id viewIdFav
+id viewIdUsuario
 id viewMarca
 id viewModelo
 id viewMotor
@@ -107,6 +114,7 @@ id viewPrecio
 id viewTipo
 id viewVIN
 layout activity_colores
+layout activity_fav
 layout activity_favoritos
 layout activity_login
 layout activity_main
@@ -116,6 +124,7 @@ layout activity_sign_up
 layout activity_tipos
 layout activity_usuario
 layout lista_item_carros
+layout lista_item_favoritos
 menu menu
 mipmap ic_launcher
 mipmap ic_launcher_round
@@ -128,6 +137,7 @@ string google_crash_reporting_api_key
 string google_storage_bucket
 string project_id
 style Base.Theme.CarsMotors
+style Divider
 style Progressbar
 style Theme.CarsMotors
 xml backup_rules

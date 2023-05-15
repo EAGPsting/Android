@@ -38,12 +38,23 @@
         android:id="@+id/btnFavoritos"
         android:layout_width="0dp"
         android:layout_height="0dp"
-        android:layout_marginBottom="232dp"
-        android:text="Favoritos"
-        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_marginBottom="17dp"
+        android:text="Ver Carros"
+        app:layout_constraintBottom_toTopOf="@+id/btnFavoritos2"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/btnUsuario" />
+
+    <Button
+        android:id="@+id/btnFavoritos2"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginBottom="177dp"
+        android:text="Ver Favoritos"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnFavoritos" />
 
     <Button
         android:id="@+id/btnTipo"

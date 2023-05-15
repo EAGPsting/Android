@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:2:1-50:12
-INJECTED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:2:1-50:12
-INJECTED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:2:1-50:12
-INJECTED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:2:1-50:12
+ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:2:1-53:12
 MERGED from [com.google.firebase:firebase-storage-ktx:20.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\8e5b1401afd6c0adb8ec81e855e3abfb\transformed\firebase-storage-ktx-20.2.0\AndroidManifest.xml:2:1-20:12
 MERGED from [com.google.firebase:firebase-database-ktx:20.2.1] C:\Program Files\Java\jdk-19\caches\transforms-3\0f3df6b89b85cf4b275693e440ad5546\transformed\firebase-database-ktx-20.2.1\AndroidManifest.xml:2:1-20:12
 MERGED from [com.google.firebase:firebase-common-ktx:20.3.2] C:\Program Files\Java\jdk-19\caches\transforms-3\90eb4ca33bb5809263f03915693225ab\transformed\firebase-common-ktx-20.3.2\AndroidManifest.xml:2:1-20:12
@@ -11,6 +11,7 @@ MERGED from [com.google.android.material:material:1.5.0] C:\Program Files\Java\j
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Program Files\Java\jdk-19\caches\transforms-3\585a40be36807ca8dbde1fab102d9b46\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Program Files\Java\jdk-19\caches\transforms-3\d34a9d44a3e556270a717b81c067a587\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Program Files\Java\jdk-19\caches\transforms-3\ba3a36a3c7c8e378c5d896f2def38d38\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.15.1] C:\Program Files\Java\jdk-19\caches\transforms-3\b1deda20a80f00ec7902d03aec15863a\transformed\glide-4.15.1\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\85be48ddacde01b6303f5497b598ec60\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.firebase:firebase-storage:20.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\361e97d5f253cde4dd08325a30e3f7dc\transformed\firebase-storage-20.2.0\AndroidManifest.xml:15:1-38:12
 MERGED from [com.google.firebase:firebase-database:20.2.1] C:\Program Files\Java\jdk-19\caches\transforms-3\d79690ec2fed7b255a69c2477bb8f0c6\transformed\firebase-database-20.2.1\AndroidManifest.xml:15:1-37:12
@@ -46,9 +47,11 @@ MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Program Files\Java\j
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Program Files\Java\jdk-19\caches\transforms-3\a233f8cbc4e8fdbc11d5403ca1bb290a\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\606363a69ebdde2f629ca3747501261e\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:firebase-components:17.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\44894cd07c119c2671ffe61f903e96ac\transformed\firebase-components-17.1.0\AndroidManifest.xml:15:1-22:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Program Files\Java\jdk-19\caches\transforms-3\63b24eb6a53d72ade11fc7e1c149c39a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.15.1] C:\Program Files\Java\jdk-19\caches\transforms-3\f69b45c08c4a4f669d173dc6d51d9922\transformed\gifdecoder-4.15.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Program Files\Java\jdk-19\caches\transforms-3\ca407301d49cd022bd5454e53e1b750c\transformed\exifinterface-1.3.3\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Program Files\Java\jdk-19\caches\transforms-3\bd6ebf7b9b46018faabb1e36dde90135\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
 MERGED from [androidx.tracing:tracing:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\5a97f3dbbfa72e15554e061b1f2bd974\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Program Files\Java\jdk-19\caches\transforms-3\63b24eb6a53d72ade11fc7e1c149c39a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\cf29cd3022400bff5d396a1b6b88b763\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Program Files\Java\jdk-19\caches\transforms-3\ea9c2bdd1410b666f24bb6f4bc6d4817\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\8f6310e6b2796eb70688dd8ab1a49e48\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
@@ -57,27 +60,27 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Program Files\Java\jdk
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\177b51397a59bb33ac33833b3d540203\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\ae5667acc008bff29d20e3885c0ee0a7\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Program Files\Java\jdk-19\caches\transforms-3\a079985e239efb17185fbb82a5a03707\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:2:1-50:12
-INJECTED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:2:1-50:12
-INJECTED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:2:1-53:12
 	package
 		INJECTED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:2:1-50:12
+		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:2:1-53:12
 		INJECTED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:2:1-50:12
+		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:2:1-53:12
 		INJECTED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml
 	xmlns:tools
 		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:2:1-50:12
+		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:2:1-53:12
 		INJECTED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:5:5-48:19
+ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:5:5-51:19
 MERGED from [com.google.firebase:firebase-storage-ktx:20.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\8e5b1401afd6c0adb8ec81e855e3abfb\transformed\firebase-storage-ktx-20.2.0\AndroidManifest.xml:10:5-18:19
 MERGED from [com.google.firebase:firebase-storage-ktx:20.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\8e5b1401afd6c0adb8ec81e855e3abfb\transformed\firebase-storage-ktx-20.2.0\AndroidManifest.xml:10:5-18:19
 MERGED from [com.google.firebase:firebase-database-ktx:20.2.1] C:\Program Files\Java\jdk-19\caches\transforms-3\0f3df6b89b85cf4b275693e440ad5546\transformed\firebase-database-ktx-20.2.1\AndroidManifest.xml:10:5-18:19
@@ -88,6 +91,8 @@ MERGED from [com.google.android.material:material:1.5.0] C:\Program Files\Java\j
 MERGED from [com.google.android.material:material:1.5.0] C:\Program Files\Java\jdk-19\caches\transforms-3\451c1f57fa8d38ea82f5123128943a87\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Program Files\Java\jdk-19\caches\transforms-3\585a40be36807ca8dbde1fab102d9b46\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Program Files\Java\jdk-19\caches\transforms-3\585a40be36807ca8dbde1fab102d9b46\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.15.1] C:\Program Files\Java\jdk-19\caches\transforms-3\b1deda20a80f00ec7902d03aec15863a\transformed\glide-4.15.1\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.15.1] C:\Program Files\Java\jdk-19\caches\transforms-3\b1deda20a80f00ec7902d03aec15863a\transformed\glide-4.15.1\AndroidManifest.xml:9:5-20
 MERGED from [com.google.firebase:firebase-storage:20.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\361e97d5f253cde4dd08325a30e3f7dc\transformed\firebase-storage-20.2.0\AndroidManifest.xml:28:5-36:19
 MERGED from [com.google.firebase:firebase-storage:20.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\361e97d5f253cde4dd08325a30e3f7dc\transformed\firebase-storage-20.2.0\AndroidManifest.xml:28:5-36:19
 MERGED from [com.google.firebase:firebase-database:20.2.1] C:\Program Files\Java\jdk-19\caches\transforms-3\d79690ec2fed7b255a69c2477bb8f0c6\transformed\firebase-database-20.2.1\AndroidManifest.xml:27:5-35:19
@@ -110,10 +115,12 @@ MERGED from [androidx.core:core:1.9.0] C:\Program Files\Java\jdk-19\caches\trans
 MERGED from [androidx.core:core:1.9.0] C:\Program Files\Java\jdk-19\caches\transforms-3\f2c31b3b107d7f8ef1a32c1395f49773\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
 MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Program Files\Java\jdk-19\caches\transforms-3\c9a089b9b2da2fb056184339d0ea6a6b\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
 MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Program Files\Java\jdk-19\caches\transforms-3\c9a089b9b2da2fb056184339d0ea6a6b\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Program Files\Java\jdk-19\caches\transforms-3\63b24eb6a53d72ade11fc7e1c149c39a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Program Files\Java\jdk-19\caches\transforms-3\63b24eb6a53d72ade11fc7e1c149c39a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.15.1] C:\Program Files\Java\jdk-19\caches\transforms-3\f69b45c08c4a4f669d173dc6d51d9922\transformed\gifdecoder-4.15.1\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.15.1] C:\Program Files\Java\jdk-19\caches\transforms-3\f69b45c08c4a4f669d173dc6d51d9922\transformed\gifdecoder-4.15.1\AndroidManifest.xml:9:5-20
 MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Program Files\Java\jdk-19\caches\transforms-3\bd6ebf7b9b46018faabb1e36dde90135\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
 MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Program Files\Java\jdk-19\caches\transforms-3\bd6ebf7b9b46018faabb1e36dde90135\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Program Files\Java\jdk-19\caches\transforms-3\63b24eb6a53d72ade11fc7e1c149c39a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Program Files\Java\jdk-19\caches\transforms-3\63b24eb6a53d72ade11fc7e1c149c39a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.9.0] C:\Program Files\Java\jdk-19\caches\transforms-3\f2c31b3b107d7f8ef1a32c1395f49773\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
 	android:supportsRtl
@@ -134,70 +141,76 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Program Files\Java\jdk-1
 		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:13:9-48
 	android:dataExtractionRules
 		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:7:9-65
-activity#com.example.carsmotors.FavoritosActivity
+activity#com.example.carsmotors.FavActivity
 ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:15:9-17:40
 	android:exported
 		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:17:13-37
 	android:name
-		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:16:13-46
-activity#com.example.carsmotors.PrincipalActivity
+		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:16:13-40
+activity#com.example.carsmotors.FavoritosActivity
 ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:18:9-20:40
 	android:exported
 		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:20:13-37
 	android:name
 		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:19:13-46
-activity#com.example.carsmotors.UsuarioActivity
+activity#com.example.carsmotors.PrincipalActivity
 ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:21:9-23:40
 	android:exported
 		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:23:13-37
 	android:name
-		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:22:13-44
-activity#com.example.carsmotors.SignUpActivity
+		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:22:13-46
+activity#com.example.carsmotors.UsuarioActivity
 ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:24:9-26:40
 	android:exported
 		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:26:13-37
 	android:name
-		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:25:13-43
-activity#com.example.carsmotors.TiposActivity
+		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:25:13-44
+activity#com.example.carsmotors.SignUpActivity
 ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:27:9-29:40
 	android:exported
 		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:29:13-37
 	android:name
-		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:28:13-42
-activity#com.example.carsmotors.MarcasActivity
+		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:28:13-43
+activity#com.example.carsmotors.TiposActivity
 ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:30:9-32:40
 	android:exported
 		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:32:13-37
 	android:name
-		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:31:13-43
-activity#com.example.carsmotors.ColoresActivity
+		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:31:13-42
+activity#com.example.carsmotors.MarcasActivity
 ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:33:9-35:40
 	android:exported
 		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:35:13-37
 	android:name
-		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:34:13-44
+		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:34:13-43
+activity#com.example.carsmotors.ColoresActivity
+ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:37:13-44
 activity#com.example.carsmotors.LoginActivity
-ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:36:9-44:20
+ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:39:9-47:20
 	android:exported
-		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:38:13-36
+		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:41:13-36
 	android:name
-		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:37:13-42
+		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:40:13-42
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:39:13-43:29
+ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:42:13-46:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:40:17-69
+ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:43:17-69
 	android:name
-		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:40:25-66
+		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:43:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:42:17-77
+ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:45:17-77
 	android:name
-		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:42:27-74
+		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:45:27-74
 activity#com.example.carsmotors.MainActivity
-ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:45:9-47:40
+ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:48:9-50:40
 	android:exported
-		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:47:13-37
+		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:50:13-37
 	android:name
-		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:46:13-41
+		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:49:13-41
 uses-sdk
 INJECTED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml
@@ -216,6 +229,8 @@ MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Program Files\Java
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Program Files\Java\jdk-19\caches\transforms-3\d34a9d44a3e556270a717b81c067a587\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Program Files\Java\jdk-19\caches\transforms-3\ba3a36a3c7c8e378c5d896f2def38d38\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Program Files\Java\jdk-19\caches\transforms-3\ba3a36a3c7c8e378c5d896f2def38d38\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.15.1] C:\Program Files\Java\jdk-19\caches\transforms-3\b1deda20a80f00ec7902d03aec15863a\transformed\glide-4.15.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.15.1] C:\Program Files\Java\jdk-19\caches\transforms-3\b1deda20a80f00ec7902d03aec15863a\transformed\glide-4.15.1\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\85be48ddacde01b6303f5497b598ec60\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\85be48ddacde01b6303f5497b598ec60\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [com.google.firebase:firebase-storage:20.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\361e97d5f253cde4dd08325a30e3f7dc\transformed\firebase-storage-20.2.0\AndroidManifest.xml:19:5-21:41
@@ -286,12 +301,16 @@ MERGED from [androidx.cardview:cardview:1.0.0] C:\Program Files\Java\jdk-19\cach
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\606363a69ebdde2f629ca3747501261e\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-components:17.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\44894cd07c119c2671ffe61f903e96ac\transformed\firebase-components-17.1.0\AndroidManifest.xml:18:5-20:41
 MERGED from [com.google.firebase:firebase-components:17.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\44894cd07c119c2671ffe61f903e96ac\transformed\firebase-components-17.1.0\AndroidManifest.xml:18:5-20:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Program Files\Java\jdk-19\caches\transforms-3\63b24eb6a53d72ade11fc7e1c149c39a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Program Files\Java\jdk-19\caches\transforms-3\63b24eb6a53d72ade11fc7e1c149c39a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.15.1] C:\Program Files\Java\jdk-19\caches\transforms-3\f69b45c08c4a4f669d173dc6d51d9922\transformed\gifdecoder-4.15.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.15.1] C:\Program Files\Java\jdk-19\caches\transforms-3\f69b45c08c4a4f669d173dc6d51d9922\transformed\gifdecoder-4.15.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Program Files\Java\jdk-19\caches\transforms-3\ca407301d49cd022bd5454e53e1b750c\transformed\exifinterface-1.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Program Files\Java\jdk-19\caches\transforms-3\ca407301d49cd022bd5454e53e1b750c\transformed\exifinterface-1.3.3\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Program Files\Java\jdk-19\caches\transforms-3\bd6ebf7b9b46018faabb1e36dde90135\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
 MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Program Files\Java\jdk-19\caches\transforms-3\bd6ebf7b9b46018faabb1e36dde90135\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
 MERGED from [androidx.tracing:tracing:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\5a97f3dbbfa72e15554e061b1f2bd974\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.tracing:tracing:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\5a97f3dbbfa72e15554e061b1f2bd974\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Program Files\Java\jdk-19\caches\transforms-3\63b24eb6a53d72ade11fc7e1c149c39a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Program Files\Java\jdk-19\caches\transforms-3\63b24eb6a53d72ade11fc7e1c149c39a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\cf29cd3022400bff5d396a1b6b88b763\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\cf29cd3022400bff5d396a1b6b88b763\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Program Files\Java\jdk-19\caches\transforms-3\ea9c2bdd1410b666f24bb6f4bc6d4817\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41

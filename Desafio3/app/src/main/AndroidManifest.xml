@@ -13,6 +13,9 @@
         android:theme="@style/Theme.CarsMotors"
         tools:targetApi="31">
         <activity
+            android:name=".FavActivity"
+            android:exported="false" />
+        <activity
             android:name=".FavoritosActivity"
             android:exported="false" />
         <activity

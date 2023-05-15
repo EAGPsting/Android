@@ -35,5 +35,9 @@ class HelperDB(context: Context?): SQLiteOpenHelper(context, DB_NAME, null, DB_V
         val cursor = p0.rawQuery("select automovil.idautomovil,tipo_automovil.descripcion,marcas.nombre, automovil.modelo,colores.descripcion,automovil.año,automovil.numero_chasis,automovil.numero_vin,automovil.numero_motor,automovil.precio,automovil.uri_img from automovil inner join marcas on marcas.idmarcas = automovil.idmarcas inner join colores on colores.idcolores=automovil.idcolores inner join tipo_automovil on tipo_automovil.idtipoautomovil=automovil.idtipoautomovil", null)
         return cursor
     }
-
+    fun gettext2(): Cursor?{
+        val p0 = this.writableDatabase
+        val cursor = p0.rawQuery("select idfavoritoautomovil, idusuario, idautomovil, fecha_agregado from favorito_automovil", null)
+        return cursor
+    }
 }

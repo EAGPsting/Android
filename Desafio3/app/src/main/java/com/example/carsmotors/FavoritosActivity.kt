@@ -8,7 +8,6 @@ import androidx.recyclerview.widget.RecyclerView
 import com.example.carsmotors.db.Datalist
 import com.example.carsmotors.db.HelperDB
 import com.example.carsmotors.db.MyAdapter
-
 class FavoritosActivity : AppCompatActivity() {
     private lateinit var recyclerView: RecyclerView
     lateinit var dbh: HelperDB
@@ -27,6 +26,7 @@ class FavoritosActivity : AppCompatActivity() {
     private fun displaycars(){
         var newcursor: Cursor? = dbh!!.gettext()
         newArry= ArrayList<Datalist>()
+
         while (newcursor!!.moveToNext()){
             val uid = newcursor.getString(0)
             val utipo = newcursor.getString(1)
@@ -39,6 +39,7 @@ class FavoritosActivity : AppCompatActivity() {
             val umotor = newcursor.getString(8)
             val uprecio = newcursor.getString(9)
             val ufoto = newcursor.getString(10)
+
             newArry.add(Datalist(uid.toInt(),utipo, umarca,umodelo,ucolor,uaño.toInt(), uchasis,uvin, umotor, uprecio,ufoto))
         }
         recyclerView.adapter= MyAdapter(newArry)

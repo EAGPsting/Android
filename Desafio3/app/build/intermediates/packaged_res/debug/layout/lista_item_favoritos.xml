@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bg">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/label1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ID FAVORITO:"
+            android:layout_marginStart="30dp"
+            android:textStyle="bold"/>
+        <TextView
+            android:id="@+id/viewIdFav"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ID"
+            android:layout_marginStart="50dp" />
+        <TextView
+            android:id="@+id/label2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ID USUARIO:"
+            android:layout_marginStart="30dp"
+            android:textStyle="bold"/>
+        <TextView
+            android:id="@+id/viewIdUsuario"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Usuario"
+            android:layout_marginStart="50dp" />
+        <TextView
+            android:id="@+id/label3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ID AUTOMOVIL:"
+            android:layout_marginStart="30dp"
+            android:textStyle="bold"/>
+        <TextView
+            android:id="@+id/viewIdAuto"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Auto"
+            android:layout_marginStart="50dp" />
+        <TextView
+            android:id="@+id/label4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="FECHA:"
+            android:layout_marginStart="30dp"
+            android:textStyle="bold"/>
+        <TextView
+            android:id="@+id/viewFecha"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Modelo"
+            android:layout_marginStart="50dp" />
+        <View style="@style/Divider"/>
+
+    </LinearLayout>
+</LinearLayout>

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.carsmotors.app-mergeDebugResources-30:/values-tr/values-tr.xml",
+            "outputFile": "com.example.carsmotors.app-mergeDebugResources-31:/values-tr/values-tr.xml",
             "map": [
                 {
                     "source": "C:\\Program Files\\Java\\jdk-19\\caches\\transforms-3\\692b81fb58284fb9e6bad1c5d0c9a03a\\transformed\\play-services-basement-18.1.0\\res\\values-tr\\values.xml",

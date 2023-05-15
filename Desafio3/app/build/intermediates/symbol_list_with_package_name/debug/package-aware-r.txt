@@ -2656,6 +2656,7 @@ id bounceBoth
 id bounceEnd
 id bounceStart
 id btnActualizar
+id btnAddfav
 id btnAgregar
 id btnAutomovil
 id btnBuscar
@@ -2663,6 +2664,7 @@ id btnBuscar2
 id btnColor
 id btnEliminar
 id btnFavoritos
+id btnFavoritos2
 id btnImagen
 id btnMarcas
 id btnTipo
@@ -2777,6 +2779,7 @@ id fragment_container_view_tag
 id frost
 id ghost_view
 id ghost_view_holder
+id glide_custom_view_target_tag
 id gone
 id graph
 id graph_wrap
@@ -2830,6 +2833,7 @@ id listMode
 id list_item
 id list_view_usuarios
 id listaCarros
+id listaFavoritos
 id masked
 id match_constraint
 id match_parent
@@ -3094,8 +3098,12 @@ id vertical_only
 id viewAño
 id viewChasis
 id viewColor
+id viewFecha
 id viewFoto
 id viewId
+id viewIdAuto
+id viewIdFav
+id viewIdUsuario
 id viewMarca
 id viewModelo
 id viewMotor
@@ -3207,6 +3215,7 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_colores
+layout activity_fav
 layout activity_favoritos
 layout activity_login
 layout activity_main
@@ -3232,6 +3241,7 @@ layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
 layout lista_item_carros
+layout lista_item_favoritos
 layout m3_alert_dialog
 layout m3_alert_dialog_actions
 layout m3_alert_dialog_title
@@ -3742,6 +3752,7 @@ style Base_Widget_MaterialComponents_TextView
 style CardView
 style CardView_Dark
 style CardView_Light
+style Divider
 style EmptyTheme
 style MaterialAlertDialog_Material3
 style MaterialAlertDialog_Material3_Body_Text
