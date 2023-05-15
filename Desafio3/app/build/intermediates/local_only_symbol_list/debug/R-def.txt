@@ -2,6 +2,7 @@ R_DEF: Internal format may change without notice
 local
 color black
 color white
+drawable bg
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable icon
@@ -26,6 +27,7 @@ id btnBuscar
 id btnBuscar2
 id btnColor
 id btnEliminar
+id btnFavoritos
 id btnImagen
 id btnMarcas
 id btnTipo
@@ -42,7 +44,19 @@ id edit_text_email
 id edit_text_nombre
 id edit_text_password
 id edit_text_user
+id label1
+id label10
+id label11
+id label2
+id label3
+id label4
+id label5
+id label6
+id label7
+id label8
+id label9
 id list_view_usuarios
+id listaCarros
 id radio_button_admin
 id radio_button_user
 id radio_group_tipo
@@ -81,7 +95,19 @@ id txtMotor
 id txtNombre
 id txtPrecio
 id txtVIN
+id viewAño
+id viewChasis
+id viewColor
+id viewFoto
+id viewId
+id viewMarca
+id viewModelo
+id viewMotor
+id viewPrecio
+id viewTipo
+id viewVIN
 layout activity_colores
+layout activity_favoritos
 layout activity_login
 layout activity_main
 layout activity_marcas
@@ -89,6 +115,7 @@ layout activity_principal
 layout activity_sign_up
 layout activity_tipos
 layout activity_usuario
+layout lista_item_carros
 menu menu
 mipmap ic_launcher
 mipmap ic_launcher_round

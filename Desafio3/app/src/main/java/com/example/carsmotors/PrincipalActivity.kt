@@ -25,6 +25,7 @@ class PrincipalActivity : AppCompatActivity() {
         val btnColor : Button = findViewById(R.id.btnColor)
         val btnAutomovil : Button = findViewById(R.id.btnAutomovil)
         val btnUsuario : Button = findViewById(R.id.btnUsuario)
+        val btnFavoritos : Button = findViewById(R.id.btnFavoritos)
 
         if (tipo == "client" )
         {
@@ -32,9 +33,13 @@ class PrincipalActivity : AppCompatActivity() {
             btnColor.isVisible=false
             btnTipo.isVisible=false
             btnUsuario.isVisible=false
+            btnFavoritos.isVisible=false
         }
 
-
+        btnFavoritos.setOnClickListener {
+            val intent = Intent(this,FavoritosActivity::class.java)
+            startActivity(intent)
+        }
         btnUsuario.setOnClickListener {
             val intent = Intent(this,UsuarioActivity::class.java)
             startActivity(intent)

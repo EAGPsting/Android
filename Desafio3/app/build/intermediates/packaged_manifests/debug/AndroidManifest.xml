@@ -33,6 +33,9 @@
         android:testOnly="true"
         android:theme="@style/Theme.CarsMotors" >
         <activity
+            android:name="com.example.carsmotors.FavoritosActivity"
+            android:exported="false" />
+        <activity
             android:name="com.example.carsmotors.PrincipalActivity"
             android:exported="false" />
         <activity

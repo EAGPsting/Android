@@ -1,6 +1,7 @@
 package com.example.carsmotors.db
 
 import android.content.Context
+import android.database.Cursor
 import android.database.sqlite.SQLiteDatabase
 import android.database.sqlite.SQLiteOpenHelper
 import com.example.carsmotors.model.Automovil
@@ -29,6 +30,10 @@ class HelperDB(context: Context?): SQLiteOpenHelper(context, DB_NAME, null, DB_V
 
     override fun onUpgrade(db: SQLiteDatabase, oldVersion: Int, newVersion: Int) {
     }
-
+    fun gettext(): Cursor?{
+        val p0 = this.writableDatabase
+        val cursor = p0.rawQuery("select automovil.idautomovil,tipo_automovil.descripcion,marcas.nombre, automovil.modelo,colores.descripcion,automovil.año,automovil.numero_chasis,automovil.numero_vin,automovil.numero_motor,automovil.precio,automovil.uri_img from automovil inner join marcas on marcas.idmarcas = automovil.idmarcas inner join colores on colores.idcolores=automovil.idcolores inner join tipo_automovil on tipo_automovil.idtipoautomovil=automovil.idtipoautomovil", null)
+        return cursor
+    }
 
 }

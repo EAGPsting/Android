@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bg">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/label1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ID DEL CARRO:"
+            android:layout_marginStart="30dp"
+            android:textStyle="bold"/>
+        <TextView
+            android:id="@+id/viewId"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ID"
+            android:layout_marginStart="50dp" />
+        <TextView
+            android:id="@+id/label2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TIPO DE CARRO:"
+            android:layout_marginStart="30dp"
+            android:textStyle="bold"/>
+        <TextView
+            android:id="@+id/viewTipo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Tipo"
+            android:layout_marginStart="50dp" />
+        <TextView
+            android:id="@+id/label3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="MARCA DEL CARRO:"
+            android:layout_marginStart="30dp"
+            android:textStyle="bold"/>
+        <TextView
+            android:id="@+id/viewMarca"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Marca"
+            android:layout_marginStart="50dp" />
+        <TextView
+            android:id="@+id/label4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="MODELO DEL CARRO:"
+            android:layout_marginStart="30dp"
+            android:textStyle="bold"/>
+        <TextView
+            android:id="@+id/viewModelo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Modelo"
+            android:layout_marginStart="50dp" />
+        <TextView
+            android:id="@+id/label5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="COLOR DEL CARRO:"
+            android:layout_marginStart="30dp"
+            android:textStyle="bold"/>
+        <TextView
+            android:id="@+id/viewColor"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Color"
+            android:layout_marginStart="50dp" />
+        <TextView
+            android:id="@+id/label6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="AÑO DEL CARRO:"
+            android:layout_marginStart="30dp"
+            android:textStyle="bold"/>
+        <TextView
+            android:id="@+id/viewAño"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Año"
+            android:layout_marginStart="50dp" />
+        <TextView
+            android:id="@+id/label7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="NUMERO DE CHASIS:"
+            android:layout_marginStart="30dp"
+            android:textStyle="bold"/>
+        <TextView
+            android:id="@+id/viewChasis"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Chasis"
+            android:layout_marginStart="50dp" />
+        <TextView
+            android:id="@+id/label8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="NUMERO DE VIN:"
+            android:layout_marginStart="30dp"
+            android:textStyle="bold"/>
+        <TextView
+            android:id="@+id/viewVIN"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="VIN"
+            android:layout_marginStart="50dp" />
+        <TextView
+            android:id="@+id/label9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="NUMERO DE MOTOR:"
+            android:layout_marginStart="30dp"
+            android:textStyle="bold"/>
+        <TextView
+            android:id="@+id/viewMotor"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Motor"
+            android:layout_marginStart="50dp" />
+        <TextView
+            android:id="@+id/label10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="PRECIO DE VENTA:"
+            android:layout_marginStart="30dp"
+            android:textStyle="bold"/>
+        <TextView
+            android:id="@+id/viewPrecio"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Precio"
+            android:layout_marginStart="50dp" />
+        <TextView
+            android:id="@+id/label11"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="LINK DE LA FOTO:"
+            android:layout_marginStart="30dp"
+            android:textStyle="bold"/>
+        <TextView
+            android:id="@+id/viewFoto"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Foto"
+            android:layout_marginStart="50dp" />
+
+        <Button
+            android:id="@+id/btnAddfav"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Agregar a Favoritos" />
+
+    </LinearLayout>
+</LinearLayout>

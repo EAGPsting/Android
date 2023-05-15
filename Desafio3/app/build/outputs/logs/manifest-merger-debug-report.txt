@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:2:1-47:12
-INJECTED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:2:1-47:12
-INJECTED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:2:1-47:12
-INJECTED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:2:1-47:12
+ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:2:1-50:12
 MERGED from [com.google.firebase:firebase-storage-ktx:20.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\8e5b1401afd6c0adb8ec81e855e3abfb\transformed\firebase-storage-ktx-20.2.0\AndroidManifest.xml:2:1-20:12
 MERGED from [com.google.firebase:firebase-database-ktx:20.2.1] C:\Program Files\Java\jdk-19\caches\transforms-3\0f3df6b89b85cf4b275693e440ad5546\transformed\firebase-database-ktx-20.2.1\AndroidManifest.xml:2:1-20:12
 MERGED from [com.google.firebase:firebase-common-ktx:20.3.2] C:\Program Files\Java\jdk-19\caches\transforms-3\90eb4ca33bb5809263f03915693225ab\transformed\firebase-common-ktx-20.3.2\AndroidManifest.xml:2:1-20:12
@@ -57,27 +57,27 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Program Files\Java\jdk
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\177b51397a59bb33ac33833b3d540203\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\ae5667acc008bff29d20e3885c0ee0a7\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Program Files\Java\jdk-19\caches\transforms-3\a079985e239efb17185fbb82a5a03707\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:2:1-47:12
-INJECTED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:2:1-47:12
-INJECTED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:2:1-50:12
 	package
 		INJECTED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:2:1-47:12
+		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:2:1-50:12
 		INJECTED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:2:1-47:12
+		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:2:1-50:12
 		INJECTED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml
 	xmlns:tools
 		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:2:1-47:12
+		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:2:1-50:12
 		INJECTED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:5:5-45:19
+ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:5:5-48:19
 MERGED from [com.google.firebase:firebase-storage-ktx:20.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\8e5b1401afd6c0adb8ec81e855e3abfb\transformed\firebase-storage-ktx-20.2.0\AndroidManifest.xml:10:5-18:19
 MERGED from [com.google.firebase:firebase-storage-ktx:20.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\8e5b1401afd6c0adb8ec81e855e3abfb\transformed\firebase-storage-ktx-20.2.0\AndroidManifest.xml:10:5-18:19
 MERGED from [com.google.firebase:firebase-database-ktx:20.2.1] C:\Program Files\Java\jdk-19\caches\transforms-3\0f3df6b89b85cf4b275693e440ad5546\transformed\firebase-database-ktx-20.2.1\AndroidManifest.xml:10:5-18:19
@@ -134,64 +134,70 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Program Files\Java\jdk-1
 		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:13:9-48
 	android:dataExtractionRules
 		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:7:9-65
-activity#com.example.carsmotors.PrincipalActivity
+activity#com.example.carsmotors.FavoritosActivity
 ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:15:9-17:40
 	android:exported
 		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:17:13-37
 	android:name
 		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:16:13-46
-activity#com.example.carsmotors.UsuarioActivity
+activity#com.example.carsmotors.PrincipalActivity
 ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:18:9-20:40
 	android:exported
 		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:20:13-37
 	android:name
-		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:19:13-44
-activity#com.example.carsmotors.SignUpActivity
+		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:19:13-46
+activity#com.example.carsmotors.UsuarioActivity
 ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:21:9-23:40
 	android:exported
 		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:23:13-37
 	android:name
-		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:22:13-43
-activity#com.example.carsmotors.TiposActivity
+		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:22:13-44
+activity#com.example.carsmotors.SignUpActivity
 ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:24:9-26:40
 	android:exported
 		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:26:13-37
 	android:name
-		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:25:13-42
-activity#com.example.carsmotors.MarcasActivity
+		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:25:13-43
+activity#com.example.carsmotors.TiposActivity
 ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:27:9-29:40
 	android:exported
 		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:29:13-37
 	android:name
-		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:28:13-43
-activity#com.example.carsmotors.ColoresActivity
+		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:28:13-42
+activity#com.example.carsmotors.MarcasActivity
 ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:30:9-32:40
 	android:exported
 		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:32:13-37
 	android:name
-		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:31:13-44
+		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:31:13-43
+activity#com.example.carsmotors.ColoresActivity
+ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:33:9-35:40
+	android:exported
+		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:34:13-44
 activity#com.example.carsmotors.LoginActivity
-ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:33:9-41:20
+ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:36:9-44:20
 	android:exported
-		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:35:13-36
+		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:38:13-36
 	android:name
-		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:34:13-42
+		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:37:13-42
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:36:13-40:29
+ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:39:13-43:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:37:17-69
+ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:40:17-69
 	android:name
-		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:37:25-66
+		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:40:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:39:17-77
+ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:42:17-77
 	android:name
-		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:39:27-74
+		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:42:27-74
 activity#com.example.carsmotors.MainActivity
-ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:42:9-44:40
+ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:45:9-47:40
 	android:exported
-		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:44:13-37
+		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:47:13-37
 	android:name
-		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:43:13-41
+		ADDED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml:46:13-41
 uses-sdk
 INJECTED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\esteban.gamez\AndroidStudioProjects\Android\Desafio3\app\src\main\AndroidManifest.xml

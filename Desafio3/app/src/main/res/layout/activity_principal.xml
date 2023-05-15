@@ -13,7 +13,7 @@
         android:layout_height="0dp"
         android:layout_marginStart="8dp"
         android:layout_marginEnd="8dp"
-        android:layout_marginBottom="19dp"
+        android:layout_marginBottom="20dp"
         android:text="Marcas"
         app:layout_constraintBottom_toTopOf="@+id/btnTipo"
         app:layout_constraintEnd_toEndOf="parent"
@@ -35,12 +35,23 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
+        android:id="@+id/btnFavoritos"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginBottom="232dp"
+        android:text="Favoritos"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnUsuario" />
+
+    <Button
         android:id="@+id/btnTipo"
         android:layout_width="0dp"
         android:layout_height="0dp"
         android:layout_marginStart="8dp"
         android:layout_marginEnd="8dp"
-        android:layout_marginBottom="22dp"
+        android:layout_marginBottom="21dp"
         android:text="Tipos"
         app:layout_constraintBottom_toTopOf="@+id/btnColor"
         app:layout_constraintEnd_toEndOf="parent"
@@ -66,9 +77,9 @@
         android:layout_height="0dp"
         android:layout_marginStart="8dp"
         android:layout_marginEnd="8dp"
-        android:layout_marginBottom="298dp"
+        android:layout_marginBottom="28dp"
         android:text="Usuarios"
-        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintBottom_toTopOf="@+id/btnFavoritos"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/btnColor" />
