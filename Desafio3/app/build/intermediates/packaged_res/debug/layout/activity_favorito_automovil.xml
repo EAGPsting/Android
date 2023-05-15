@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <EditText
+        android:id="@+id/editTextFav"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="ID Favorito" />
+
+    <EditText
+        android:id="@+id/editTextUsuarioId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="ID Usuario" />
+
+    <EditText
+        android:id="@+id/editTextAutomovilId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="ID Automóvil" />
+
+    <EditText
+        android:id="@+id/textViewFechaAgregado"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Fecha Agregado (YYYY-MM-DD HH:MM:SS)" />
+
+    <Button
+        android:id="@+id/buttonAgregar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Agregar" />
+
+    <Button
+        android:id="@+id/buttonBuscar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Buscar" />
+
+    <Button
+        android:id="@+id/buttonActualizar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Actualizar" />
+
+    <Button
+        android:id="@+id/buttonEliminar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Eliminar" />
+
+    <ListView
+        android:id="@+id/listViewFavoritos"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

@@ -30,7 +30,6 @@ class ColoresActivity : AppCompatActivity() , View.OnClickListener {
         txtIdDB = findViewById(R.id.txtIdDB)
         txtId = findViewById(R.id.txtId)
         txtNombre = findViewById(R.id.txtNombre)
-
         btnAgregar = findViewById(R.id.btnAgregar)
         btnActualizar = findViewById(R.id.btnActualizar)
         btnEliminar = findViewById(R.id.btnEliminar)
@@ -50,7 +49,6 @@ class ColoresActivity : AppCompatActivity() , View.OnClickListener {
 
         val nombre: String = txtNombre!!.text.toString().trim()
         val idcolor: String = txtId!!.text.toString().trim()
-
         if (opc === "insertar" || opc == "actualizar") {
             if (nombre.isEmpty()) {
                 txtNombre!!.error = "Ingrese el nombre del color"
@@ -112,11 +110,15 @@ class ColoresActivity : AppCompatActivity() , View.OnClickListener {
                         Toast.LENGTH_LONG).show()
                 }
             } else if (view === btnBuscar) {
+<<<<<<< Updated upstream
                 if (vericarFormulario("buscar")) {
                     val descripcion = managerColores!!.searchID(idcolores)
                     Toast.makeText(this, "Color " + descripcion,
                         Toast.LENGTH_LONG).show()
                 }
+=======
+                /*IMPLEMENTE LA BUSQUEDA*/
+>>>>>>> Stashed changes
             } else {
                 Toast.makeText(this, "No se puede conectar a la Base de Datos",
                     Toast.LENGTH_LONG)

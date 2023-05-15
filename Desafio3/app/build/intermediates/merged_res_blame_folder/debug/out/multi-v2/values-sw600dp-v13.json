@@ -4,7 +4,21 @@
             "outputFile": "com.example.carsmotors.app-mergeDebugResources-31:/values-sw600dp-v13/values-sw600dp-v13.xml",
             "map": [
                 {
+<<<<<<< Updated upstream
                     "source": "C:\\Program Files\\Java\\jdk-19\\caches\\transforms-3\\451c1f57fa8d38ea82f5123128943a87\\transformed\\material-1.5.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+=======
+                    "source": "/Users/gerardojavireyes97gmail.com/.gradle/caches/transforms-3/678ac082474fe5fe1e0e16889c26f38f/transformed/appcompat-1.6.1/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,193,263,337,413,472,543",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "119,188,258,332,408,467,538,606"
+                    }
+                },
+                {
+                    "source": "/Users/gerardojavireyes97gmail.com/.gradle/caches/transforms-3/2afa74e2037f5fc71533b0b3fd2cbaf8/transformed/material-1.5.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+>>>>>>> Stashed changes
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,10,11,12,13,14",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",

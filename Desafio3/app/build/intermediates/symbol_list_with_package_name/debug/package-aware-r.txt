@@ -2496,9 +2496,12 @@ drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
 drawable icon
-drawable img1
 drawable img2
 drawable img3
+drawable img4
+drawable img5
+drawable img6
+drawable img7
 drawable m3_appbar_background
 drawable m3_popupmenu_background_overlay
 drawable m3_radiobutton_ripple
@@ -2616,12 +2619,6 @@ id action_menu_presenter
 id action_mode_bar
 id action_mode_bar_stub
 id action_mode_close_button
-id action_option1
-id action_option2
-id action_option3
-id action_option4
-id action_option5
-id action_sign_out
 id action_text
 id actions
 id activity_chooser_view_content
@@ -2658,17 +2655,22 @@ id bounceStart
 id btnActualizar
 id btnAddfav
 id btnAgregar
-id btnAutomovil
 id btnBuscar
 id btnBuscar2
-id btnColor
 id btnEliminar
+<<<<<<< Updated upstream
 id btnFavoritos
 id btnFavoritos2
 id btnImagen
 id btnMarcas
 id btnTipo
 id btnUsuario
+=======
+id buttonActualizar
+id buttonAgregar
+id buttonBuscar
+id buttonEliminar
+>>>>>>> Stashed changes
 id buttonPanel
 id button_add
 id button_delete
@@ -2751,6 +2753,9 @@ id easeIn
 id easeInOut
 id easeOut
 id east
+id editTextAutomovilId
+id editTextFav
+id editTextUsuarioId
 id edit_query
 id edit_text_apellidos
 id edit_text_email
@@ -2830,6 +2835,7 @@ id line1
 id line3
 id linear
 id listMode
+id listViewFavoritos
 id list_item
 id list_view_usuarios
 id listaCarros
@@ -3053,6 +3059,7 @@ id textView6
 id textView7
 id textView8
 id textView9
+id textViewFechaAgregado
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
@@ -3215,12 +3222,15 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_colores
+<<<<<<< Updated upstream
 layout activity_fav
 layout activity_favoritos
+=======
+layout activity_favorito_automovil
+>>>>>>> Stashed changes
 layout activity_login
 layout activity_main
 layout activity_marcas
-layout activity_principal
 layout activity_sign_up
 layout activity_tipos
 layout activity_usuario
@@ -3313,7 +3323,6 @@ layout text_view_with_line_height_from_layout
 layout text_view_with_line_height_from_style
 layout text_view_with_theme_line_height
 layout text_view_without_line_height
-menu menu
 mipmap ic_launcher
 mipmap ic_launcher_round
 plurals mtrl_badge_content_description

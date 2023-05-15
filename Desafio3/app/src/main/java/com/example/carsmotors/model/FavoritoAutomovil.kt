@@ -41,7 +41,7 @@ class FavoritoAutomovil(context: Context) {
     fun generarContentValues(
         idusuario: Int?,
         idautomovil: Int?,
-        fecha_agregado: Int?
+        fecha_agregado: String?
     ): ContentValues? {
 
         val valores = ContentValues()
@@ -51,7 +51,7 @@ class FavoritoAutomovil(context: Context) {
         return valores
     }
 
-    fun addNewFavoritoAutomovil(idusuario: Int?, idautomovil: Int?, fecha_agregado: Int?){
+    fun addNewFavoritoAutomovil(idusuario: Int?, idautomovil: Int?, fecha_agregado: String){
         db!!.insert(
             TABLE_NAME_FAVORITO_AUTOMOVIL, null, generarContentValues(idusuario,idautomovil, fecha_agregado)
         )
@@ -65,7 +65,7 @@ class FavoritoAutomovil(context: Context) {
         id: Int,
         idusuario: Int?,
         idautomovil: Int?,
-        fecha_agregado: Int?
+        fecha_agregado: String?
     ){
         db!!.update(
             TABLE_NAME_FAVORITO_AUTOMOVIL, generarContentValues(idusuario, idautomovil, fecha_agregado),
@@ -73,7 +73,7 @@ class FavoritoAutomovil(context: Context) {
         )
     }
 
-    fun searchAutomovil(id: Int): Cursor? {
+    fun searchFavoritoAutomovil(id: Int): Cursor? {
         val columns = arrayOf(COL_ID, COL_IDUSUARIO, COL_IDAUTOMOVIL, COL_FECHA_AGREGADO)
         return db!!.query(
             TABLE_NAME_FAVORITO_AUTOMOVIL, columns, "$COL_ID=?", arrayOf(id.toString()), null, null, null

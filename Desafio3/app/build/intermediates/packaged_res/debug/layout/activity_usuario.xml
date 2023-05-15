@@ -2,7 +2,11 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+<<<<<<< Updated upstream
     android:background="@drawable/img2"
+=======
+    android:background="@drawable/img7"
+>>>>>>> Stashed changes
     android:orientation="vertical">
 
     <EditText
@@ -11,28 +15,49 @@
         android:textColor="@color/white"
         android:backgroundTint="@color/white"
         android:layout_height="wrap_content"
-        android:hint="Nombre: " />
+        android:backgroundTint="@color/white"
+        android:hint="Nombre: "
+        android:textColor="@color/white"
+        android:textColorHint="@color/white" />
 
     <EditText
         android:id="@+id/edit_text_apellidos"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+<<<<<<< Updated upstream
         android:textColor="@color/white"
         android:backgroundTint="@color/white"
         android:hint="Apellidos: " />
+=======
+        android:backgroundTint="@color/white"
+        android:hint="Apellidos: "
+        android:textColor="@color/white"
+        android:textColorHint="@color/white" />
+>>>>>>> Stashed changes
 
     <EditText
         android:id="@+id/edit_text_email"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+<<<<<<< Updated upstream
         android:textColor="@color/white"
         android:backgroundTint="@color/white"
         android:hint="Email: " />
+=======
+        android:backgroundTint="@color/white"
+        android:hint="Email: "
+        android:textColor="@color/white"
+        android:textColorHint="@color/white" />
+>>>>>>> Stashed changes
 
     <EditText
         android:id="@+id/edit_text_user"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+<<<<<<< Updated upstream
+=======
+        android:textColorHint="@color/white"
+>>>>>>> Stashed changes
         android:textColor="@color/white"
         android:backgroundTint="@color/white"
         android:hint="Usuario: " />
@@ -43,6 +68,7 @@
         android:textColor="@color/white"
         android:backgroundTint="@color/white"
         android:layout_height="wrap_content"
+        android:textColorHint="@color/white"
         android:hint="Contraseña: "
         android:inputType="textPassword" />
 
@@ -113,8 +139,15 @@
     <ListView
         android:id="@+id/list_view_usuarios"
         android:layout_width="match_parent"
+<<<<<<< Updated upstream
         android:textColor="@color/white"
         android:backgroundTint="@color/white"
         android:layout_height="wrap_content" />
+=======
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/white"
+        android:cacheColorHint="@color/white"
+        android:textColor="@color/white" />
+>>>>>>> Stashed changes
 
 </LinearLayout>
