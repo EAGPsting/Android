@@ -2,11 +2,14 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/img2"
     android:orientation="vertical">
 
     <EditText
         android:id="@+id/edit_text_nombre"
         android:layout_width="match_parent"
+        android:textColor="@color/white"
+        android:backgroundTint="@color/white"
         android:layout_height="wrap_content"
         android:hint="Nombre: " />
 
@@ -14,23 +17,31 @@
         android:id="@+id/edit_text_apellidos"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:backgroundTint="@color/white"
         android:hint="Apellidos: " />
 
     <EditText
         android:id="@+id/edit_text_email"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:backgroundTint="@color/white"
         android:hint="Email: " />
 
     <EditText
         android:id="@+id/edit_text_user"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:backgroundTint="@color/white"
         android:hint="Usuario: " />
 
     <EditText
         android:id="@+id/edit_text_password"
         android:layout_width="match_parent"
+        android:textColor="@color/white"
+        android:backgroundTint="@color/white"
         android:layout_height="wrap_content"
         android:hint="Contraseña: "
         android:inputType="textPassword" />
@@ -44,12 +55,16 @@
         <RadioButton
             android:id="@+id/radio_button_admin"
             android:layout_width="wrap_content"
+            android:textColor="@color/white"
+            android:backgroundTint="@color/white"
             android:layout_height="wrap_content"
             android:text="Admin" />
 
         <RadioButton
             android:id="@+id/radio_button_user"
             android:layout_width="wrap_content"
+            android:textColor="@color/white"
+            android:backgroundTint="@color/white"
             android:layout_height="wrap_content"
             android:text="Usuario" />
 
@@ -65,23 +80,31 @@
             android:id="@+id/button_add"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:backgroundTint="@color/white"
             android:text="Agregar" />
 
         <Button
             android:id="@+id/button_delete"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:backgroundTint="@color/white"
             android:text="Eliminar" />
 
         <Button
             android:id="@+id/button_update"
             android:layout_width="wrap_content"
+            android:textColor="@color/black"
+            android:backgroundTint="@color/white"
             android:layout_height="wrap_content"
             android:text="Actualizar" />
 
         <Button
             android:id="@+id/button_search"
             android:layout_width="wrap_content"
+            android:textColor="@color/black"
+            android:backgroundTint="@color/white"
             android:layout_height="wrap_content"
             android:text="Buscar" />
 
@@ -90,6 +113,8 @@
     <ListView
         android:id="@+id/list_view_usuarios"
         android:layout_width="match_parent"
+        android:textColor="@color/white"
+        android:backgroundTint="@color/white"
         android:layout_height="wrap_content" />
 
 </LinearLayout>

@@ -9,39 +9,68 @@
 
     <Button
         android:id="@+id/btnMarcas"
-        android:layout_width="395dp"
-        android:layout_height="38dp"
-        android:layout_marginTop="59dp"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="19dp"
         android:text="Marcas"
-        app:layout_constraintStart_toStartOf="@+id/btnAutomovil"
+        app:layout_constraintBottom_toTopOf="@+id/btnTipo"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/btnAutomovil" />
 
     <Button
         android:id="@+id/btnAutomovil"
-        android:layout_width="395dp"
-        android:layout_height="38dp"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="8dp"
         android:layout_marginTop="118dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="60dp"
         android:text="Automoviles"
+        app:layout_constraintBottom_toTopOf="@+id/btnMarcas"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
         android:id="@+id/btnTipo"
-        android:layout_width="395dp"
-        android:layout_height="38dp"
-        android:layout_marginTop="19dp"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="22dp"
         android:text="Tipos"
-        app:layout_constraintStart_toStartOf="@+id/btnMarcas"
+        app:layout_constraintBottom_toTopOf="@+id/btnColor"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/btnMarcas" />
 
     <Button
         android:id="@+id/btnColor"
-        android:layout_width="395dp"
-        android:layout_height="38dp"
-        android:layout_marginTop="22dp"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="24dp"
         android:text="Colores"
+        app:layout_constraintBottom_toTopOf="@+id/btnUsuario"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/btnTipo" />
+
+    <Button
+        android:id="@+id/btnUsuario"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="298dp"
+        android:text="Usuarios"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnColor" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>

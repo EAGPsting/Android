@@ -29,6 +29,8 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
     private var dbHelper: HelperDB? = null
     private var db: SQLiteDatabase? = null
     private var cursor: Cursor? = null
+    private var cursor1: Cursor? = null
+    private var cursor2: Cursor? = null
 
     private var txtIdDB: TextView? = null
     private var txtId: EditText? = null
@@ -103,14 +105,14 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
         // Cargando valores por defecto
         managerMarcas = Marcas(this)
         managerMarcas!!.insertarValuesDefault()
-        cursor = managerMarcas!!.showAllMarcas()
+        cursor1 = managerMarcas!!.showAllMarcas()
         var cat = ArrayList<String>()
-        if (cursor != null && cursor!!.count > 0) {
-            cursor!!.moveToFirst()
-            cat.add(cursor!!.getString(1))
+        if (cursor1 != null && cursor1!!.count > 0) {
+            cursor1!!.moveToFirst()
+            cat.add(cursor1!!.getString(1))
             do {
-                cat.add(cursor!!.getString(1))
-            } while (cursor!!.moveToNext())
+                cat.add(cursor1!!.getString(1))
+            } while (cursor1!!.moveToNext())
         }
         var adaptador = ArrayAdapter(this, android.R.layout.simple_spinner_item, cat)
 
@@ -121,14 +123,14 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
         // Cargando valores por defecto
         managerTipoAutomovil = TipoAutomovil(this)
         managerTipoAutomovil!!.insertarValuesDefault()
-        cursor = managerTipoAutomovil!!.showAlltiposVehiculos()
+        cursor2 = managerTipoAutomovil!!.showAlltiposVehiculos()
         var cat = ArrayList<String>()
-        if (cursor != null && cursor!!.count > 0) {
-            cursor!!.moveToFirst()
-            cat.add(cursor!!.getString(1))
+        if (cursor2 != null && cursor2!!.count > 0) {
+            cursor2!!.moveToFirst()
+            cat.add(cursor2!!.getString(1))
             do {
-                cat.add(cursor!!.getString(1))
-            } while (cursor!!.moveToNext())
+                cat.add(cursor2!!.getString(1))
+            } while (cursor2!!.moveToNext())
         }
         var adaptador = ArrayAdapter(this, android.R.layout.simple_spinner_item, cat)
 
@@ -150,13 +152,16 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
         val color: String = cmbColores!!.selectedItem.toString().trim()
         val foto: String = "SIN IMAGEN"
         val idvehiculo: String = txtId!!.text.toString().trim()
+        val idmarca = managerMarcas!!.searchID(marca)
+        val idtipo = managerTipoAutomovil!!.searchID(tipo)
+        val idcolor = managerColores!!.searchID(color)
         if (db != null) {
             if (view === btnAgregar) {
                 if (vericarFormulario("insertar")) {
                     managerAutomovil!!.addNewAutomovil(
-                        marca.toInt(),
-                        tipo.toInt(),
-                        color.toInt(),
+                        idmarca,
+                        idtipo,
+                        idcolor,
                         modelo,
                         vin,
                         chasis,
@@ -175,9 +180,9 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
                 if (vericarFormulario("actualizar")) {
                     managerAutomovil!!.updateAutomovil(
                         idvehiculo.toInt(),
-                        marca.toInt(),
-                        tipo.toInt(),
-                        color.toInt(),
+                        idmarca,
+                        idtipo,
+                        idcolor,
                         modelo,
                         vin,
                         chasis,
@@ -296,43 +301,5 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
         }
         return response
     }
-    override fun onOptionsItemSelected(item: MenuItem): Boolean {
-        when(item.itemId){
-            R.id.action_sign_out->{
-                    val intent = Intent(this, LoginActivity::class.java)
-                    startActivity(intent)
-                    finish()
-            }
-            R.id.action_option1->{
-                val intent = Intent(this, ColoresActivity::class.java)
-                startActivity(intent)
-                finish()
-            }
-            R.id.action_option2->{
-                val intent = Intent(this, MarcasActivity::class.java)
-                startActivity(intent)
-                finish()
-            }
-            R.id.action_option3->{
-                val intent = Intent(this, TiposActivity::class.java)
-                startActivity(intent)
-                finish()
-            }
-            R.id.action_option4->{
-                val intent = Intent(this, UsuarioActivity::class.java)
-                startActivity(intent)
-                finish()
-            }
-            R.id.action_option5->{
-                val intent = Intent(this, MainActivity::class.java)
-                startActivity(intent)
-                finish()
-            }
-        }
-        return super.onOptionsItemSelected(item)
-    }
-    override fun onCreateOptionsMenu(menu: Menu?): Boolean {
-        menuInflater.inflate(R.menu.menu,menu)
-        return super.onCreateOptionsMenu(menu)
-    }
+
 }

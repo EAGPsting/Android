@@ -12,331 +12,356 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="34dp"
-        android:text="ADMINISTRACION DE AUTOMOVILES"
-        android:textSize="20sp"
-        android:textColor="@color/white"
+        android:layout_marginTop="10dp"
         android:backgroundTint="@color/white"
+        android:text="ADMINISTRACION DE AUTOMOVILES"
+        android:textColor="@color/white"
+        android:textSize="20sp"
         android:textStyle="bold"
-        app:layout_constraintBottom_toBottomOf="@+id/txtIdDB"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/txtIdDB" />
+        app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
         android:id="@+id/textView8"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="9dp"
+        android:backgroundTint="@color/white"
         android:text="Codigo"
         android:textColor="@color/white"
-        android:backgroundTint="@color/white"
+        app:layout_constraintBaseline_toBaselineOf="@+id/txtId"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="@+id/txtId" />
+        app:layout_constraintStart_toStartOf="parent" />
 
     <EditText
         android:id="@+id/txtId"
         android:layout_width="0dp"
-        android:layout_height="49dp"
-        android:layout_marginStart="6dp"
-        android:layout_marginTop="33dp"
-        android:layout_marginEnd="3dp"
-        android:layout_marginBottom="33dp"
-        android:ems="10"
-        android:textColor="@color/white"
+        android:layout_height="0dp"
+        android:layout_marginStart="9dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="9dp"
+        android:layout_marginBottom="13dp"
         android:backgroundTint="@color/white"
+        android:ems="10"
         android:inputType="numberSigned"
-        app:layout_constraintBottom_toBottomOf="@+id/textView11"
-        app:layout_constraintEnd_toEndOf="@+id/cmbTipo"
+        android:textColor="@color/white"
+        app:layout_constraintBottom_toTopOf="@+id/cmbTipo"
+        app:layout_constraintEnd_toEndOf="@+id/textView"
         app:layout_constraintStart_toEndOf="@+id/textView8"
-        app:layout_constraintTop_toTopOf="@+id/txtIdDB" />
+        app:layout_constraintTop_toBottomOf="@+id/textView" />
 
     <Spinner
         android:id="@+id/cmbTipo"
-        android:layout_width="269dp"
-        android:layout_height="0dp"
-        android:textColor="@color/white"
+        android:layout_width="0dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="70dp"
+        android:layout_marginEnd="1dp"
+        android:layout_marginBottom="68dp"
         android:backgroundTint="@color/white"
-        app:layout_constraintBottom_toTopOf="@+id/cmbMarca"
-        app:layout_constraintStart_toStartOf="@+id/cmbMarca"
-        app:layout_constraintTop_toTopOf="@+id/barrier2" />
-
-    <TextView
-        android:id="@+id/textView11"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="9dp"
-        android:text="Tipo"
         android:textColor="@color/white"
-        android:backgroundTint="@color/white"
-        app:layout_constraintEnd_toEndOf="@+id/textView12"
-        app:layout_constraintStart_toStartOf="@+id/textView3"
-        app:layout_constraintTop_toTopOf="@+id/barrier2" />
-
-    <Spinner
-        android:id="@+id/cmbMarca"
-        android:layout_width="268dp"
-        android:layout_height="48dp"
-        android:textColor="@color/white"
-        android:backgroundTint="@color/white"
-        android:layout_marginTop="92dp"
-        android:layout_marginBottom="92dp"
-        app:layout_constraintBottom_toBottomOf="@+id/txtModelo"
-        app:layout_constraintStart_toStartOf="@+id/cmbColor"
-        app:layout_constraintTop_toTopOf="@+id/textView8" />
-
-    <TextView
-        android:id="@+id/textView12"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Color"
-        android:textColor="@color/white"
-        android:backgroundTint="@color/white"
-        app:layout_constraintBaseline_toBaselineOf="@+id/cmbColor"
-        app:layout_constraintStart_toStartOf="@+id/textView2" />
-
-    <Spinner
-        android:id="@+id/cmbColor"
-        android:layout_width="269dp"
-        android:layout_height="0dp"
-        android:textColor="@color/white"
-        android:backgroundTint="@color/white"
-        app:layout_constraintBottom_toTopOf="@+id/txtModelo"
-        app:layout_constraintStart_toStartOf="@+id/txtModelo"
-        app:layout_constraintTop_toBottomOf="@+id/cmbMarca" />
-
-    <TextView
-        android:id="@+id/textView10"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginEnd="18dp"
-        android:text="Marca"
-        android:textColor="@color/white"
-        android:backgroundTint="@color/white"
-        app:layout_constraintBaseline_toBaselineOf="@+id/cmbMarca"
-        app:layout_constraintEnd_toStartOf="@+id/cmbMarca" />
+        app:layout_constraintBottom_toTopOf="@+id/cmbColor"
+        app:layout_constraintEnd_toEndOf="@+id/cmbMarca"
+        app:layout_constraintStart_toEndOf="@+id/textView10"
+        app:layout_constraintTop_toBottomOf="@+id/textView" />
 
     <EditText
-        android:id="@+id/txtVIN"
-        android:layout_width="266dp"
-        android:layout_height="47dp"
-        android:layout_marginTop="55dp"
-        android:layout_marginBottom="53dp"
-        android:textColor="@color/white"
-        android:backgroundTint="@color/white"
+        android:id="@+id/txtMotor"
+        android:layout_width="0dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="95dp"
+        android:layout_marginEnd="4dp"
+        android:layout_marginBottom="95dp"
         android:ems="10"
         android:singleLine="true"
-        app:layout_constraintBottom_toBottomOf="@+id/txtChasis"
-        app:layout_constraintStart_toStartOf="@+id/txtChasis"
-        app:layout_constraintTop_toBottomOf="@+id/textView12" />
+        app:layout_constraintBottom_toBottomOf="@+id/textView9"
+        app:layout_constraintEnd_toEndOf="@+id/txtAnio"
+        app:layout_constraintStart_toEndOf="@+id/btnBuscar"
+        app:layout_constraintTop_toTopOf="@+id/textView3" />
 
     <TextView
         android:id="@+id/textView3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="6dp"
-        android:layout_marginTop="21dp"
+        android:layout_marginStart="43dp"
+        android:backgroundTint="@color/white"
         android:text="VIN"
         android:textColor="@color/white"
-        android:backgroundTint="@color/white"
-        app:layout_constraintStart_toStartOf="@+id/textView2"
-        app:layout_constraintTop_toBottomOf="@+id/textView2" />
-
-    <EditText
-        android:id="@+id/txtChasis"
-        android:layout_width="266dp"
-        android:layout_height="53dp"
-        android:layout_marginTop="40dp"
-        android:layout_marginBottom="40dp"
-        android:ems="10"
-        android:singleLine="true"
-        android:textColor="@color/white"
-        android:backgroundTint="@color/white"
-        app:layout_constraintBottom_toTopOf="@+id/textView6"
-        app:layout_constraintStart_toStartOf="@+id/txtMotor"
-        app:layout_constraintTop_toTopOf="@+id/textView3" />
+        app:layout_constraintBaseline_toBaselineOf="@+id/txtVIN"
+        app:layout_constraintStart_toStartOf="parent" />
 
     <TextView
-        android:id="@+id/textView4"
+        android:id="@+id/textView11"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginEnd="17dp"
-        android:text="Chasis"
+        android:layout_marginStart="9dp"
+        android:layout_marginEnd="8dp"
+        android:backgroundTint="@color/white"
+        android:text="Tipo"
         android:textColor="@color/white"
-        android:backgroundTint="@color/white"
-        app:layout_constraintBaseline_toBaselineOf="@+id/txtChasis"
-        app:layout_constraintEnd_toStartOf="@+id/txtChasis" />
-
-    <EditText
-        android:id="@+id/txtModelo"
-        android:layout_width="266dp"
-        android:layout_height="44dp"
-        android:layout_marginTop="225dp"
-        android:layout_marginBottom="224dp"
-        android:textColor="@color/white"
-        android:backgroundTint="@color/white"
-        android:ems="10"
-        android:singleLine="true"
-        app:layout_constraintBottom_toTopOf="@+id/txtPrecio"
-        app:layout_constraintStart_toStartOf="@+id/txtVIN"
-        app:layout_constraintTop_toTopOf="@+id/textView" />
-
-    <TextView
-        android:id="@+id/textView2"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="248dp"
-        android:layout_marginEnd="15dp"
-        android:text="Modelo"
-        android:textColor="@color/white"
-        android:backgroundTint="@color/white"
-        app:layout_constraintEnd_toStartOf="@+id/txtModelo"
-        app:layout_constraintTop_toTopOf="parent" />
-
-    <TextView
-        android:id="@+id/textView6"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="1dp"
-        android:layout_marginBottom="4dp"
-        android:text="Numero de Asientos"
-        android:textColor="@color/white"
-        android:backgroundTint="@color/white"
-        app:layout_constraintBottom_toTopOf="@+id/txtAsientos"
-        app:layout_constraintStart_toStartOf="@+id/txtAsientos" />
-
-    <Button
-        android:id="@+id/btnBuscar2"
-        android:layout_width="0dp"
-        android:layout_height="0dp"
-        android:layout_marginStart="7dp"
-        android:textColor="@color/black"
-        android:backgroundTint="@color/white"
-        android:layout_marginEnd="6dp"
-        android:text="Cargar Imagen"
-        app:layout_constraintBottom_toTopOf="@+id/textView15"
-        app:layout_constraintEnd_toEndOf="@+id/txtAnio"
-        app:layout_constraintStart_toStartOf="@+id/btnActualizar"
-        app:layout_constraintTop_toTopOf="@+id/txtPrecio" />
-
-    <TextView
-        android:id="@+id/textView7"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="171dp"
-        android:layout_marginTop="2dp"
-        android:layout_marginEnd="171dp"
-        android:text="Año"
-        android:textColor="@color/white"
-        android:backgroundTint="@color/white"
-        app:layout_constraintEnd_toEndOf="@+id/btnEliminar"
-        app:layout_constraintStart_toStartOf="@+id/txtDescripcion"
-        app:layout_constraintTop_toBottomOf="@+id/txtMotor" />
-
-    <EditText
-        android:id="@+id/txtAsientos"
-        android:layout_width="0dp"
-        android:layout_height="45dp"
-        android:layout_marginTop="177dp"
-        android:layout_marginBottom="177dp"
-        android:ems="10"
-        android:inputType="numberSigned"
-        android:singleLine="true"
-        android:textColor="@color/white"
-        android:backgroundTint="@color/white"
-        app:layout_constraintBottom_toTopOf="@+id/btnBuscar"
-        app:layout_constraintEnd_toEndOf="@+id/txtPrecio"
-        app:layout_constraintStart_toStartOf="@+id/txtPrecio"
-        app:layout_constraintTop_toBottomOf="@+id/textView2" />
-
-    <EditText
-        android:id="@+id/txtPrecio"
-        android:layout_width="131dp"
-        android:layout_height="45dp"
-        android:layout_marginStart="40dp"
-        android:layout_marginTop="114dp"
-        android:layout_marginEnd="41dp"
-        android:layout_marginBottom="114dp"
-        android:ems="10"
-        android:inputType="numberSigned"
-        android:singleLine="true"
-        app:layout_constraintBottom_toTopOf="@+id/btnEliminar"
-        app:layout_constraintEnd_toStartOf="@+id/btnBuscar2"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="@+id/textView5" />
+        app:layout_constraintBaseline_toBaselineOf="@+id/cmbTipo"
+        app:layout_constraintEnd_toEndOf="@+id/textView12"
+        app:layout_constraintStart_toStartOf="@+id/textView" />
 
     <EditText
         android:id="@+id/txtAnio"
         android:layout_width="0dp"
         android:layout_height="0dp"
-        android:layout_marginStart="2dp"
-        android:layout_marginEnd="3dp"
+        android:layout_marginStart="1dp"
+        android:layout_marginEnd="1dp"
         android:ems="10"
         android:inputType="numberSigned"
         android:singleLine="true"
-        app:layout_constraintBottom_toTopOf="@+id/textView9"
-        app:layout_constraintEnd_toEndOf="@+id/txtDescripcion"
+        app:layout_constraintBottom_toBottomOf="@+id/txtAsientos"
+        app:layout_constraintEnd_toEndOf="@+id/cmbColor"
         app:layout_constraintStart_toStartOf="@+id/textView7"
         app:layout_constraintTop_toTopOf="@+id/txtAsientos" />
 
     <TextView
-        android:id="@+id/textView9"
+        android:id="@+id/textView2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="1dp"
-        android:layout_marginBottom="1dp"
-        android:textColor="@color/white"
         android:backgroundTint="@color/white"
-        android:text="Precio"
-        app:layout_constraintBottom_toTopOf="@+id/txtPrecio"
-        app:layout_constraintStart_toStartOf="@+id/txtAsientos" />
+        android:text="Modelo"
+        android:textColor="@color/white"
+        app:layout_constraintBaseline_toBaselineOf="@+id/txtModelo"
+        app:layout_constraintEnd_toEndOf="@+id/textView3"
+        app:layout_constraintStart_toEndOf="@+id/textView3" />
 
     <EditText
-        android:id="@+id/txtMotor"
+        android:id="@+id/txtModelo"
         android:layout_width="0dp"
-        android:layout_height="0dp"
-        android:layout_marginStart="19dp"
+        android:layout_height="44dp"
+        android:layout_marginTop="104dp"
+        android:layout_marginBottom="103dp"
+        android:backgroundTint="@color/white"
         android:ems="10"
         android:singleLine="true"
-        app:layout_constraintBottom_toTopOf="@+id/textView6"
-        app:layout_constraintStart_toEndOf="@+id/textView5"
-        app:layout_constraintTop_toBottomOf="@+id/txtChasis" />
+        android:textColor="@color/white"
+        app:layout_constraintBottom_toBottomOf="@+id/txtChasis"
+        app:layout_constraintEnd_toEndOf="@+id/txtVIN"
+        app:layout_constraintStart_toStartOf="@+id/txtVIN"
+        app:layout_constraintTop_toTopOf="@+id/textView10" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="1dp"
+        android:layout_marginBottom="239dp"
+        android:backgroundTint="@color/white"
+        android:text="Numero de Asientos"
+        android:textColor="@color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/txtAsientos" />
+
+    <EditText
+        android:id="@+id/txtAsientos"
+        android:layout_width="0dp"
+        android:layout_height="45dp"
+        android:layout_marginTop="61dp"
+        android:layout_marginBottom="64dp"
+        android:backgroundTint="@color/white"
+        android:ems="10"
+        android:inputType="numberSigned"
+        android:singleLine="true"
+        android:textColor="@color/white"
+        app:layout_constraintBottom_toBottomOf="@+id/txtPrecio"
+        app:layout_constraintEnd_toEndOf="@+id/txtPrecio"
+        app:layout_constraintStart_toStartOf="@+id/txtPrecio"
+        app:layout_constraintTop_toTopOf="@+id/textView5" />
+
+    <Spinner
+        android:id="@+id/cmbColor"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="2dp"
+        android:layout_marginTop="12dp"
+        android:layout_marginEnd="2dp"
+        android:layout_marginBottom="11dp"
+        android:backgroundTint="@color/white"
+        android:textColor="@color/white"
+        app:layout_constraintBottom_toTopOf="@+id/txtModelo"
+        app:layout_constraintEnd_toEndOf="@+id/txtDescripcion"
+        app:layout_constraintStart_toStartOf="@+id/cmbMarca"
+        app:layout_constraintTop_toBottomOf="@+id/cmbMarca" />
+
+    <EditText
+        android:id="@+id/txtChasis"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginTop="3dp"
+        android:layout_marginEnd="44dp"
+        android:layout_marginBottom="3dp"
+        android:backgroundTint="@color/white"
+        android:ems="10"
+        android:singleLine="true"
+        android:textColor="@color/white"
+        app:layout_constraintBottom_toTopOf="@+id/txtMotor"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/textView4"
+        app:layout_constraintStart_toStartOf="@+id/txtMotor"
+        app:layout_constraintTop_toBottomOf="@+id/txtVIN" />
 
     <TextView
         android:id="@+id/textView5"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="8dp"
+        android:backgroundTint="@color/white"
         android:text="Motor"
         android:textColor="@color/white"
-        android:backgroundTint="@color/white"
-        app:layout_constraintBottom_toTopOf="@+id/textView6"
+        app:layout_constraintBaseline_toBaselineOf="@+id/txtMotor"
         app:layout_constraintStart_toStartOf="@+id/textView6" />
 
-    <EditText
-        android:id="@+id/txtDescripcion"
-        android:layout_width="0dp"
-        android:layout_height="35dp"
-        android:textColor="@color/white"
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="17dp"
         android:backgroundTint="@color/white"
-        android:layout_marginStart="41dp"
-        android:layout_marginTop="7dp"
-        android:layout_marginEnd="41dp"
+        android:text="Marca"
+        android:textColor="@color/white"
+        app:layout_constraintBaseline_toBaselineOf="@+id/cmbMarca"
+        app:layout_constraintEnd_toStartOf="@+id/cmbMarca" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="170dp"
+        android:layout_marginBottom="3dp"
+        android:backgroundTint="@color/white"
+        android:text="Año"
+        android:textColor="@color/white"
+        app:layout_constraintBottom_toTopOf="@+id/txtAnio"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <EditText
+        android:id="@+id/txtPrecio"
+        android:layout_width="131dp"
+        android:layout_height="45dp"
+        android:layout_marginStart="43dp"
+        android:layout_marginTop="21dp"
+        android:layout_marginEnd="43dp"
+        android:layout_marginBottom="21dp"
         android:ems="10"
+        android:inputType="numberSigned"
         android:singleLine="true"
-        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBottom_toBottomOf="@+id/textView15"
+        app:layout_constraintEnd_toStartOf="@+id/txtAnio"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView15" />
+        app:layout_constraintTop_toTopOf="@+id/textView9" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="44dp"
+        android:layout_marginTop="390dp"
+        android:layout_marginEnd="15dp"
+        android:layout_marginBottom="273dp"
+        android:backgroundTint="@color/white"
+        android:text="Chasis"
+        android:textColor="@color/white"
+        app:layout_constraintBottom_toTopOf="@+id/btnBuscar"
+        app:layout_constraintEnd_toStartOf="@+id/txtChasis"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="23dp"
+        android:backgroundTint="@color/white"
+        android:text="Color"
+        android:textColor="@color/white"
+        app:layout_constraintBaseline_toBaselineOf="@+id/cmbColor"
+        app:layout_constraintEnd_toStartOf="@+id/cmbColor" />
 
     <TextView
         android:id="@+id/textView15"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="2dp"
+        android:layout_marginBottom="104dp"
+        android:backgroundTint="@color/white"
         android:text="Descripcion"
         android:textColor="@color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="@+id/txtPrecio" />
+
+    <Button
+        android:id="@+id/btnBuscar2"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="43dp"
+        android:layout_marginEnd="44dp"
         android:backgroundTint="@color/white"
-        app:layout_constraintStart_toStartOf="@+id/txtPrecio"
-        app:layout_constraintTop_toBottomOf="@+id/txtPrecio" />
+        android:text="Imagen"
+        android:textColor="@color/black"
+        app:layout_constraintBottom_toTopOf="@+id/textView15"
+        app:layout_constraintEnd_toEndOf="@+id/btnEliminar"
+        app:layout_constraintStart_toEndOf="@+id/textView6"
+        app:layout_constraintTop_toTopOf="@+id/txtPrecio" />
+
+    <EditText
+        android:id="@+id/txtDescripcion"
+        android:layout_width="342dp"
+        android:layout_height="52dp"
+        android:layout_marginStart="38dp"
+        android:layout_marginTop="73dp"
+        android:layout_marginEnd="38dp"
+        android:layout_marginBottom="62dp"
+        android:backgroundTint="@color/white"
+        android:ems="10"
+        android:singleLine="true"
+        android:textColor="@color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/btnBuscar2" />
+
+    <EditText
+        android:id="@+id/txtVIN"
+        android:layout_width="0dp"
+        android:layout_height="47dp"
+        android:layout_marginTop="318dp"
+        android:layout_marginBottom="318dp"
+        android:backgroundTint="@color/white"
+        android:ems="10"
+        android:singleLine="true"
+        android:textColor="@color/white"
+        app:layout_constraintBottom_toTopOf="@+id/btnEliminar"
+        app:layout_constraintEnd_toEndOf="@+id/txtChasis"
+        app:layout_constraintStart_toStartOf="@+id/txtChasis"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="2dp"
+        android:layout_marginTop="48dp"
+        android:backgroundTint="@color/white"
+        android:text="Precio"
+        android:textColor="@color/white"
+        app:layout_constraintStart_toStartOf="@+id/txtAsientos"
+        app:layout_constraintTop_toBottomOf="@+id/textView6" />
+
+    <Spinner
+        android:id="@+id/cmbMarca"
+        android:layout_width="0dp"
+        android:layout_height="48dp"
+        android:layout_marginStart="9dp"
+        android:layout_marginTop="145dp"
+        android:layout_marginEnd="9dp"
+        android:layout_marginBottom="145dp"
+        android:backgroundTint="@color/white"
+        android:textColor="@color/white"
+        app:layout_constraintBottom_toBottomOf="@+id/textView3"
+        app:layout_constraintEnd_toEndOf="@+id/textView"
+        app:layout_constraintStart_toEndOf="@+id/textView2"
+        app:layout_constraintTop_toTopOf="@+id/textView" />
 
     <TextView
         android:id="@+id/txtIdDB"
@@ -350,64 +375,60 @@
 
     <Button
         android:id="@+id/btnBuscar"
-        android:layout_width="0dp"
-        android:layout_height="0dp"
+        android:layout_width="96dp"
+        android:layout_height="39dp"
         android:layout_marginEnd="5dp"
-        android:textColor="@color/black"
         android:backgroundTint="@color/white"
-        android:text="Search"
+        android:text="Find"
+        android:textColor="@color/black"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toStartOf="@+id/btnAgregar"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="@+id/btnAgregar" />
+        app:layout_constraintTop_toBottomOf="@+id/textView4" />
 
     <Button
         android:id="@+id/btnActualizar"
         android:layout_width="95dp"
         android:layout_height="0dp"
-        android:layout_marginEnd="111dp"
-        android:textColor="@color/black"
+        android:layout_marginStart="108dp"
+        android:layout_marginTop="13dp"
+        android:layout_marginEnd="108dp"
+        android:layout_marginBottom="1dp"
         android:backgroundTint="@color/white"
-        android:layout_marginBottom="2dp"
         android:text="Update"
+        android:textColor="@color/black"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent" />
+        app:layout_constraintEnd_toEndOf="@+id/btnEliminar"
+        app:layout_constraintStart_toStartOf="@+id/cmbTipo"
+        app:layout_constraintTop_toBottomOf="@+id/txtDescripcion" />
 
     <Button
         android:id="@+id/btnEliminar"
-        android:layout_width="0dp"
+        android:layout_width="97dp"
         android:layout_height="0dp"
-        android:layout_marginStart="11dp"
         android:layout_marginTop="1dp"
-        android:textColor="@color/black"
+        android:layout_marginEnd="2dp"
         android:backgroundTint="@color/white"
-        android:layout_marginEnd="3dp"
         android:text="Delete"
+        android:textColor="@color/black"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toEndOf="@+id/btnActualizar"
         app:layout_constraintTop_toTopOf="@+id/btnActualizar" />
 
     <Button
         android:id="@+id/btnAgregar"
-        android:layout_width="0dp"
+        android:layout_width="90dp"
         android:layout_height="0dp"
-        android:layout_marginStart="14dp"
-        android:layout_marginEnd="14dp"
-        android:textColor="@color/black"
+        android:layout_marginStart="102dp"
+        android:layout_marginEnd="109dp"
         android:backgroundTint="@color/white"
         android:text="Add"
+        android:textColor="@color/black"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toStartOf="@+id/btnActualizar"
-        app:layout_constraintStart_toEndOf="@+id/textView2"
+        app:layout_constraintEnd_toEndOf="@+id/btnActualizar"
+        app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="@+id/btnActualizar" />
-
-    <androidx.constraintlayout.widget.Barrier
-        android:id="@+id/barrier2"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        app:barrierDirection="top"
-        app:constraint_referenced_ids="cmbTipo,txtChasis,txtVIN,cmbColor,txtMotor,cmbMarca,txtModelo" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>

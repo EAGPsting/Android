@@ -21,7 +21,12 @@ class PrincipalActivity : AppCompatActivity() {
         val btnTipo : Button = findViewById(R.id.btnTipo)
         val btnColor : Button = findViewById(R.id.btnColor)
         val btnAutomovil : Button = findViewById(R.id.btnAutomovil)
+        val btnUsuario : Button = findViewById(R.id.btnUsuario)
 
+        btnUsuario.setOnClickListener {
+            val intent = Intent(this,UsuarioActivity::class.java)
+            startActivity(intent)
+        }
         btnMarcas.setOnClickListener {
             val intent = Intent(this,MarcasActivity::class.java)
             startActivity(intent)

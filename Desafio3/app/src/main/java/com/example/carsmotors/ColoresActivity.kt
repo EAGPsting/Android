@@ -113,7 +113,7 @@ class ColoresActivity : AppCompatActivity() , View.OnClickListener {
                 }
             } else if (view === btnBuscar) {
                 if (vericarFormulario("buscar")) {
-                    val descripcion = managerColores!!.searchID(idcolores.toInt())
+                    val descripcion = managerColores!!.searchID(idcolores)
                     Toast.makeText(this, "Color " + descripcion,
                         Toast.LENGTH_LONG).show()
                 }

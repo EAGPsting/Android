@@ -73,14 +73,14 @@ class Colores(context: Context) {
         return cursor!!.getInt(0)
     }
 
-    fun searchID(id: Int): String?{
+    fun searchID(nombre: String): Int?{
         val columns = arrayOf(COL_ID, COL_DESCRIPCION)
         var cursor: Cursor? = db!!.query(
-            TABLE_NAME_COLORES, columns, "$COL_ID=?", arrayOf(id.toString()),null, null, null
+            TABLE_NAME_COLORES, columns, "$COL_DESCRIPCION=?", arrayOf(nombre.toString()),null, null, null
         )
 
         cursor!!.moveToFirst()
-        return cursor!!.getString(1)
+        return cursor!!.getInt(0)
     }
     fun deleteColor(id: Int){
         db!!.delete(Colores.TABLE_NAME_COLORES, "${Colores.COL_ID}=?", arrayOf(id.toString()))

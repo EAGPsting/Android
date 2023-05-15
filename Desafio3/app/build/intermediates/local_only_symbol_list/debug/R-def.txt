@@ -19,7 +19,6 @@ id action_option3
 id action_option4
 id action_option5
 id action_sign_out
-id barrier2
 id btnActualizar
 id btnAgregar
 id btnAutomovil
@@ -27,15 +26,13 @@ id btnBuscar
 id btnBuscar2
 id btnColor
 id btnEliminar
-<<<<<<< Updated upstream
 id btnMarcas
 id btnTipo
-=======
+id btnUsuario
 id button_add
 id button_delete
 id button_search
 id button_update
->>>>>>> Stashed changes
 id cmbColor
 id cmbMarca
 id cmbTipo

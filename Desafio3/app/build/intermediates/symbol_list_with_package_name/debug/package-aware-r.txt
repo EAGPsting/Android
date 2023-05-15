@@ -2604,7 +2604,6 @@ id autoComplete
 id autoCompleteToEnd
 id autoCompleteToStart
 id barrier
-id barrier2
 id baseline
 id beginOnFirstDraw
 id beginning
@@ -2624,6 +2623,7 @@ id btnColor
 id btnEliminar
 id btnMarcas
 id btnTipo
+id btnUsuario
 id buttonPanel
 id button_add
 id button_delete
